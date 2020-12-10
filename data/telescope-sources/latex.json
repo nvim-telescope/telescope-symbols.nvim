@@ -1,0 +1,9786 @@
+[
+  [
+    "\\mathexclam",
+    "exclamation mark"
+  ],
+  [
+    "\\mathoctothorpe",
+    "number sign"
+  ],
+  [
+    "\\mathdollar",
+    "dollar sign"
+  ],
+  [
+    "\\mathpercent",
+    "percent sign"
+  ],
+  [
+    "\\mathampersand",
+    "ampersand"
+  ],
+  [
+    "\\lparen",
+    "left parenthesis"
+  ],
+  [
+    "\\rparen",
+    "right parenthesis"
+  ],
+  [
+    "\\mathplus",
+    "plus sign b:"
+  ],
+  [
+    "\\mathcomma",
+    "comma"
+  ],
+  [
+    "\\mathperiod",
+    "full stop, period"
+  ],
+  [
+    "\\mathslash",
+    "solidus"
+  ],
+  [
+    "\\mathcolon",
+    "colon"
+  ],
+  [
+    "\\mathsemicolon",
+    "semicolon p:"
+  ],
+  [
+    "\\less",
+    "less-than sign r:"
+  ],
+  [
+    "\\equal",
+    "equals sign r:"
+  ],
+  [
+    "\\greater",
+    "greater-than sign r:"
+  ],
+  [
+    "\\mathquestion",
+    "question mark"
+  ],
+  [
+    "\\mathatsign",
+    "commercial at"
+  ],
+  [
+    "\\lbrack",
+    "left square bracket"
+  ],
+  [
+    "\\backslash",
+    "reverse solidus"
+  ],
+  [
+    "\\rbrack",
+    "right square bracket"
+  ],
+  [
+    "\\lbrace",
+    "left curly bracket"
+  ],
+  [
+    "\\vert",
+    "vertical bar"
+  ],
+  [
+    "\\rbrace",
+    "right curly bracket"
+  ],
+  [
+    "\\mathsterling",
+    "pound sign"
+  ],
+  [
+    "\\mathyen",
+    "yen sign"
+  ],
+  [
+    "\\mathsection",
+    "section symbol"
+  ],
+  [
+    "\\neg",
+    "/neg /lnot not sign"
+  ],
+  [
+    "\\pm",
+    "plus-or-minus sign"
+  ],
+  [
+    "\\mathparagraph",
+    "paragraph symbol"
+  ],
+  [
+    "\\cdotp",
+    "/centerdot b: middle dot"
+  ],
+  [
+    "\\times",
+    "multiply sign"
+  ],
+  [
+    "\\matheth",
+    "eth"
+  ],
+  [
+    "\\div",
+    "divide sign"
+  ],
+  [
+    "\\Zbar",
+    "impedance (latin capital letter z with stroke)"
+  ],
+  [
+    "\\grave",
+    "grave accent"
+  ],
+  [
+    "\\acute",
+    "acute accent"
+  ],
+  [
+    "\\hat",
+    "circumflex accent"
+  ],
+  [
+    "\\widehat",
+    "circumflex accent"
+  ],
+  [
+    "\\tilde",
+    "tilde"
+  ],
+  [
+    "\\widetilde",
+    "tilde"
+  ],
+  [
+    "\\bar",
+    "macron"
+  ],
+  [
+    "\\overbar",
+    "overbar embellishment"
+  ],
+  [
+    "\\wideoverbar",
+    "stretchy overbar embellishment"
+  ],
+  [
+    "\\breve",
+    "breve"
+  ],
+  [
+    "\\widebreve",
+    "stretchy breve"
+  ],
+  [
+    "\\dot",
+    "dot above"
+  ],
+  [
+    "\\ddot",
+    "dieresis"
+  ],
+  [
+    "\\ovhook",
+    "combining hook above"
+  ],
+  [
+    "\\ocirc",
+    "ring"
+  ],
+  [
+    "\\check",
+    "caron"
+  ],
+  [
+    "\\widecheck",
+    "stretchy caron"
+  ],
+  [
+    "\\candra",
+    "candrabindu (non-spacing)"
+  ],
+  [
+    "\\oturnedcomma",
+    "combining turned comma above"
+  ],
+  [
+    "\\ocommatopright",
+    "combining comma above right"
+  ],
+  [
+    "\\droang",
+    "left angle above (non-spacing)"
+  ],
+  [
+    "\\wideutilde",
+    "under tilde accent (multiple characters and non-spacing)"
+  ],
+  [
+    "\\mathunderbar",
+    "combining low line"
+  ],
+  [
+    "\\notaccent",
+    "combining long solidus overlay"
+  ],
+  [
+    "\\underleftrightarrow",
+    "underleftrightarrow accent"
+  ],
+  [
+    "\\mupAlpha",
+    "capital alpha, greek"
+  ],
+  [
+    "\\mupBeta",
+    "capital beta, greek"
+  ],
+  [
+    "\\mupGamma",
+    "capital gamma, greek"
+  ],
+  [
+    "\\mupDelta",
+    "capital delta, greek"
+  ],
+  [
+    "\\mupEpsilon",
+    "capital epsilon, greek"
+  ],
+  [
+    "\\mupZeta",
+    "capital zeta, greek"
+  ],
+  [
+    "\\mupEta",
+    "capital eta, greek"
+  ],
+  [
+    "\\mupTheta",
+    "capital theta, greek"
+  ],
+  [
+    "\\mupIota",
+    "capital iota, greek"
+  ],
+  [
+    "\\mupKappa",
+    "capital kappa, greek"
+  ],
+  [
+    "\\mupLambda",
+    "capital lambda, greek"
+  ],
+  [
+    "\\mupMu",
+    "capital mu, greek"
+  ],
+  [
+    "\\mupNu",
+    "capital nu, greek"
+  ],
+  [
+    "\\mupXi",
+    "capital xi, greek"
+  ],
+  [
+    "\\mupOmicron",
+    "capital omicron, greek"
+  ],
+  [
+    "\\mupPi",
+    "capital pi, greek"
+  ],
+  [
+    "\\mupRho",
+    "capital rho, greek"
+  ],
+  [
+    "\\mupSigma",
+    "capital sigma, greek"
+  ],
+  [
+    "\\mupTau",
+    "capital tau, greek"
+  ],
+  [
+    "\\mupUpsilon",
+    "capital upsilon, greek"
+  ],
+  [
+    "\\mupPhi",
+    "capital phi, greek"
+  ],
+  [
+    "\\mupChi",
+    "capital chi, greek"
+  ],
+  [
+    "\\mupPsi",
+    "capital psi, greek"
+  ],
+  [
+    "\\mupOmega",
+    "capital omega, greek"
+  ],
+  [
+    "\\mupalpha",
+    "small alpha, greek"
+  ],
+  [
+    "\\mupbeta",
+    "small beta, greek"
+  ],
+  [
+    "\\mupgamma",
+    "small gamma, greek"
+  ],
+  [
+    "\\mupdelta",
+    "small delta, greek"
+  ],
+  [
+    "\\mupvarepsilon",
+    "rounded small varepsilon, greek"
+  ],
+  [
+    "\\mupzeta",
+    "small zeta, greek"
+  ],
+  [
+    "\\mupeta",
+    "small eta, greek"
+  ],
+  [
+    "\\muptheta",
+    "straight theta, small theta, greek"
+  ],
+  [
+    "\\mupiota",
+    "small iota, greek"
+  ],
+  [
+    "\\mupkappa",
+    "small kappa, greek"
+  ],
+  [
+    "\\muplambda",
+    "small lambda, greek"
+  ],
+  [
+    "\\mupmu",
+    "small mu, greek"
+  ],
+  [
+    "\\mupnu",
+    "small nu, greek"
+  ],
+  [
+    "\\mupxi",
+    "small xi, greek"
+  ],
+  [
+    "\\mupomicron",
+    "small omicron, greek"
+  ],
+  [
+    "\\muppi",
+    "small pi, greek"
+  ],
+  [
+    "\\muprho",
+    "small rho, greek"
+  ],
+  [
+    "\\mupvarsigma",
+    "terminal sigma, greek"
+  ],
+  [
+    "\\mupsigma",
+    "small sigma, greek"
+  ],
+  [
+    "\\muptau",
+    "small tau, greek"
+  ],
+  [
+    "\\mupupsilon",
+    "small upsilon, greek"
+  ],
+  [
+    "\\mupvarphi",
+    "curly or open small phi, greek"
+  ],
+  [
+    "\\mupchi",
+    "small chi, greek"
+  ],
+  [
+    "\\muppsi",
+    "small psi, greek"
+  ],
+  [
+    "\\mupomega",
+    "small omega, greek"
+  ],
+  [
+    "\\mupvartheta",
+    "/vartheta - curly or open theta"
+  ],
+  [
+    "\\mupphi",
+    "/straightphi - small phi, greek"
+  ],
+  [
+    "\\mupvarpi",
+    "rounded small pi (pomega), greek"
+  ],
+  [
+    "\\upDigamma",
+    "capital digamma"
+  ],
+  [
+    "\\updigamma",
+    "old greek small letter digamma"
+  ],
+  [
+    "\\mupvarkappa",
+    "rounded small kappa, greek"
+  ],
+  [
+    "\\mupvarrho",
+    "rounded small rho, greek"
+  ],
+  [
+    "\\mupvarTheta",
+    "greek capital theta symbol"
+  ],
+  [
+    "\\mupepsilon",
+    "greek lunate varepsilon symbol"
+  ],
+  [
+    "\\upbackepsilon",
+    "greek reversed lunate epsilon symbol"
+  ],
+  [
+    "\\mathhyphen",
+    "hyphen"
+  ],
+  [
+    "\\horizbar",
+    "horizontal bar"
+  ],
+  [
+    "\\Vert",
+    "double vertical bar"
+  ],
+  [
+    "\\twolowline",
+    "double low line (spacing)"
+  ],
+  [
+    "\\dagger",
+    "dagger relation"
+  ],
+  [
+    "\\ddagger",
+    "double dagger relation"
+  ],
+  [
+    "\\smblkcircle",
+    "/bullet b: round bullet, filled"
+  ],
+  [
+    "\\enleadertwodots",
+    "double baseline dot (en leader)"
+  ],
+  [
+    "\\unicodeellipsis",
+    "ellipsis (horizontal)"
+  ],
+  [
+    "\\prime",
+    "prime or minute, not superscripted"
+  ],
+  [
+    "\\dprime",
+    "double prime or second, not superscripted"
+  ],
+  [
+    "\\trprime",
+    "triple prime (not superscripted)"
+  ],
+  [
+    "\\backprime",
+    "reverse prime, not superscripted"
+  ],
+  [
+    "\\backdprime",
+    "double reverse prime, not superscripted"
+  ],
+  [
+    "\\backtrprime",
+    "triple reverse prime, not superscripted"
+  ],
+  [
+    "\\caretinsert",
+    "caret (insertion mark)"
+  ],
+  [
+    "\\Exclam",
+    "double exclamation mark"
+  ],
+  [
+    "\\tieconcat",
+    "character tie, z notation sequence concatenation"
+  ],
+  [
+    "\\hyphenbullet",
+    "rectangle, filled (hyphen bullet)"
+  ],
+  [
+    "\\fracslash",
+    "fraction slash"
+  ],
+  [
+    "\\Question",
+    "double question mark"
+  ],
+  [
+    "\\closure",
+    "close up"
+  ],
+  [
+    "\\qprime",
+    "quadruple prime, not superscripted"
+  ],
+  [
+    "\\euro",
+    "euro sign"
+  ],
+  [
+    "\\leftharpoonaccent",
+    "combining left harpoon above"
+  ],
+  [
+    "\\overleftharpoon",
+    "combining left harpoon above"
+  ],
+  [
+    "\\rightharpoonaccent",
+    "combining right harpoon above"
+  ],
+  [
+    "\\overrightharpoon",
+    "combining right harpoon above"
+  ],
+  [
+    "\\vertoverlay",
+    "combining long vertical line overlay"
+  ],
+  [
+    "\\overleftarrow",
+    "combining left arrow above"
+  ],
+  [
+    "\\overrightarrow",
+    "combining left arrow above"
+  ],
+  [
+    "\\vec",
+    "combining right arrow above"
+  ],
+  [
+    "\\dddot",
+    "combining three dots above"
+  ],
+  [
+    "\\ddddot",
+    "combining four dots above"
+  ],
+  [
+    "\\enclosecircle",
+    "combining enclosing circle"
+  ],
+  [
+    "\\enclosesquare",
+    "combining enclosing square"
+  ],
+  [
+    "\\enclosediamond",
+    "combining enclosing diamond"
+  ],
+  [
+    "\\overleftrightarrow",
+    "combining left right arrow above"
+  ],
+  [
+    "\\enclosetriangle",
+    "combining enclosing upward pointing triangle"
+  ],
+  [
+    "\\annuity",
+    "combining annuity symbol"
+  ],
+  [
+    "\\threeunderdot",
+    "combining triple underdot"
+  ],
+  [
+    "\\widebridgeabove",
+    "combining wide bridge above"
+  ],
+  [
+    "\\underrightharpoondown",
+    "combining rightwards harpoon with barb downwards"
+  ],
+  [
+    "\\underleftharpoondown",
+    "combining leftwards harpoon with barb downwards"
+  ],
+  [
+    "\\underleftarrow",
+    "combining left arrow below"
+  ],
+  [
+    "\\underrightarrow",
+    "combining right arrow below"
+  ],
+  [
+    "\\asteraccent",
+    "combining asterisk above"
+  ],
+  [
+    "\\BbbC",
+    "/bbb c, open face c"
+  ],
+  [
+    "\\Eulerconst",
+    "euler constant"
+  ],
+  [
+    "\\mscrg",
+    "/scr g, script letter g"
+  ],
+  [
+    "\\mscrH",
+    "hamiltonian (script capital h)"
+  ],
+  [
+    "\\mfrakH",
+    "/frak h, upper case h"
+  ],
+  [
+    "\\BbbH",
+    "/bbb h, open face h"
+  ],
+  [
+    "\\Planckconst",
+    "planck constant"
+  ],
+  [
+    "\\hslash",
+    "/hslash - variant planck's over 2pi"
+  ],
+  [
+    "\\mscrI",
+    "/scr i, script letter i"
+  ],
+  [
+    "\\Im",
+    "imaginary part"
+  ],
+  [
+    "\\mscrL",
+    "lagrangian (script capital l)"
+  ],
+  [
+    "\\ell",
+    "cursive small l"
+  ],
+  [
+    "\\BbbN",
+    "/bbb n, open face n"
+  ],
+  [
+    "\\wp",
+    "weierstrass p"
+  ],
+  [
+    "\\BbbP",
+    "/bbb p, open face p"
+  ],
+  [
+    "\\BbbQ",
+    "/bbb q, open face q"
+  ],
+  [
+    "\\mscrR",
+    "/scr r, script letter r"
+  ],
+  [
+    "\\Re",
+    "real part"
+  ],
+  [
+    "\\BbbR",
+    "/bbb r, open face r"
+  ],
+  [
+    "\\BbbZ",
+    "/bbb z, open face z"
+  ],
+  [
+    "\\mho",
+    "conductance"
+  ],
+  [
+    "\\mfrakZ",
+    "/frak z, upper case z"
+  ],
+  [
+    "\\turnediota",
+    "turned iota"
+  ],
+  [
+    "\\Angstrom",
+    "angstrom capital a, ring"
+  ],
+  [
+    "\\mscrB",
+    "bernoulli function (script capital b)"
+  ],
+  [
+    "\\mfrakC",
+    "black-letter capital c"
+  ],
+  [
+    "\\mscre",
+    "/scr e, script letter e"
+  ],
+  [
+    "\\mscrE",
+    "/scr e, script letter e"
+  ],
+  [
+    "\\mscrF",
+    "/scr f, script letter f"
+  ],
+  [
+    "\\Finv",
+    "turned capital f"
+  ],
+  [
+    "\\mscrM",
+    "physics m-matrix (script capital m)"
+  ],
+  [
+    "\\mscro",
+    "order of (script small o)"
+  ],
+  [
+    "\\aleph",
+    "aleph, hebrew"
+  ],
+  [
+    "\\beth",
+    "beth, hebrew"
+  ],
+  [
+    "\\gimel",
+    "gimel, hebrew"
+  ],
+  [
+    "\\daleth",
+    "daleth, hebrew"
+  ],
+  [
+    "\\Bbbpi",
+    "double-struck small pi"
+  ],
+  [
+    "\\Bbbgamma",
+    "double-struck small gamma"
+  ],
+  [
+    "\\BbbGamma",
+    "double-struck capital gamma"
+  ],
+  [
+    "\\BbbPi",
+    "double-struck capital pi"
+  ],
+  [
+    "\\Bbbsum",
+    "double-struck n-ary summation"
+  ],
+  [
+    "\\Game",
+    "turned sans-serif capital g"
+  ],
+  [
+    "\\sansLturned",
+    "turned sans-serif capital l"
+  ],
+  [
+    "\\sansLmirrored",
+    "reversed sans-serif capital l"
+  ],
+  [
+    "\\Yup",
+    "turned sans-serif capital y"
+  ],
+  [
+    "\\mitBbbD",
+    "double-struck italic capital d"
+  ],
+  [
+    "\\mitBbbd",
+    "double-struck italic small d"
+  ],
+  [
+    "\\mitBbbe",
+    "double-struck italic small e"
+  ],
+  [
+    "\\mitBbbi",
+    "double-struck italic small i"
+  ],
+  [
+    "\\mitBbbj",
+    "double-struck italic small j"
+  ],
+  [
+    "\\PropertyLine",
+    "property line"
+  ],
+  [
+    "\\upand",
+    "turned ampersand"
+  ],
+  [
+    "\\leftarrow",
+    "/leftarrow /gets a: leftward arrow"
+  ],
+  [
+    "\\uparrow",
+    "upward arrow"
+  ],
+  [
+    "\\rightarrow",
+    "/rightarrow /to a: rightward arrow"
+  ],
+  [
+    "\\downarrow",
+    "downward arrow"
+  ],
+  [
+    "\\leftrightarrow",
+    "left and right arrow"
+  ],
+  [
+    "\\updownarrow",
+    "up and down arrow"
+  ],
+  [
+    "\\nwarrow",
+    "nw pointing arrow"
+  ],
+  [
+    "\\nearrow",
+    "ne pointing arrow"
+  ],
+  [
+    "\\searrow",
+    "se pointing arrow"
+  ],
+  [
+    "\\swarrow",
+    "sw pointing arrow"
+  ],
+  [
+    "\\nleftarrow",
+    "not left arrow"
+  ],
+  [
+    "\\nrightarrow",
+    "not right arrow"
+  ],
+  [
+    "\\leftwavearrow",
+    "left arrow-wavy"
+  ],
+  [
+    "\\rightwavearrow",
+    "right arrow-wavy"
+  ],
+  [
+    "\\twoheadleftarrow",
+    "left two-headed arrow"
+  ],
+  [
+    "\\twoheaduparrow",
+    "up two-headed arrow"
+  ],
+  [
+    "\\twoheadrightarrow",
+    "right two-headed arrow"
+  ],
+  [
+    "\\twoheaddownarrow",
+    "down two-headed arrow"
+  ],
+  [
+    "\\leftarrowtail",
+    "left arrow-tailed"
+  ],
+  [
+    "\\rightarrowtail",
+    "right arrow-tailed"
+  ],
+  [
+    "\\mapsfrom",
+    "maps to, leftward"
+  ],
+  [
+    "\\mapsup",
+    "maps to, upward"
+  ],
+  [
+    "\\mapsto",
+    "maps to, rightward"
+  ],
+  [
+    "\\mapsdown",
+    "maps to, downward"
+  ],
+  [
+    "\\updownarrowbar",
+    "up down arrow with base (perpendicular)"
+  ],
+  [
+    "\\hookleftarrow",
+    "left arrow-hooked"
+  ],
+  [
+    "\\hookrightarrow",
+    "right arrow-hooked"
+  ],
+  [
+    "\\looparrowleft",
+    "left arrow-looped"
+  ],
+  [
+    "\\looparrowright",
+    "right arrow-looped"
+  ],
+  [
+    "\\leftrightsquigarrow",
+    "left and right arr-wavy"
+  ],
+  [
+    "\\nleftrightarrow",
+    "not left and right arrow"
+  ],
+  [
+    "\\downzigzagarrow",
+    "downwards zigzag arrow"
+  ],
+  [
+    "\\Lsh",
+    "/lsh a:"
+  ],
+  [
+    "\\Rsh",
+    "/rsh a:"
+  ],
+  [
+    "\\Ldsh",
+    "left down angled arrow"
+  ],
+  [
+    "\\Rdsh",
+    "right down angled arrow"
+  ],
+  [
+    "\\linefeed",
+    "rightwards arrow with corner downwards"
+  ],
+  [
+    "\\carriagereturn",
+    "downwards arrow with corner leftward = carriage return"
+  ],
+  [
+    "\\curvearrowleft",
+    "left curved arrow"
+  ],
+  [
+    "\\curvearrowright",
+    "right curved arrow"
+  ],
+  [
+    "\\barovernorthwestarrow",
+    "north west arrow to long bar"
+  ],
+  [
+    "\\barleftarrowrightarrowbar",
+    "leftwards arrow to bar over rightwards arrow to bar"
+  ],
+  [
+    "\\acwopencirclearrow",
+    "anticlockwise open circle arrow"
+  ],
+  [
+    "\\cwopencirclearrow",
+    "clockwise open circle arrow"
+  ],
+  [
+    "\\leftharpoonup",
+    "left harpoon-up"
+  ],
+  [
+    "\\leftharpoondown",
+    "left harpoon-down"
+  ],
+  [
+    "\\upharpoonright",
+    "/upharpoonright /restriction a: up harpoon-right"
+  ],
+  [
+    "\\upharpoonleft",
+    "up harpoon-left"
+  ],
+  [
+    "\\rightharpoonup",
+    "right harpoon-up"
+  ],
+  [
+    "\\rightharpoondown",
+    "right harpoon-down"
+  ],
+  [
+    "\\downharpoonright",
+    "down harpoon-right"
+  ],
+  [
+    "\\downharpoonleft",
+    "down harpoon-left"
+  ],
+  [
+    "\\rightleftarrows",
+    "right arrow over left arrow"
+  ],
+  [
+    "\\updownarrows",
+    "up arrow, down arrow"
+  ],
+  [
+    "\\leftrightarrows",
+    "left arrow over right arrow"
+  ],
+  [
+    "\\leftleftarrows",
+    "two left arrows"
+  ],
+  [
+    "\\upuparrows",
+    "two up arrows"
+  ],
+  [
+    "\\rightrightarrows",
+    "two right arrows"
+  ],
+  [
+    "\\downdownarrows",
+    "two down arrows"
+  ],
+  [
+    "\\leftrightharpoons",
+    "left harpoon over right"
+  ],
+  [
+    "\\rightleftharpoons",
+    "right harpoon over left"
+  ],
+  [
+    "\\nLeftarrow",
+    "not implied by"
+  ],
+  [
+    "\\nLeftrightarrow",
+    "not left and right double arrows"
+  ],
+  [
+    "\\nRightarrow",
+    "not implies"
+  ],
+  [
+    "\\Leftarrow",
+    "is implied by"
+  ],
+  [
+    "\\Uparrow",
+    "up double arrow"
+  ],
+  [
+    "\\Rightarrow",
+    "implies"
+  ],
+  [
+    "\\Downarrow",
+    "down double arrow"
+  ],
+  [
+    "\\Leftrightarrow",
+    "left and right double arrow"
+  ],
+  [
+    "\\Updownarrow",
+    "up and down double arrow"
+  ],
+  [
+    "\\Nwarrow",
+    "nw pointing double arrow"
+  ],
+  [
+    "\\Nearrow",
+    "ne pointing double arrow"
+  ],
+  [
+    "\\Searrow",
+    "se pointing double arrow"
+  ],
+  [
+    "\\Swarrow",
+    "sw pointing double arrow"
+  ],
+  [
+    "\\Lleftarrow",
+    "left triple arrow"
+  ],
+  [
+    "\\Rrightarrow",
+    "right triple arrow"
+  ],
+  [
+    "\\leftsquigarrow",
+    "leftwards squiggle arrow"
+  ],
+  [
+    "\\rightsquigarrow",
+    "rightwards squiggle arrow"
+  ],
+  [
+    "\\nHuparrow",
+    "upwards arrow with double stroke"
+  ],
+  [
+    "\\nHdownarrow",
+    "downwards arrow with double stroke"
+  ],
+  [
+    "\\leftdasharrow",
+    "leftwards dashed arrow"
+  ],
+  [
+    "\\updasharrow",
+    "upwards dashed arrow"
+  ],
+  [
+    "\\rightdasharrow",
+    "rightwards dashed arrow"
+  ],
+  [
+    "\\downdasharrow",
+    "downwards dashed arrow"
+  ],
+  [
+    "\\barleftarrow",
+    "leftwards arrow to bar"
+  ],
+  [
+    "\\rightarrowbar",
+    "rightwards arrow to bar"
+  ],
+  [
+    "\\leftwhitearrow",
+    "leftwards white arrow"
+  ],
+  [
+    "\\upwhitearrow",
+    "upwards white arrow"
+  ],
+  [
+    "\\rightwhitearrow",
+    "rightwards white arrow"
+  ],
+  [
+    "\\downwhitearrow",
+    "downwards white arrow"
+  ],
+  [
+    "\\whitearrowupfrombar",
+    "upwards white arrow from bar"
+  ],
+  [
+    "\\circleonrightarrow",
+    "right arrow with small circle"
+  ],
+  [
+    "\\downuparrows",
+    "downwards arrow leftwards of upwards arrow"
+  ],
+  [
+    "\\rightthreearrows",
+    "three rightwards arrows"
+  ],
+  [
+    "\\nvleftarrow",
+    "leftwards arrow with vertical stroke"
+  ],
+  [
+    "\\nvrightarrow",
+    "rightwards arrow with vertical stroke"
+  ],
+  [
+    "\\nvleftrightarrow",
+    "left right arrow with vertical stroke"
+  ],
+  [
+    "\\nVleftarrow",
+    "leftwards arrow with double vertical stroke"
+  ],
+  [
+    "\\nVrightarrow",
+    "rightwards arrow with double vertical stroke"
+  ],
+  [
+    "\\nVleftrightarrow",
+    "left right arrow with double vertical stroke"
+  ],
+  [
+    "\\leftarrowtriangle",
+    "leftwards open-headed arrow"
+  ],
+  [
+    "\\rightarrowtriangle",
+    "rightwards open-headed arrow"
+  ],
+  [
+    "\\leftrightarrowtriangle",
+    "left right open-headed arrow"
+  ],
+  [
+    "\\forall",
+    "for all"
+  ],
+  [
+    "\\complement",
+    "complement sign"
+  ],
+  [
+    "\\partial",
+    "partial differential"
+  ],
+  [
+    "\\exists",
+    "at least one exists"
+  ],
+  [
+    "\\nexists",
+    "negated exists"
+  ],
+  [
+    "\\varnothing",
+    "circle, slash"
+  ],
+  [
+    "\\increment",
+    "laplacian (delta; nabla\\string^2)"
+  ],
+  [
+    "\\nabla",
+    "nabla, del, hamilton operator"
+  ],
+  [
+    "\\in",
+    "set membership, variant"
+  ],
+  [
+    "\\notin",
+    "negated set membership"
+  ],
+  [
+    "\\smallin",
+    "set membership (small set membership)"
+  ],
+  [
+    "\\ni",
+    "contains, variant"
+  ],
+  [
+    "\\nni",
+    "negated contains, variant"
+  ],
+  [
+    "\\smallni",
+    "/ni /owns r: contains (small contains as member)"
+  ],
+  [
+    "\\QED",
+    "end of proof"
+  ],
+  [
+    "\\prod",
+    "product operator"
+  ],
+  [
+    "\\coprod",
+    "coproduct operator"
+  ],
+  [
+    "\\sum",
+    "summation operator"
+  ],
+  [
+    "\\minus",
+    "minus sign"
+  ],
+  [
+    "\\mp",
+    "minus-or-plus sign"
+  ],
+  [
+    "\\dotplus",
+    "plus sign, dot above"
+  ],
+  [
+    "\\divslash",
+    "division slash"
+  ],
+  [
+    "\\smallsetminus",
+    "small set minus (cf. reverse solidus)"
+  ],
+  [
+    "\\ast",
+    "centered asterisk"
+  ],
+  [
+    "\\vysmwhtcircle",
+    "composite function (small circle)"
+  ],
+  [
+    "\\vysmblkcircle",
+    "bullet operator"
+  ],
+  [
+    "\\sqrt",
+    "radical"
+  ],
+  [
+    "\\surd",
+    "radical"
+  ],
+  [
+    "\\cuberoot",
+    "cube root"
+  ],
+  [
+    "\\fourthroot",
+    "fourth root"
+  ],
+  [
+    "\\propto",
+    "is proportional to"
+  ],
+  [
+    "\\infty",
+    "infinity"
+  ],
+  [
+    "\\rightangle",
+    "right (90 degree) angle"
+  ],
+  [
+    "\\angle",
+    "angle"
+  ],
+  [
+    "\\measuredangle",
+    "angle-measured"
+  ],
+  [
+    "\\sphericalangle",
+    "angle-spherical"
+  ],
+  [
+    "\\mid",
+    "/mid r:"
+  ],
+  [
+    "\\nmid",
+    "negated mid"
+  ],
+  [
+    "\\parallel",
+    "parallel"
+  ],
+  [
+    "\\nparallel",
+    "not parallel"
+  ],
+  [
+    "\\wedge",
+    "/wedge /land b: logical and"
+  ],
+  [
+    "\\vee",
+    "/vee /lor b: logical or"
+  ],
+  [
+    "\\cap",
+    "intersection"
+  ],
+  [
+    "\\cup",
+    "union or logical sum"
+  ],
+  [
+    "\\int",
+    "integral operator"
+  ],
+  [
+    "\\iint",
+    "double integral operator"
+  ],
+  [
+    "\\iiint",
+    "triple integral operator"
+  ],
+  [
+    "\\oint",
+    "contour integral operator"
+  ],
+  [
+    "\\oiint",
+    "double contour integral operator"
+  ],
+  [
+    "\\oiiint",
+    "triple contour integral operator"
+  ],
+  [
+    "\\intclockwise",
+    "clockwise integral"
+  ],
+  [
+    "\\varointclockwise",
+    "contour integral, clockwise"
+  ],
+  [
+    "\\ointctrclockwise",
+    "contour integral, anticlockwise"
+  ],
+  [
+    "\\therefore",
+    "therefore"
+  ],
+  [
+    "\\because",
+    "because"
+  ],
+  [
+    "\\mathratio",
+    "ratio"
+  ],
+  [
+    "\\Colon",
+    "two colons"
+  ],
+  [
+    "\\dotminus",
+    "minus sign, dot above"
+  ],
+  [
+    "\\dashcolon",
+    "excess (-:)"
+  ],
+  [
+    "\\dotsminusdots",
+    "minus with four dots, geometric properties"
+  ],
+  [
+    "\\kernelcontraction",
+    "homothetic"
+  ],
+  [
+    "\\sim",
+    "similar"
+  ],
+  [
+    "\\backsim",
+    "reverse similar"
+  ],
+  [
+    "\\invlazys",
+    "most positive [inverted lazy s]"
+  ],
+  [
+    "\\sinewave",
+    "sine wave"
+  ],
+  [
+    "\\wr",
+    "wreath product"
+  ],
+  [
+    "\\nsim",
+    "not similar"
+  ],
+  [
+    "\\eqsim",
+    "equals, similar"
+  ],
+  [
+    "\\simeq",
+    "similar, equals"
+  ],
+  [
+    "\\nsime",
+    "not similar, equals"
+  ],
+  [
+    "\\sime",
+    "similar, equals (alias)"
+  ],
+  [
+    "\\nsimeq",
+    "not similar, equals (alias)"
+  ],
+  [
+    "\\cong",
+    "congruent with"
+  ],
+  [
+    "\\simneqq",
+    "similar, not equals [vert only for 9573 entity]"
+  ],
+  [
+    "\\ncong",
+    "not congruent with"
+  ],
+  [
+    "\\approx",
+    "approximate"
+  ],
+  [
+    "\\napprox",
+    "not approximate"
+  ],
+  [
+    "\\approxeq",
+    "approximate, equals"
+  ],
+  [
+    "\\approxident",
+    "approximately identical to"
+  ],
+  [
+    "\\backcong",
+    "all equal to"
+  ],
+  [
+    "\\asymp",
+    "asymptotically equal to"
+  ],
+  [
+    "\\Bumpeq",
+    "bumpy equals"
+  ],
+  [
+    "\\bumpeq",
+    "bumpy equals, equals"
+  ],
+  [
+    "\\doteq",
+    "equals, single dot above"
+  ],
+  [
+    "\\Doteq",
+    "/doteqdot /doteq r: equals, even dots"
+  ],
+  [
+    "\\fallingdotseq",
+    "equals, falling dots"
+  ],
+  [
+    "\\risingdotseq",
+    "equals, rising dots"
+  ],
+  [
+    "\\coloneq",
+    "colon, equals"
+  ],
+  [
+    "\\eqcolon",
+    "equals, colon"
+  ],
+  [
+    "\\eqcirc",
+    "circle on equals sign"
+  ],
+  [
+    "\\circeq",
+    "circle, equals"
+  ],
+  [
+    "\\arceq",
+    "arc, equals; corresponds to"
+  ],
+  [
+    "\\wedgeq",
+    "corresponds to (wedge, equals)"
+  ],
+  [
+    "\\veeeq",
+    "logical or, equals"
+  ],
+  [
+    "\\stareq",
+    "star equals"
+  ],
+  [
+    "\\triangleq",
+    "triangle, equals"
+  ],
+  [
+    "\\eqdef",
+    "equals by definition"
+  ],
+  [
+    "\\measeq",
+    "measured by (m over equals)"
+  ],
+  [
+    "\\questeq",
+    "equal with questionmark"
+  ],
+  [
+    "\\ne",
+    "/ne /neq r: not equal"
+  ],
+  [
+    "\\equiv",
+    "identical with"
+  ],
+  [
+    "\\nequiv",
+    "not identical with"
+  ],
+  [
+    "\\Equiv",
+    "strict equivalence (4 lines)"
+  ],
+  [
+    "\\leq",
+    "/leq /le r: less-than-or-equal"
+  ],
+  [
+    "\\geq",
+    "/geq /ge r: greater-than-or-equal"
+  ],
+  [
+    "\\leqq",
+    "less, double equals"
+  ],
+  [
+    "\\geqq",
+    "greater, double equals"
+  ],
+  [
+    "\\lneqq",
+    "less, not double equals"
+  ],
+  [
+    "\\gneqq",
+    "greater, not double equals"
+  ],
+  [
+    "\\ll",
+    "much less than, type 2"
+  ],
+  [
+    "\\gg",
+    "much greater than, type 2"
+  ],
+  [
+    "\\between",
+    "between"
+  ],
+  [
+    "\\nasymp",
+    "not asymptotically equal to"
+  ],
+  [
+    "\\nless",
+    "not less-than"
+  ],
+  [
+    "\\ngtr",
+    "not greater-than"
+  ],
+  [
+    "\\nleq",
+    "not less-than-or-equal"
+  ],
+  [
+    "\\ngeq",
+    "not greater-than-or-equal"
+  ],
+  [
+    "\\lesssim",
+    "less, similar"
+  ],
+  [
+    "\\gtrsim",
+    "greater, similar"
+  ],
+  [
+    "\\nlesssim",
+    "not less, similar"
+  ],
+  [
+    "\\ngtrsim",
+    "not greater, similar"
+  ],
+  [
+    "\\lessgtr",
+    "less, greater"
+  ],
+  [
+    "\\gtrless",
+    "greater, less"
+  ],
+  [
+    "\\nlessgtr",
+    "not less, greater"
+  ],
+  [
+    "\\ngtrless",
+    "not greater, less"
+  ],
+  [
+    "\\prec",
+    "precedes"
+  ],
+  [
+    "\\succ",
+    "succeeds"
+  ],
+  [
+    "\\preccurlyeq",
+    "precedes, curly equals"
+  ],
+  [
+    "\\succcurlyeq",
+    "succeeds, curly equals"
+  ],
+  [
+    "\\precsim",
+    "precedes, similar"
+  ],
+  [
+    "\\succsim",
+    "succeeds, similar"
+  ],
+  [
+    "\\nprec",
+    "not precedes"
+  ],
+  [
+    "\\nsucc",
+    "not succeeds"
+  ],
+  [
+    "\\subset",
+    "subset or is implied by"
+  ],
+  [
+    "\\supset",
+    "superset or implies"
+  ],
+  [
+    "\\nsubset",
+    "not subset, variant [slash negation]"
+  ],
+  [
+    "\\nsupset",
+    "not superset, variant [slash negation]"
+  ],
+  [
+    "\\subseteq",
+    "subset, equals"
+  ],
+  [
+    "\\supseteq",
+    "superset, equals"
+  ],
+  [
+    "\\nsubseteq",
+    "not subset, equals"
+  ],
+  [
+    "\\nsupseteq",
+    "not superset, equals"
+  ],
+  [
+    "\\subsetneq",
+    "subset, not equals"
+  ],
+  [
+    "\\supsetneq",
+    "superset, not equals"
+  ],
+  [
+    "\\cupleftarrow",
+    "multiset"
+  ],
+  [
+    "\\cupdot",
+    "union, with dot"
+  ],
+  [
+    "\\uplus",
+    "plus sign in union"
+  ],
+  [
+    "\\sqsubset",
+    "square subset"
+  ],
+  [
+    "\\sqsupset",
+    "square superset"
+  ],
+  [
+    "\\sqsubseteq",
+    "square subset, equals"
+  ],
+  [
+    "\\sqsupseteq",
+    "square superset, equals"
+  ],
+  [
+    "\\sqcap",
+    "square intersection"
+  ],
+  [
+    "\\sqcup",
+    "square union"
+  ],
+  [
+    "\\oplus",
+    "plus sign in circle"
+  ],
+  [
+    "\\ominus",
+    "minus sign in circle"
+  ],
+  [
+    "\\otimes",
+    "multiply sign in circle"
+  ],
+  [
+    "\\oslash",
+    "solidus in circle"
+  ],
+  [
+    "\\odot",
+    "middle dot in circle"
+  ],
+  [
+    "\\circledcirc",
+    "small circle in circle"
+  ],
+  [
+    "\\circledast",
+    "asterisk in circle"
+  ],
+  [
+    "\\circledequal",
+    "equal in circle"
+  ],
+  [
+    "\\circleddash",
+    "hyphen in circle"
+  ],
+  [
+    "\\boxplus",
+    "plus sign in box"
+  ],
+  [
+    "\\boxminus",
+    "minus sign in box"
+  ],
+  [
+    "\\boxtimes",
+    "multiply sign in box"
+  ],
+  [
+    "\\boxdot",
+    "/dotsquare /boxdot b: small dot in box"
+  ],
+  [
+    "\\vdash",
+    "vertical, dash"
+  ],
+  [
+    "\\dashv",
+    "dash, vertical"
+  ],
+  [
+    "\\top",
+    "top"
+  ],
+  [
+    "\\bot",
+    "bottom"
+  ],
+  [
+    "\\assert",
+    "assertion (vertical, short dash)"
+  ],
+  [
+    "\\models",
+    "models (vertical, short double dash)"
+  ],
+  [
+    "\\vDash",
+    "vertical, double dash"
+  ],
+  [
+    "\\Vdash",
+    "double vertical, dash"
+  ],
+  [
+    "\\Vvdash",
+    "triple vertical, dash"
+  ],
+  [
+    "\\VDash",
+    "double vert, double dash"
+  ],
+  [
+    "\\nvdash",
+    "not vertical, dash"
+  ],
+  [
+    "\\nvDash",
+    "not vertical, double dash"
+  ],
+  [
+    "\\nVdash",
+    "not double vertical, dash"
+  ],
+  [
+    "\\nVDash",
+    "not double vert, double dash"
+  ],
+  [
+    "\\prurel",
+    "element precedes under relation"
+  ],
+  [
+    "\\scurel",
+    "succeeds under relation"
+  ],
+  [
+    "\\vartriangleleft",
+    "left triangle, open, variant"
+  ],
+  [
+    "\\vartriangleright",
+    "right triangle, open, variant"
+  ],
+  [
+    "\\trianglelefteq",
+    "left triangle, equals"
+  ],
+  [
+    "\\trianglerighteq",
+    "right triangle, equals"
+  ],
+  [
+    "\\origof",
+    "original of"
+  ],
+  [
+    "\\imageof",
+    "image of"
+  ],
+  [
+    "\\multimap",
+    "/multimap a:"
+  ],
+  [
+    "\\hermitmatrix",
+    "hermitian conjugate matrix"
+  ],
+  [
+    "\\intercal",
+    "intercal"
+  ],
+  [
+    "\\veebar",
+    "logical or, bar below (large vee); exclusive disjunction"
+  ],
+  [
+    "\\barwedge",
+    "bar, wedge (large wedge)"
+  ],
+  [
+    "\\barvee",
+    "bar, vee (large vee)"
+  ],
+  [
+    "\\measuredrightangle",
+    "right angle-measured [with arc]"
+  ],
+  [
+    "\\varlrtriangle",
+    "right triangle"
+  ],
+  [
+    "\\bigwedge",
+    "logical and operator"
+  ],
+  [
+    "\\bigvee",
+    "logical or operator"
+  ],
+  [
+    "\\bigcap",
+    "intersection operator"
+  ],
+  [
+    "\\bigcup",
+    "union operator"
+  ],
+  [
+    "\\smwhtdiamond",
+    "white diamond"
+  ],
+  [
+    "\\cdot",
+    "small middle dot"
+  ],
+  [
+    "\\star",
+    "small star, filled, low"
+  ],
+  [
+    "\\divideontimes",
+    "division on times"
+  ],
+  [
+    "\\bowtie",
+    "bowtie"
+  ],
+  [
+    "\\ltimes",
+    "times sign, left closed"
+  ],
+  [
+    "\\rtimes",
+    "times sign, right closed"
+  ],
+  [
+    "\\leftthreetimes",
+    "left semidirect product"
+  ],
+  [
+    "\\rightthreetimes",
+    "right semidirect product"
+  ],
+  [
+    "\\backsimeq",
+    "reverse similar, equals"
+  ],
+  [
+    "\\curlyvee",
+    "curly logical or"
+  ],
+  [
+    "\\curlywedge",
+    "curly logical and"
+  ],
+  [
+    "\\Subset",
+    "double subset"
+  ],
+  [
+    "\\Supset",
+    "double superset"
+  ],
+  [
+    "\\Cap",
+    "/cap /doublecap b: double intersection"
+  ],
+  [
+    "\\Cup",
+    "/cup /doublecup b: double union"
+  ],
+  [
+    "\\pitchfork",
+    "pitchfork"
+  ],
+  [
+    "\\equalparallel",
+    "parallel, equal; equal or parallel"
+  ],
+  [
+    "\\lessdot",
+    "less than, with dot"
+  ],
+  [
+    "\\gtrdot",
+    "greater than, with dot"
+  ],
+  [
+    "\\lll",
+    "/ll /lll /llless r: triple less-than"
+  ],
+  [
+    "\\ggg",
+    "/ggg /gg /gggtr r: triple greater-than"
+  ],
+  [
+    "\\lesseqgtr",
+    "less, equals, greater"
+  ],
+  [
+    "\\gtreqless",
+    "greater, equals, less"
+  ],
+  [
+    "\\eqless",
+    "equal-or-less"
+  ],
+  [
+    "\\eqgtr",
+    "equal-or-greater"
+  ],
+  [
+    "\\curlyeqprec",
+    "curly equals, precedes"
+  ],
+  [
+    "\\curlyeqsucc",
+    "curly equals, succeeds"
+  ],
+  [
+    "\\npreccurlyeq",
+    "not precedes, curly equals"
+  ],
+  [
+    "\\nsucccurlyeq",
+    "not succeeds, curly equals"
+  ],
+  [
+    "\\nsqsubseteq",
+    "not, square subset, equals"
+  ],
+  [
+    "\\nsqsupseteq",
+    "not, square superset, equals"
+  ],
+  [
+    "\\sqsubsetneq",
+    "square subset, not equals"
+  ],
+  [
+    "\\sqsupsetneq",
+    "square superset, not equals"
+  ],
+  [
+    "\\lnsim",
+    "less, not similar"
+  ],
+  [
+    "\\gnsim",
+    "greater, not similar"
+  ],
+  [
+    "\\precnsim",
+    "precedes, not similar"
+  ],
+  [
+    "\\succnsim",
+    "succeeds, not similar"
+  ],
+  [
+    "\\nvartriangleleft",
+    "not left triangle"
+  ],
+  [
+    "\\nvartriangleright",
+    "not right triangle"
+  ],
+  [
+    "\\ntrianglelefteq",
+    "not left triangle, equals"
+  ],
+  [
+    "\\ntrianglerighteq",
+    "not right triangle, equals"
+  ],
+  [
+    "\\vdots",
+    "vertical ellipsis"
+  ],
+  [
+    "\\unicodecdots",
+    "three dots, centered"
+  ],
+  [
+    "\\adots",
+    "three dots, ascending"
+  ],
+  [
+    "\\ddots",
+    "three dots, descending"
+  ],
+  [
+    "\\disin",
+    "element of with long horizontal stroke"
+  ],
+  [
+    "\\varisins",
+    "element of with vertical bar at end of horizontal stroke"
+  ],
+  [
+    "\\isins",
+    "small element of with vertical bar at end of horizontal stroke"
+  ],
+  [
+    "\\isindot",
+    "element of with dot above"
+  ],
+  [
+    "\\varisinobar",
+    "element of with overbar"
+  ],
+  [
+    "\\isinobar",
+    "small element of with overbar"
+  ],
+  [
+    "\\isinvb",
+    "element of with underbar"
+  ],
+  [
+    "\\isinE",
+    "element of with two horizontal strokes"
+  ],
+  [
+    "\\nisd",
+    "contains with long horizontal stroke"
+  ],
+  [
+    "\\varnis",
+    "contains with vertical bar at end of horizontal stroke"
+  ],
+  [
+    "\\nis",
+    "small contains with vertical bar at end of horizontal stroke"
+  ],
+  [
+    "\\varniobar",
+    "contains with overbar"
+  ],
+  [
+    "\\niobar",
+    "small contains with overbar"
+  ],
+  [
+    "\\bagmember",
+    "z notation bag membership"
+  ],
+  [
+    "\\diameter",
+    "diameter sign"
+  ],
+  [
+    "\\house",
+    "house"
+  ],
+  [
+    "\\varbarwedge",
+    "/barwedge b: logical and, bar above [projective (bar over small wedge)]"
+  ],
+  [
+    "\\vardoublebarwedge",
+    "/doublebarwedge b: logical and, double bar above [perspective (double bar over small wedge)]"
+  ],
+  [
+    "\\lceil",
+    "left ceiling"
+  ],
+  [
+    "\\rceil",
+    "right ceiling"
+  ],
+  [
+    "\\lfloor",
+    "left floor"
+  ],
+  [
+    "\\rfloor",
+    "right floor"
+  ],
+  [
+    "\\invnot",
+    "reverse not"
+  ],
+  [
+    "\\sqlozenge",
+    "square lozenge"
+  ],
+  [
+    "\\profline",
+    "profile of a line"
+  ],
+  [
+    "\\profsurf",
+    "profile of a surface"
+  ],
+  [
+    "\\viewdata",
+    "viewdata square"
+  ],
+  [
+    "\\turnednot",
+    "turned not sign"
+  ],
+  [
+    "\\ulcorner",
+    "upper left corner"
+  ],
+  [
+    "\\urcorner",
+    "upper right corner"
+  ],
+  [
+    "\\llcorner",
+    "lower left corner"
+  ],
+  [
+    "\\lrcorner",
+    "lower right corner"
+  ],
+  [
+    "\\inttop",
+    "top half integral"
+  ],
+  [
+    "\\intbottom",
+    "bottom half integral"
+  ],
+  [
+    "\\frown",
+    "down curve"
+  ],
+  [
+    "\\smile",
+    "up curve"
+  ],
+  [
+    "\\varhexagonlrbonds",
+    "six carbon ring, corner down, double bonds lower right etc"
+  ],
+  [
+    "\\conictaper",
+    "conical taper "
+  ],
+  [
+    "\\topbot",
+    "top and bottom"
+  ],
+  [
+    "\\obar",
+    "circle with vertical bar"
+  ],
+  [
+    "\\APLnotslash",
+    "solidus, bar through (apl functional symbol slash bar)"
+  ],
+  [
+    "\\APLnotbackslash",
+    "apl functional symbol backslash bar"
+  ],
+  [
+    "\\APLboxupcaret",
+    "boxed up caret"
+  ],
+  [
+    "\\APLboxquestion",
+    "boxed question mark"
+  ],
+  [
+    "\\rangledownzigzagarrow",
+    "right angle with downwards zigzag arrow"
+  ],
+  [
+    "\\hexagon",
+    "horizontal benzene ring [hexagon flat open]"
+  ],
+  [
+    "\\lparenuend",
+    "left parenthesis upper hook"
+  ],
+  [
+    "\\lparenextender",
+    "left parenthesis extension"
+  ],
+  [
+    "\\lparenlend",
+    "left parenthesis lower hook"
+  ],
+  [
+    "\\rparenuend",
+    "right parenthesis upper hook"
+  ],
+  [
+    "\\rparenextender",
+    "right parenthesis extension"
+  ],
+  [
+    "\\rparenlend",
+    "right parenthesis lower hook"
+  ],
+  [
+    "\\lbrackuend",
+    "left square bracket upper corner"
+  ],
+  [
+    "\\lbrackextender",
+    "left square bracket extension"
+  ],
+  [
+    "\\lbracklend",
+    "left square bracket lower corner"
+  ],
+  [
+    "\\rbrackuend",
+    "right square bracket upper corner"
+  ],
+  [
+    "\\rbrackextender",
+    "right square bracket extension"
+  ],
+  [
+    "\\rbracklend",
+    "right square bracket lower corner"
+  ],
+  [
+    "\\lbraceuend",
+    "left curly bracket upper hook"
+  ],
+  [
+    "\\lbracemid",
+    "left curly bracket middle piece"
+  ],
+  [
+    "\\lbracelend",
+    "left curly bracket lower hook"
+  ],
+  [
+    "\\vbraceextender",
+    "curly bracket extension"
+  ],
+  [
+    "\\rbraceuend",
+    "right curly bracket upper hook"
+  ],
+  [
+    "\\rbracemid",
+    "right curly bracket middle piece"
+  ],
+  [
+    "\\rbracelend",
+    "right curly bracket lower hook"
+  ],
+  [
+    "\\intextender",
+    "integral extension"
+  ],
+  [
+    "\\harrowextender",
+    "horizontal line extension (used to extend arrows)"
+  ],
+  [
+    "\\lmoustache",
+    "upper left or lower right curly bracket section"
+  ],
+  [
+    "\\rmoustache",
+    "upper right or lower left curly bracket section"
+  ],
+  [
+    "\\sumtop",
+    "summation top"
+  ],
+  [
+    "\\sumbottom",
+    "summation bottom"
+  ],
+  [
+    "\\overbracket",
+    "top square bracket"
+  ],
+  [
+    "\\underbracket",
+    "bottom square bracket"
+  ],
+  [
+    "\\bbrktbrk",
+    "bottom square bracket over top square bracket"
+  ],
+  [
+    "\\sqrtbottom",
+    "radical symbol bottom"
+  ],
+  [
+    "\\lvboxline",
+    "left vertical box line"
+  ],
+  [
+    "\\rvboxline",
+    "right vertical box line"
+  ],
+  [
+    "\\varcarriagereturn",
+    "return symbol"
+  ],
+  [
+    "\\overparen",
+    "top parenthesis (mathematical use)"
+  ],
+  [
+    "\\underparen",
+    "bottom parenthesis (mathematical use)"
+  ],
+  [
+    "\\overbrace",
+    "top curly bracket (mathematical use)"
+  ],
+  [
+    "\\underbrace",
+    "bottom curly bracket (mathematical use)"
+  ],
+  [
+    "\\obrbrak",
+    "top tortoise shell bracket (mathematical use)"
+  ],
+  [
+    "\\ubrbrak",
+    "bottom tortoise shell bracket (mathematical use)"
+  ],
+  [
+    "\\trapezium",
+    "white trapezium"
+  ],
+  [
+    "\\benzenr",
+    "benzene ring with circle"
+  ],
+  [
+    "\\strns",
+    "straightness"
+  ],
+  [
+    "\\fltns",
+    "flatness"
+  ],
+  [
+    "\\accurrent",
+    "ac current"
+  ],
+  [
+    "\\elinters",
+    "electrical intersection"
+  ],
+  [
+    "\\blanksymbol",
+    "blank symbol"
+  ],
+  [
+    "\\mathvisiblespace",
+    "open box"
+  ],
+  [
+    "\\bdtriplevdash",
+    "doubly broken vert"
+  ],
+  [
+    "\\blockuphalf",
+    "upper half block"
+  ],
+  [
+    "\\blocklowhalf",
+    "lower half block"
+  ],
+  [
+    "\\blockfull",
+    "full block"
+  ],
+  [
+    "\\blocklefthalf",
+    "left half block"
+  ],
+  [
+    "\\blockrighthalf",
+    "right half block"
+  ],
+  [
+    "\\blockqtrshaded",
+    "25\\% shaded block"
+  ],
+  [
+    "\\blockhalfshaded",
+    "50\\% shaded block"
+  ],
+  [
+    "\\blockthreeqtrshaded",
+    "75\\% shaded block"
+  ],
+  [
+    "\\mdlgblksquare",
+    "square, filled"
+  ],
+  [
+    "\\mdlgwhtsquare",
+    "square, open"
+  ],
+  [
+    "\\squoval",
+    "white square with rounded corners"
+  ],
+  [
+    "\\blackinwhitesquare",
+    "white square containing black small square"
+  ],
+  [
+    "\\squarehfill",
+    "square, horizontal rule filled"
+  ],
+  [
+    "\\squarevfill",
+    "square, vertical rule filled"
+  ],
+  [
+    "\\squarehvfill",
+    "square with orthogonal crosshatch fill"
+  ],
+  [
+    "\\squarenwsefill",
+    "square, nw-to-se rule filled"
+  ],
+  [
+    "\\squareneswfill",
+    "square, ne-to-sw rule filled"
+  ],
+  [
+    "\\squarecrossfill",
+    "square with diagonal crosshatch fill"
+  ],
+  [
+    "\\smblksquare",
+    "/blacksquare - sq bullet, filled"
+  ],
+  [
+    "\\smwhtsquare",
+    "white small square"
+  ],
+  [
+    "\\hrectangleblack",
+    "black rectangle"
+  ],
+  [
+    "\\hrectangle",
+    "horizontal rectangle, open"
+  ],
+  [
+    "\\vrectangleblack",
+    "black vertical rectangle"
+  ],
+  [
+    "\\vrectangle",
+    "rectangle, white (vertical)"
+  ],
+  [
+    "\\parallelogramblack",
+    "black parallelogram"
+  ],
+  [
+    "\\parallelogram",
+    "parallelogram, open"
+  ],
+  [
+    "\\bigblacktriangleup",
+    "black up-pointing triangle"
+  ],
+  [
+    "\\bigtriangleup",
+    "big up triangle, open"
+  ],
+  [
+    "\\blacktriangle",
+    "up triangle, filled"
+  ],
+  [
+    "\\vartriangle",
+    "/triangle - up triangle, open"
+  ],
+  [
+    "\\blacktriangleright",
+    "(large) right triangle, filled"
+  ],
+  [
+    "\\triangleright",
+    "(large) right triangle, open; z notation range restriction"
+  ],
+  [
+    "\\smallblacktriangleright",
+    "right triangle, filled"
+  ],
+  [
+    "\\smalltriangleright",
+    "right triangle, open"
+  ],
+  [
+    "\\blackpointerright",
+    "black right-pointing pointer"
+  ],
+  [
+    "\\whitepointerright",
+    "white right-pointing pointer"
+  ],
+  [
+    "\\bigblacktriangledown",
+    "big down triangle, filled"
+  ],
+  [
+    "\\bigtriangledown",
+    "big down triangle, open"
+  ],
+  [
+    "\\blacktriangledown",
+    "down triangle, filled"
+  ],
+  [
+    "\\triangledown",
+    "down triangle, open"
+  ],
+  [
+    "\\blacktriangleleft",
+    "(large) left triangle, filled"
+  ],
+  [
+    "\\triangleleft",
+    "(large) left triangle, open; z notation domain restriction"
+  ],
+  [
+    "\\smallblacktriangleleft",
+    "left triangle, filled"
+  ],
+  [
+    "\\smalltriangleleft",
+    "left triangle, open"
+  ],
+  [
+    "\\blackpointerleft",
+    "black left-pointing pointer"
+  ],
+  [
+    "\\whitepointerleft",
+    "white left-pointing pointer"
+  ],
+  [
+    "\\mdlgblkdiamond",
+    "black diamond"
+  ],
+  [
+    "\\mdlgwhtdiamond",
+    "white diamond; diamond, open"
+  ],
+  [
+    "\\blackinwhitediamond",
+    "white diamond containing black small diamond"
+  ],
+  [
+    "\\fisheye",
+    "fisheye"
+  ],
+  [
+    "\\mdlgwhtlozenge",
+    "lozenge or total mark"
+  ],
+  [
+    "\\mdlgwhtcircle",
+    "medium large circle"
+  ],
+  [
+    "\\dottedcircle",
+    "dotted circle"
+  ],
+  [
+    "\\circlevertfill",
+    "circle with vertical fill"
+  ],
+  [
+    "\\bullseye",
+    "bullseye"
+  ],
+  [
+    "\\mdlgblkcircle",
+    "circle, filled"
+  ],
+  [
+    "\\circlelefthalfblack",
+    "circle, filled left half [harvey ball]"
+  ],
+  [
+    "\\circlerighthalfblack",
+    "circle, filled right half"
+  ],
+  [
+    "\\circlebottomhalfblack",
+    "circle, filled bottom half"
+  ],
+  [
+    "\\circletophalfblack",
+    "circle, filled top half"
+  ],
+  [
+    "\\circleurquadblack",
+    "circle with upper right quadrant black"
+  ],
+  [
+    "\\blackcircleulquadwhite",
+    "circle with all but upper left quadrant black"
+  ],
+  [
+    "\\blacklefthalfcircle",
+    "left half black circle"
+  ],
+  [
+    "\\blackrighthalfcircle",
+    "right half black circle"
+  ],
+  [
+    "\\inversebullet",
+    "inverse bullet "
+  ],
+  [
+    "\\inversewhitecircle",
+    "inverse white circle"
+  ],
+  [
+    "\\invwhiteupperhalfcircle",
+    "upper half inverse white circle"
+  ],
+  [
+    "\\invwhitelowerhalfcircle",
+    "lower half inverse white circle"
+  ],
+  [
+    "\\ularc",
+    "upper left quadrant circular arc"
+  ],
+  [
+    "\\urarc",
+    "upper right quadrant circular arc"
+  ],
+  [
+    "\\lrarc",
+    "lower right quadrant circular arc"
+  ],
+  [
+    "\\llarc",
+    "lower left quadrant circular arc"
+  ],
+  [
+    "\\topsemicircle",
+    "upper half circle"
+  ],
+  [
+    "\\botsemicircle",
+    "lower half circle"
+  ],
+  [
+    "\\lrblacktriangle",
+    "lower right triangle, filled"
+  ],
+  [
+    "\\llblacktriangle",
+    "lower left triangle, filled"
+  ],
+  [
+    "\\ulblacktriangle",
+    "upper left triangle, filled"
+  ],
+  [
+    "\\urblacktriangle",
+    "upper right triangle, filled"
+  ],
+  [
+    "\\smwhtcircle",
+    "white bullet"
+  ],
+  [
+    "\\squareleftblack",
+    "square, filled left half"
+  ],
+  [
+    "\\squarerightblack",
+    "square, filled right half"
+  ],
+  [
+    "\\squareulblack",
+    "square, filled top left corner"
+  ],
+  [
+    "\\squarelrblack",
+    "square, filled bottom right corner"
+  ],
+  [
+    "\\boxbar",
+    "vertical bar in box"
+  ],
+  [
+    "\\trianglecdot",
+    "triangle with centered dot"
+  ],
+  [
+    "\\triangleleftblack",
+    "up-pointing triangle with left half black"
+  ],
+  [
+    "\\trianglerightblack",
+    "up-pointing triangle with right half black"
+  ],
+  [
+    "\\lgwhtcircle",
+    "large circle"
+  ],
+  [
+    "\\squareulquad",
+    "white square with upper left quadrant"
+  ],
+  [
+    "\\squarellquad",
+    "white square with lower left quadrant"
+  ],
+  [
+    "\\squarelrquad",
+    "white square with lower right quadrant"
+  ],
+  [
+    "\\squareurquad",
+    "white square with upper right quadrant"
+  ],
+  [
+    "\\circleulquad",
+    "white circle with upper left quadrant"
+  ],
+  [
+    "\\circlellquad",
+    "white circle with lower left quadrant"
+  ],
+  [
+    "\\circlelrquad",
+    "white circle with lower right quadrant"
+  ],
+  [
+    "\\circleurquad",
+    "white circle with upper right quadrant"
+  ],
+  [
+    "\\ultriangle",
+    "upper left triangle"
+  ],
+  [
+    "\\urtriangle",
+    "upper right triangle"
+  ],
+  [
+    "\\lltriangle",
+    "lower left triangle"
+  ],
+  [
+    "\\mdwhtsquare",
+    "white medium square"
+  ],
+  [
+    "\\mdblksquare",
+    "black medium square"
+  ],
+  [
+    "\\mdsmwhtsquare",
+    "white medium small square"
+  ],
+  [
+    "\\mdsmblksquare",
+    "black medium small square"
+  ],
+  [
+    "\\lrtriangle",
+    "lower right triangle"
+  ],
+  [
+    "\\bigstar",
+    "star, filled"
+  ],
+  [
+    "\\bigwhitestar",
+    "star, open"
+  ],
+  [
+    "\\astrosun",
+    "sun"
+  ],
+  [
+    "\\danger",
+    "dangerous bend (caution sign)"
+  ],
+  [
+    "\\blacksmiley",
+    "black smiling face"
+  ],
+  [
+    "\\sun",
+    "white sun with rays"
+  ],
+  [
+    "\\rightmoon",
+    "first quarter moon"
+  ],
+  [
+    "\\leftmoon",
+    "last quarter moon"
+  ],
+  [
+    "\\female",
+    "venus, female"
+  ],
+  [
+    "\\male",
+    "mars, male"
+  ],
+  [
+    "\\spadesuit",
+    "spades suit symbol"
+  ],
+  [
+    "\\heartsuit",
+    "heart suit symbol"
+  ],
+  [
+    "\\diamondsuit",
+    "diamond suit symbol"
+  ],
+  [
+    "\\clubsuit",
+    "club suit symbol"
+  ],
+  [
+    "\\varspadesuit",
+    "spade, white (card suit)"
+  ],
+  [
+    "\\varheartsuit",
+    "filled heart (card suit)"
+  ],
+  [
+    "\\vardiamondsuit",
+    "filled diamond (card suit)"
+  ],
+  [
+    "\\varclubsuit",
+    "club, white (card suit)"
+  ],
+  [
+    "\\quarternote",
+    "music note (sung text sign)"
+  ],
+  [
+    "\\eighthnote",
+    "eighth note"
+  ],
+  [
+    "\\twonotes",
+    "beamed eighth notes"
+  ],
+  [
+    "\\flat",
+    "musical flat"
+  ],
+  [
+    "\\natural",
+    "music natural"
+  ],
+  [
+    "\\sharp",
+    "musical sharp"
+  ],
+  [
+    "\\acidfree",
+    "permanent paper sign"
+  ],
+  [
+    "\\dicei",
+    "die face-1"
+  ],
+  [
+    "\\diceii",
+    "die face-2"
+  ],
+  [
+    "\\diceiii",
+    "die face-3"
+  ],
+  [
+    "\\diceiv",
+    "die face-4"
+  ],
+  [
+    "\\dicev",
+    "die face-5"
+  ],
+  [
+    "\\dicevi",
+    "die face-6"
+  ],
+  [
+    "\\circledrightdot",
+    "white circle with dot right"
+  ],
+  [
+    "\\circledtwodots",
+    "white circle with two dots"
+  ],
+  [
+    "\\blackcircledrightdot",
+    "black circle with white dot right"
+  ],
+  [
+    "\\blackcircledtwodots",
+    "black circle with two white dots"
+  ],
+  [
+    "\\Hermaphrodite",
+    "male and female sign"
+  ],
+  [
+    "\\mdwhtcircle",
+    "medium white circle"
+  ],
+  [
+    "\\mdblkcircle",
+    "medium black circle"
+  ],
+  [
+    "\\mdsmwhtcircle",
+    "medium small white circle"
+  ],
+  [
+    "\\neuter",
+    "neuter"
+  ],
+  [
+    "\\checkmark",
+    "tick, check mark"
+  ],
+  [
+    "\\maltese",
+    "maltese cross"
+  ],
+  [
+    "\\circledstar",
+    "circled white star"
+  ],
+  [
+    "\\varstar",
+    "six pointed black star"
+  ],
+  [
+    "\\dingasterisk",
+    "heavy teardrop-spoked asterisk"
+  ],
+  [
+    "\\lbrbrak",
+    "light left tortoise shell bracket ornament"
+  ],
+  [
+    "\\rbrbrak",
+    "light right tortoise shell bracket ornament"
+  ],
+  [
+    "\\draftingarrow",
+    "right arrow with bold head (drafting)"
+  ],
+  [
+    "\\threedangle",
+    "three dimensional angle"
+  ],
+  [
+    "\\whiteinwhitetriangle",
+    "white triangle containing small white triangle"
+  ],
+  [
+    "\\perp",
+    "perpendicular"
+  ],
+  [
+    "\\subsetcirc",
+    "open subset"
+  ],
+  [
+    "\\supsetcirc",
+    "open superset"
+  ],
+  [
+    "\\lbag",
+    "left s-shaped bag delimiter"
+  ],
+  [
+    "\\rbag",
+    "right s-shaped bag delimiter"
+  ],
+  [
+    "\\veedot",
+    "or with dot inside"
+  ],
+  [
+    "\\bsolhsub",
+    "reverse solidus preceding subset"
+  ],
+  [
+    "\\suphsol",
+    "superset preceding solidus"
+  ],
+  [
+    "\\longdivision",
+    "long division"
+  ],
+  [
+    "\\diamondcdot",
+    "white diamond with centred dot"
+  ],
+  [
+    "\\wedgedot",
+    "and with dot"
+  ],
+  [
+    "\\upin",
+    "element of opening upwards"
+  ],
+  [
+    "\\pullback",
+    "lower right corner with dot"
+  ],
+  [
+    "\\pushout",
+    "upper left corner with dot"
+  ],
+  [
+    "\\leftouterjoin",
+    "left outer join"
+  ],
+  [
+    "\\rightouterjoin",
+    "right outer join"
+  ],
+  [
+    "\\fullouterjoin",
+    "full outer join"
+  ],
+  [
+    "\\bigbot",
+    "large up tack"
+  ],
+  [
+    "\\bigtop",
+    "large down tack"
+  ],
+  [
+    "\\DashVDash",
+    "left and right double turnstile"
+  ],
+  [
+    "\\dashVdash",
+    "left and right tack"
+  ],
+  [
+    "\\multimapinv",
+    "left multimap"
+  ],
+  [
+    "\\vlongdash",
+    "long left tack"
+  ],
+  [
+    "\\longdashv",
+    "long right tack"
+  ],
+  [
+    "\\cirbot",
+    "up tack with circle above"
+  ],
+  [
+    "\\lozengeminus",
+    "lozenge divided by horizontal rule"
+  ],
+  [
+    "\\concavediamond",
+    "white concave-sided diamond"
+  ],
+  [
+    "\\concavediamondtickleft",
+    "white concave-sided diamond with leftwards tick"
+  ],
+  [
+    "\\concavediamondtickright",
+    "white concave-sided diamond with rightwards tick"
+  ],
+  [
+    "\\whitesquaretickleft",
+    "white square with leftwards tick"
+  ],
+  [
+    "\\whitesquaretickright",
+    "white square with rightwards tick"
+  ],
+  [
+    "\\lBrack",
+    "mathematical left white square bracket"
+  ],
+  [
+    "\\rBrack",
+    "mathematical right white square bracket"
+  ],
+  [
+    "\\langle",
+    "mathematical left angle bracket"
+  ],
+  [
+    "\\rangle",
+    "mathematical right angle bracket"
+  ],
+  [
+    "\\lAngle",
+    "mathematical left double angle bracket"
+  ],
+  [
+    "\\rAngle",
+    "mathematical right double angle bracket"
+  ],
+  [
+    "\\Lbrbrak",
+    "mathematical left white tortoise shell bracket"
+  ],
+  [
+    "\\Rbrbrak",
+    "mathematical right white tortoise shell bracket"
+  ],
+  [
+    "\\lgroup",
+    "mathematical left flattened parenthesis"
+  ],
+  [
+    "\\rgroup",
+    "mathematical right flattened parenthesis"
+  ],
+  [
+    "\\UUparrow",
+    "upwards quadruple arrow"
+  ],
+  [
+    "\\DDownarrow",
+    "downwards quadruple arrow"
+  ],
+  [
+    "\\acwgapcirclearrow",
+    "anticlockwise gapped circle arrow"
+  ],
+  [
+    "\\cwgapcirclearrow",
+    "clockwise gapped circle arrow"
+  ],
+  [
+    "\\rightarrowonoplus",
+    "right arrow with circled plus"
+  ],
+  [
+    "\\longleftarrow",
+    "long leftwards arrow"
+  ],
+  [
+    "\\longrightarrow",
+    "long rightwards arrow"
+  ],
+  [
+    "\\longleftrightarrow",
+    "long left right arrow"
+  ],
+  [
+    "\\Longleftarrow",
+    "long leftwards double arrow"
+  ],
+  [
+    "\\Longrightarrow",
+    "long rightwards double arrow"
+  ],
+  [
+    "\\Longleftrightarrow",
+    "long left right double arrow"
+  ],
+  [
+    "\\longmapsfrom",
+    "long leftwards arrow from bar"
+  ],
+  [
+    "\\longmapsto",
+    "long rightwards arrow from bar"
+  ],
+  [
+    "\\Longmapsfrom",
+    "long leftwards double arrow from bar"
+  ],
+  [
+    "\\Longmapsto",
+    "long rightwards double arrow from bar"
+  ],
+  [
+    "\\longrightsquigarrow",
+    "long rightwards squiggle arrow"
+  ],
+  [
+    "\\nvtwoheadrightarrow",
+    "rightwards two-headed arrow with vertical stroke"
+  ],
+  [
+    "\\nVtwoheadrightarrow",
+    "rightwards two-headed arrow with double vertical stroke"
+  ],
+  [
+    "\\nvLeftarrow",
+    "leftwards double arrow with vertical stroke"
+  ],
+  [
+    "\\nvRightarrow",
+    "rightwards double arrow with vertical stroke"
+  ],
+  [
+    "\\nvLeftrightarrow",
+    "left right double arrow with vertical stroke"
+  ],
+  [
+    "\\twoheadmapsto",
+    "rightwards two-headed arrow from bar"
+  ],
+  [
+    "\\Mapsfrom",
+    "leftwards double arrow from bar"
+  ],
+  [
+    "\\Mapsto",
+    "rightwards double arrow from bar"
+  ],
+  [
+    "\\downarrowbarred",
+    "downwards arrow with horizontal stroke"
+  ],
+  [
+    "\\uparrowbarred",
+    "upwards arrow with horizontal stroke"
+  ],
+  [
+    "\\Uuparrow",
+    "upwards triple arrow"
+  ],
+  [
+    "\\Ddownarrow",
+    "downwards triple arrow"
+  ],
+  [
+    "\\leftbkarrow",
+    "leftwards double dash arrow"
+  ],
+  [
+    "\\rightbkarrow",
+    "rightwards double dash arrow"
+  ],
+  [
+    "\\leftdbkarrow",
+    "leftwards triple dash arrow"
+  ],
+  [
+    "\\dbkarrow",
+    "rightwards triple dash arrow"
+  ],
+  [
+    "\\drbkarrow",
+    "rightwards two-headed triple dash arrow"
+  ],
+  [
+    "\\rightdotarrow",
+    "rightwards arrow with dotted stem"
+  ],
+  [
+    "\\baruparrow",
+    "upwards arrow to bar"
+  ],
+  [
+    "\\downarrowbar",
+    "downwards arrow to bar"
+  ],
+  [
+    "\\nvrightarrowtail",
+    "rightwards arrow with tail with vertical stroke"
+  ],
+  [
+    "\\nVrightarrowtail",
+    "rightwards arrow with tail with double vertical stroke"
+  ],
+  [
+    "\\twoheadrightarrowtail",
+    "rightwards two-headed arrow with tail"
+  ],
+  [
+    "\\nvtwoheadrightarrowtail",
+    "rightwards two-headed arrow with tail with vertical stroke"
+  ],
+  [
+    "\\nVtwoheadrightarrowtail",
+    "rightwards two-headed arrow with tail with double vertical stroke"
+  ],
+  [
+    "\\lefttail",
+    "leftwards arrow-tail"
+  ],
+  [
+    "\\righttail",
+    "rightwards arrow-tail"
+  ],
+  [
+    "\\leftdbltail",
+    "leftwards double arrow-tail"
+  ],
+  [
+    "\\rightdbltail",
+    "rightwards double arrow-tail"
+  ],
+  [
+    "\\diamondleftarrow",
+    "leftwards arrow to black diamond"
+  ],
+  [
+    "\\rightarrowdiamond",
+    "rightwards arrow to black diamond"
+  ],
+  [
+    "\\diamondleftarrowbar",
+    "leftwards arrow from bar to black diamond"
+  ],
+  [
+    "\\barrightarrowdiamond",
+    "rightwards arrow from bar to black diamond"
+  ],
+  [
+    "\\nwsearrow",
+    "north west and south east arrow"
+  ],
+  [
+    "\\neswarrow",
+    "north east and south west arrow"
+  ],
+  [
+    "\\hknwarrow",
+    "north west arrow with hook"
+  ],
+  [
+    "\\hknearrow",
+    "north east arrow with hook"
+  ],
+  [
+    "\\hksearrow",
+    "south east arrow with hook"
+  ],
+  [
+    "\\hkswarrow",
+    "south west arrow with hook"
+  ],
+  [
+    "\\tona",
+    "north west arrow and north east arrow"
+  ],
+  [
+    "\\toea",
+    "north east arrow and south east arrow"
+  ],
+  [
+    "\\tosa",
+    "south east arrow and south west arrow"
+  ],
+  [
+    "\\towa",
+    "south west arrow and north west arrow"
+  ],
+  [
+    "\\rdiagovfdiag",
+    "rising diagonal crossing falling diagonal"
+  ],
+  [
+    "\\fdiagovrdiag",
+    "falling diagonal crossing rising diagonal"
+  ],
+  [
+    "\\seovnearrow",
+    "south east arrow crossing north east arrow"
+  ],
+  [
+    "\\neovsearrow",
+    "north east arrow crossing south east arrow"
+  ],
+  [
+    "\\fdiagovnearrow",
+    "falling diagonal crossing north east arrow"
+  ],
+  [
+    "\\rdiagovsearrow",
+    "rising diagonal crossing south east arrow"
+  ],
+  [
+    "\\neovnwarrow",
+    "north east arrow crossing north west arrow"
+  ],
+  [
+    "\\nwovnearrow",
+    "north west arrow crossing north east arrow"
+  ],
+  [
+    "\\rightcurvedarrow",
+    "wave arrow pointing directly right"
+  ],
+  [
+    "\\uprightcurvearrow",
+    "arrow pointing rightwards then curving upwards"
+  ],
+  [
+    "\\downrightcurvedarrow",
+    "arrow pointing rightwards then curving downwards"
+  ],
+  [
+    "\\leftdowncurvedarrow",
+    "arrow pointing downwards then curving leftwards"
+  ],
+  [
+    "\\rightdowncurvedarrow",
+    "arrow pointing downwards then curving rightwards"
+  ],
+  [
+    "\\cwrightarcarrow",
+    "right-side arc clockwise arrow"
+  ],
+  [
+    "\\acwleftarcarrow",
+    "left-side arc anticlockwise arrow"
+  ],
+  [
+    "\\acwoverarcarrow",
+    "top arc anticlockwise arrow"
+  ],
+  [
+    "\\acwunderarcarrow",
+    "bottom arc anticlockwise arrow"
+  ],
+  [
+    "\\curvearrowrightminus",
+    "top arc clockwise arrow with minus"
+  ],
+  [
+    "\\curvearrowleftplus",
+    "top arc anticlockwise arrow with plus"
+  ],
+  [
+    "\\cwundercurvearrow",
+    "lower right semicircular clockwise arrow"
+  ],
+  [
+    "\\ccwundercurvearrow",
+    "lower left semicircular anticlockwise arrow"
+  ],
+  [
+    "\\acwcirclearrow",
+    "anticlockwise closed circle arrow"
+  ],
+  [
+    "\\cwcirclearrow",
+    "clockwise closed circle arrow"
+  ],
+  [
+    "\\rightarrowshortleftarrow",
+    "rightwards arrow above short leftwards arrow"
+  ],
+  [
+    "\\leftarrowshortrightarrow",
+    "leftwards arrow above short rightwards arrow"
+  ],
+  [
+    "\\shortrightarrowleftarrow",
+    "short rightwards arrow above leftwards arrow"
+  ],
+  [
+    "\\rightarrowplus",
+    "rightwards arrow with plus below"
+  ],
+  [
+    "\\leftarrowplus",
+    "leftwards arrow with plus below"
+  ],
+  [
+    "\\rightarrowx",
+    "rightwards arrow through x"
+  ],
+  [
+    "\\leftrightarrowcircle",
+    "left right arrow through small circle"
+  ],
+  [
+    "\\twoheaduparrowcircle",
+    "upwards two-headed arrow from small circle"
+  ],
+  [
+    "\\leftrightharpoonupdown",
+    "left barb up right barb down harpoon"
+  ],
+  [
+    "\\leftrightharpoondownup",
+    "left barb down right barb up harpoon"
+  ],
+  [
+    "\\updownharpoonrightleft",
+    "up barb right down barb left harpoon"
+  ],
+  [
+    "\\updownharpoonleftright",
+    "up barb left down barb right harpoon"
+  ],
+  [
+    "\\leftrightharpoonupup",
+    "left barb up right barb up harpoon"
+  ],
+  [
+    "\\updownharpoonrightright",
+    "up barb right down barb right harpoon"
+  ],
+  [
+    "\\leftrightharpoondowndown",
+    "left barb down right barb down harpoon"
+  ],
+  [
+    "\\updownharpoonleftleft",
+    "up barb left down barb left harpoon"
+  ],
+  [
+    "\\barleftharpoonup",
+    "leftwards harpoon with barb up to bar"
+  ],
+  [
+    "\\rightharpoonupbar",
+    "rightwards harpoon with barb up to bar"
+  ],
+  [
+    "\\barupharpoonright",
+    "upwards harpoon with barb right to bar"
+  ],
+  [
+    "\\downharpoonrightbar",
+    "downwards harpoon with barb right to bar"
+  ],
+  [
+    "\\barleftharpoondown",
+    "leftwards harpoon with barb down to bar"
+  ],
+  [
+    "\\rightharpoondownbar",
+    "rightwards harpoon with barb down to bar"
+  ],
+  [
+    "\\barupharpoonleft",
+    "upwards harpoon with barb left to bar"
+  ],
+  [
+    "\\downharpoonleftbar",
+    "downwards harpoon with barb left to bar"
+  ],
+  [
+    "\\leftharpoonupbar",
+    "leftwards harpoon with barb up from bar"
+  ],
+  [
+    "\\barrightharpoonup",
+    "rightwards harpoon with barb up from bar"
+  ],
+  [
+    "\\upharpoonrightbar",
+    "upwards harpoon with barb right from bar"
+  ],
+  [
+    "\\bardownharpoonright",
+    "downwards harpoon with barb right from bar"
+  ],
+  [
+    "\\leftharpoondownbar",
+    "leftwards harpoon with barb down from bar"
+  ],
+  [
+    "\\barrightharpoondown",
+    "rightwards harpoon with barb down from bar"
+  ],
+  [
+    "\\upharpoonleftbar",
+    "upwards harpoon with barb left from bar"
+  ],
+  [
+    "\\bardownharpoonleft",
+    "downwards harpoon with barb left from bar"
+  ],
+  [
+    "\\leftharpoonsupdown",
+    "leftwards harpoon with barb up above leftwards harpoon with barb down"
+  ],
+  [
+    "\\upharpoonsleftright",
+    "upwards harpoon with barb left beside upwards harpoon with barb right"
+  ],
+  [
+    "\\rightharpoonsupdown",
+    "rightwards harpoon with barb up above rightwards harpoon with barb down"
+  ],
+  [
+    "\\downharpoonsleftright",
+    "downwards harpoon with barb left beside downwards harpoon with barb right"
+  ],
+  [
+    "\\leftrightharpoonsup",
+    "leftwards harpoon with barb up above rightwards harpoon with barb up"
+  ],
+  [
+    "\\leftrightharpoonsdown",
+    "leftwards harpoon with barb down above rightwards harpoon with barb down"
+  ],
+  [
+    "\\rightleftharpoonsup",
+    "rightwards harpoon with barb up above leftwards harpoon with barb up"
+  ],
+  [
+    "\\rightleftharpoonsdown",
+    "rightwards harpoon with barb down above leftwards harpoon with barb down"
+  ],
+  [
+    "\\leftharpoonupdash",
+    "leftwards harpoon with barb up above long dash"
+  ],
+  [
+    "\\dashleftharpoondown",
+    "leftwards harpoon with barb down below long dash"
+  ],
+  [
+    "\\rightharpoonupdash",
+    "rightwards harpoon with barb up above long dash"
+  ],
+  [
+    "\\dashrightharpoondown",
+    "rightwards harpoon with barb down below long dash"
+  ],
+  [
+    "\\updownharpoonsleftright",
+    "upwards harpoon with barb left beside downwards harpoon with barb right"
+  ],
+  [
+    "\\downupharpoonsleftright",
+    "downwards harpoon with barb left beside upwards harpoon with barb right"
+  ],
+  [
+    "\\rightimply",
+    "right double arrow with rounded head"
+  ],
+  [
+    "\\equalrightarrow",
+    "equals sign above rightwards arrow"
+  ],
+  [
+    "\\similarrightarrow",
+    "tilde operator above rightwards arrow"
+  ],
+  [
+    "\\leftarrowsimilar",
+    "leftwards arrow above tilde operator"
+  ],
+  [
+    "\\rightarrowsimilar",
+    "rightwards arrow above tilde operator"
+  ],
+  [
+    "\\rightarrowapprox",
+    "rightwards arrow above almost equal to"
+  ],
+  [
+    "\\ltlarr",
+    "less-than above leftwards arrow"
+  ],
+  [
+    "\\leftarrowless",
+    "leftwards arrow through less-than"
+  ],
+  [
+    "\\gtrarr",
+    "greater-than above rightwards arrow"
+  ],
+  [
+    "\\subrarr",
+    "subset above rightwards arrow"
+  ],
+  [
+    "\\leftarrowsubset",
+    "leftwards arrow through subset"
+  ],
+  [
+    "\\suplarr",
+    "superset above leftwards arrow"
+  ],
+  [
+    "\\leftfishtail",
+    "left fish tail"
+  ],
+  [
+    "\\rightfishtail",
+    "right fish tail"
+  ],
+  [
+    "\\upfishtail",
+    "up fish tail"
+  ],
+  [
+    "\\downfishtail",
+    "down fish tail"
+  ],
+  [
+    "\\Vvert",
+    "triple vertical bar delimiter"
+  ],
+  [
+    "\\mdsmblkcircle",
+    "z notation spot"
+  ],
+  [
+    "\\typecolon",
+    "z notation type colon"
+  ],
+  [
+    "\\lBrace",
+    "left white curly bracket"
+  ],
+  [
+    "\\rBrace",
+    "right white curly bracket"
+  ],
+  [
+    "\\lParen",
+    "left white parenthesis"
+  ],
+  [
+    "\\rParen",
+    "right white parenthesis"
+  ],
+  [
+    "\\llparenthesis",
+    "z notation left image bracket"
+  ],
+  [
+    "\\rrparenthesis",
+    "z notation right image bracket"
+  ],
+  [
+    "\\llangle",
+    "z notation left binding bracket"
+  ],
+  [
+    "\\rrangle",
+    "z notation right binding bracket"
+  ],
+  [
+    "\\lbrackubar",
+    "left square bracket with underbar"
+  ],
+  [
+    "\\rbrackubar",
+    "right square bracket with underbar"
+  ],
+  [
+    "\\lbrackultick",
+    "left square bracket with tick in top corner"
+  ],
+  [
+    "\\rbracklrtick",
+    "right square bracket with tick in bottom corner"
+  ],
+  [
+    "\\lbracklltick",
+    "left square bracket with tick in bottom corner"
+  ],
+  [
+    "\\rbrackurtick",
+    "right square bracket with tick in top corner"
+  ],
+  [
+    "\\langledot",
+    "left angle bracket with dot"
+  ],
+  [
+    "\\rangledot",
+    "right angle bracket with dot"
+  ],
+  [
+    "\\lparenless",
+    "left arc less-than bracket"
+  ],
+  [
+    "\\rparengtr",
+    "right arc greater-than bracket"
+  ],
+  [
+    "\\Lparengtr",
+    "double left arc greater-than bracket"
+  ],
+  [
+    "\\Rparenless",
+    "double right arc less-than bracket"
+  ],
+  [
+    "\\lblkbrbrak",
+    "left black tortoise shell bracket"
+  ],
+  [
+    "\\rblkbrbrak",
+    "right black tortoise shell bracket"
+  ],
+  [
+    "\\fourvdots",
+    "dotted fence"
+  ],
+  [
+    "\\vzigzag",
+    "vertical zigzag line"
+  ],
+  [
+    "\\measuredangleleft",
+    "measured angle opening left"
+  ],
+  [
+    "\\rightanglesqr",
+    "right angle variant with square"
+  ],
+  [
+    "\\rightanglemdot",
+    "measured right angle with dot"
+  ],
+  [
+    "\\angles",
+    "angle with s inside"
+  ],
+  [
+    "\\angdnr",
+    "acute angle"
+  ],
+  [
+    "\\gtlpar",
+    "spherical angle opening left"
+  ],
+  [
+    "\\sphericalangleup",
+    "spherical angle opening up"
+  ],
+  [
+    "\\turnangle",
+    "turned angle"
+  ],
+  [
+    "\\revangle",
+    "reversed angle"
+  ],
+  [
+    "\\angleubar",
+    "angle with underbar"
+  ],
+  [
+    "\\revangleubar",
+    "reversed angle with underbar"
+  ],
+  [
+    "\\wideangledown",
+    "oblique angle opening up"
+  ],
+  [
+    "\\wideangleup",
+    "oblique angle opening down"
+  ],
+  [
+    "\\measanglerutone",
+    "measured angle with open arm ending in arrow pointing up and right"
+  ],
+  [
+    "\\measanglelutonw",
+    "measured angle with open arm ending in arrow pointing up and left"
+  ],
+  [
+    "\\measanglerdtose",
+    "measured angle with open arm ending in arrow pointing down and right"
+  ],
+  [
+    "\\measangleldtosw",
+    "measured angle with open arm ending in arrow pointing down and left"
+  ],
+  [
+    "\\measangleurtone",
+    "measured angle with open arm ending in arrow pointing right and up"
+  ],
+  [
+    "\\measangleultonw",
+    "measured angle with open arm ending in arrow pointing left and up"
+  ],
+  [
+    "\\measangledrtose",
+    "measured angle with open arm ending in arrow pointing right and down"
+  ],
+  [
+    "\\measangledltosw",
+    "measured angle with open arm ending in arrow pointing left and down"
+  ],
+  [
+    "\\revemptyset",
+    "reversed empty set"
+  ],
+  [
+    "\\emptysetobar",
+    "empty set with overbar"
+  ],
+  [
+    "\\emptysetocirc",
+    "empty set with small circle above"
+  ],
+  [
+    "\\emptysetoarr",
+    "empty set with right arrow above"
+  ],
+  [
+    "\\emptysetoarrl",
+    "empty set with left arrow above"
+  ],
+  [
+    "\\circlehbar",
+    "circle with horizontal bar"
+  ],
+  [
+    "\\circledvert",
+    "circled vertical bar"
+  ],
+  [
+    "\\circledparallel",
+    "circled parallel"
+  ],
+  [
+    "\\obslash",
+    "circled reverse solidus"
+  ],
+  [
+    "\\operp",
+    "circled perpendicular"
+  ],
+  [
+    "\\obot",
+    "circle divided by horizontal bar and top half divided by vertical bar"
+  ],
+  [
+    "\\olcross",
+    "circle with superimposed x"
+  ],
+  [
+    "\\odotslashdot",
+    "circled anticlockwise-rotated division sign"
+  ],
+  [
+    "\\uparrowoncircle",
+    "up arrow through circle"
+  ],
+  [
+    "\\circledwhitebullet",
+    "circled white bullet"
+  ],
+  [
+    "\\circledbullet",
+    "circled bullet"
+  ],
+  [
+    "\\olessthan",
+    "circled less-than"
+  ],
+  [
+    "\\ogreaterthan",
+    "circled greater-than"
+  ],
+  [
+    "\\cirscir",
+    "circle with small circle to the right"
+  ],
+  [
+    "\\cirE",
+    "circle with two horizontal strokes to the right"
+  ],
+  [
+    "\\boxdiag",
+    "squared rising diagonal slash"
+  ],
+  [
+    "\\boxbslash",
+    "squared falling diagonal slash"
+  ],
+  [
+    "\\boxast",
+    "squared asterisk"
+  ],
+  [
+    "\\boxcircle",
+    "squared small circle"
+  ],
+  [
+    "\\boxbox",
+    "squared square"
+  ],
+  [
+    "\\boxonbox",
+    "two joined squares"
+  ],
+  [
+    "\\triangleodot",
+    "triangle with dot above"
+  ],
+  [
+    "\\triangleubar",
+    "triangle with underbar"
+  ],
+  [
+    "\\triangles",
+    "s in triangle"
+  ],
+  [
+    "\\triangleserifs",
+    "triangle with serifs at bottom"
+  ],
+  [
+    "\\rtriltri",
+    "right triangle above left triangle"
+  ],
+  [
+    "\\ltrivb",
+    "left triangle beside vertical bar"
+  ],
+  [
+    "\\vbrtri",
+    "vertical bar beside right triangle"
+  ],
+  [
+    "\\lfbowtie",
+    "left black bowtie"
+  ],
+  [
+    "\\rfbowtie",
+    "right black bowtie"
+  ],
+  [
+    "\\fbowtie",
+    "black bowtie"
+  ],
+  [
+    "\\lftimes",
+    "left black times"
+  ],
+  [
+    "\\rftimes",
+    "right black times"
+  ],
+  [
+    "\\hourglass",
+    "white hourglass"
+  ],
+  [
+    "\\blackhourglass",
+    "black hourglass"
+  ],
+  [
+    "\\lvzigzag",
+    "left wiggly fence"
+  ],
+  [
+    "\\rvzigzag",
+    "right wiggly fence"
+  ],
+  [
+    "\\Lvzigzag",
+    "left double wiggly fence"
+  ],
+  [
+    "\\Rvzigzag",
+    "right double wiggly fence"
+  ],
+  [
+    "\\iinfin",
+    "incomplete infinity"
+  ],
+  [
+    "\\tieinfty",
+    "tie over infinity"
+  ],
+  [
+    "\\nvinfty",
+    "infinity negated with vertical bar"
+  ],
+  [
+    "\\dualmap",
+    "double-ended multimap"
+  ],
+  [
+    "\\laplac",
+    "square with contoured outline"
+  ],
+  [
+    "\\lrtriangleeq",
+    "increases as"
+  ],
+  [
+    "\\shuffle",
+    "shuffle product"
+  ],
+  [
+    "\\eparsl",
+    "equals sign and slanted parallel"
+  ],
+  [
+    "\\smeparsl",
+    "equals sign and slanted parallel with tilde above"
+  ],
+  [
+    "\\eqvparsl",
+    "identical to and slanted parallel"
+  ],
+  [
+    "\\gleichstark",
+    "gleich stark"
+  ],
+  [
+    "\\thermod",
+    "thermodynamic"
+  ],
+  [
+    "\\downtriangleleftblack",
+    "down-pointing triangle with left half black"
+  ],
+  [
+    "\\downtrianglerightblack",
+    "down-pointing triangle with right half black"
+  ],
+  [
+    "\\blackdiamonddownarrow",
+    "black diamond with down arrow"
+  ],
+  [
+    "\\mdlgblklozenge",
+    "black lozenge"
+  ],
+  [
+    "\\circledownarrow",
+    "white circle with down arrow"
+  ],
+  [
+    "\\blackcircledownarrow",
+    "black circle with down arrow"
+  ],
+  [
+    "\\errbarsquare",
+    "error-barred white square"
+  ],
+  [
+    "\\errbarblacksquare",
+    "error-barred black square"
+  ],
+  [
+    "\\errbardiamond",
+    "error-barred white diamond"
+  ],
+  [
+    "\\errbarblackdiamond",
+    "error-barred black diamond"
+  ],
+  [
+    "\\errbarcircle",
+    "error-barred white circle"
+  ],
+  [
+    "\\errbarblackcircle",
+    "error-barred black circle"
+  ],
+  [
+    "\\ruledelayed",
+    "rule-delayed"
+  ],
+  [
+    "\\setminus",
+    "reverse solidus operator"
+  ],
+  [
+    "\\dsol",
+    "solidus with overbar"
+  ],
+  [
+    "\\rsolbar",
+    "reverse solidus with horizontal stroke"
+  ],
+  [
+    "\\xsol",
+    "big solidus"
+  ],
+  [
+    "\\xbsol",
+    "big reverse solidus"
+  ],
+  [
+    "\\doubleplus",
+    "double plus"
+  ],
+  [
+    "\\tripleplus",
+    "triple plus"
+  ],
+  [
+    "\\lcurvyangle",
+    "left pointing curved angle bracket"
+  ],
+  [
+    "\\rcurvyangle",
+    "right pointing curved angle bracket"
+  ],
+  [
+    "\\tplus",
+    "tiny"
+  ],
+  [
+    "\\tminus",
+    "miny"
+  ],
+  [
+    "\\bigodot",
+    "n-ary circled dot operator"
+  ],
+  [
+    "\\bigoplus",
+    "n-ary circled plus operator"
+  ],
+  [
+    "\\bigotimes",
+    "n-ary circled times operator"
+  ],
+  [
+    "\\bigcupdot",
+    "n-ary union operator with dot"
+  ],
+  [
+    "\\biguplus",
+    "n-ary union operator with plus"
+  ],
+  [
+    "\\bigsqcap",
+    "n-ary square intersection operator"
+  ],
+  [
+    "\\bigsqcup",
+    "n-ary square union operator"
+  ],
+  [
+    "\\conjquant",
+    "two logical and operator"
+  ],
+  [
+    "\\disjquant",
+    "two logical or operator"
+  ],
+  [
+    "\\bigtimes",
+    "n-ary times operator"
+  ],
+  [
+    "\\modtwosum",
+    "modulo two sum"
+  ],
+  [
+    "\\sumint",
+    "summation with integral"
+  ],
+  [
+    "\\iiiint",
+    "quadruple integral operator"
+  ],
+  [
+    "\\intbar",
+    "finite part integral"
+  ],
+  [
+    "\\intBar",
+    "integral with double stroke"
+  ],
+  [
+    "\\fint",
+    "integral average with slash"
+  ],
+  [
+    "\\cirfnint",
+    "circulation function"
+  ],
+  [
+    "\\awint",
+    "anticlockwise integration"
+  ],
+  [
+    "\\rppolint",
+    "line integration with rectangular path around pole"
+  ],
+  [
+    "\\scpolint",
+    "line integration with semicircular path around pole"
+  ],
+  [
+    "\\npolint",
+    "line integration not including the pole"
+  ],
+  [
+    "\\pointint",
+    "integral around a point operator"
+  ],
+  [
+    "\\sqint",
+    "quaternion integral operator"
+  ],
+  [
+    "\\intlarhk",
+    "integral with leftwards arrow with hook"
+  ],
+  [
+    "\\intx",
+    "integral with times sign"
+  ],
+  [
+    "\\intcap",
+    "integral with intersection"
+  ],
+  [
+    "\\intcup",
+    "integral with union"
+  ],
+  [
+    "\\upint",
+    "integral with overbar"
+  ],
+  [
+    "\\lowint",
+    "integral with underbar"
+  ],
+  [
+    "\\Join",
+    "join"
+  ],
+  [
+    "\\bigtriangleleft",
+    "large left triangle operator"
+  ],
+  [
+    "\\zcmp",
+    "z notation schema composition"
+  ],
+  [
+    "\\zpipe",
+    "z notation schema piping"
+  ],
+  [
+    "\\zproject",
+    "z notation schema projection"
+  ],
+  [
+    "\\ringplus",
+    "plus sign with small circle above"
+  ],
+  [
+    "\\plushat",
+    "plus sign with circumflex accent above"
+  ],
+  [
+    "\\simplus",
+    "plus sign with tilde above"
+  ],
+  [
+    "\\plusdot",
+    "plus sign with dot below"
+  ],
+  [
+    "\\plussim",
+    "plus sign with tilde below"
+  ],
+  [
+    "\\plussubtwo",
+    "plus sign with subscript two"
+  ],
+  [
+    "\\plustrif",
+    "plus sign with black triangle"
+  ],
+  [
+    "\\commaminus",
+    "minus sign with comma above"
+  ],
+  [
+    "\\minusdot",
+    "minus sign with dot below"
+  ],
+  [
+    "\\minusfdots",
+    "minus sign with falling dots"
+  ],
+  [
+    "\\minusrdots",
+    "minus sign with rising dots"
+  ],
+  [
+    "\\opluslhrim",
+    "plus sign in left half circle"
+  ],
+  [
+    "\\oplusrhrim",
+    "plus sign in right half circle"
+  ],
+  [
+    "\\vectimes",
+    "vector or cross product"
+  ],
+  [
+    "\\dottimes",
+    "multiplication sign with dot above"
+  ],
+  [
+    "\\timesbar",
+    "multiplication sign with underbar"
+  ],
+  [
+    "\\btimes",
+    "semidirect product with bottom closed"
+  ],
+  [
+    "\\smashtimes",
+    "smash product"
+  ],
+  [
+    "\\otimeslhrim",
+    "multiplication sign in left half circle"
+  ],
+  [
+    "\\otimesrhrim",
+    "multiplication sign in right half circle"
+  ],
+  [
+    "\\otimeshat",
+    "circled multiplication sign with circumflex accent"
+  ],
+  [
+    "\\Otimes",
+    "multiplication sign in double circle"
+  ],
+  [
+    "\\odiv",
+    "circled division sign"
+  ],
+  [
+    "\\triangleplus",
+    "plus sign in triangle"
+  ],
+  [
+    "\\triangleminus",
+    "minus sign in triangle"
+  ],
+  [
+    "\\triangletimes",
+    "multiplication sign in triangle"
+  ],
+  [
+    "\\intprod",
+    "interior product"
+  ],
+  [
+    "\\intprodr",
+    "righthand interior product"
+  ],
+  [
+    "\\fcmp",
+    "z notation relational composition"
+  ],
+  [
+    "\\amalg",
+    "amalgamation or coproduct"
+  ],
+  [
+    "\\capdot",
+    "intersection with dot"
+  ],
+  [
+    "\\uminus",
+    "union with minus sign"
+  ],
+  [
+    "\\barcup",
+    "union with overbar"
+  ],
+  [
+    "\\barcap",
+    "intersection with overbar"
+  ],
+  [
+    "\\capwedge",
+    "intersection with logical and"
+  ],
+  [
+    "\\cupvee",
+    "union with logical or"
+  ],
+  [
+    "\\cupovercap",
+    "union above intersection"
+  ],
+  [
+    "\\capovercup",
+    "intersection above union"
+  ],
+  [
+    "\\cupbarcap",
+    "union above bar above intersection"
+  ],
+  [
+    "\\capbarcup",
+    "intersection above bar above union"
+  ],
+  [
+    "\\twocups",
+    "union beside and joined with union"
+  ],
+  [
+    "\\twocaps",
+    "intersection beside and joined with intersection"
+  ],
+  [
+    "\\closedvarcup",
+    "closed union with serifs"
+  ],
+  [
+    "\\closedvarcap",
+    "closed intersection with serifs"
+  ],
+  [
+    "\\Sqcap",
+    "double square intersection"
+  ],
+  [
+    "\\Sqcup",
+    "double square union"
+  ],
+  [
+    "\\closedvarcupsmashprod",
+    "closed union with serifs and smash product"
+  ],
+  [
+    "\\wedgeodot",
+    "logical and with dot above"
+  ],
+  [
+    "\\veeodot",
+    "logical or with dot above"
+  ],
+  [
+    "\\Wedge",
+    "double logical and"
+  ],
+  [
+    "\\Vee",
+    "double logical or"
+  ],
+  [
+    "\\wedgeonwedge",
+    "two intersecting logical and"
+  ],
+  [
+    "\\veeonvee",
+    "two intersecting logical or"
+  ],
+  [
+    "\\bigslopedvee",
+    "sloping large or"
+  ],
+  [
+    "\\bigslopedwedge",
+    "sloping large and"
+  ],
+  [
+    "\\veeonwedge",
+    "logical or overlapping logical and"
+  ],
+  [
+    "\\wedgemidvert",
+    "logical and with middle stem"
+  ],
+  [
+    "\\veemidvert",
+    "logical or with middle stem"
+  ],
+  [
+    "\\midbarwedge",
+    "ogical and with horizontal dash"
+  ],
+  [
+    "\\midbarvee",
+    "logical or with horizontal dash"
+  ],
+  [
+    "\\doublebarwedge",
+    "logical and with double overbar"
+  ],
+  [
+    "\\wedgebar",
+    "logical and with underbar"
+  ],
+  [
+    "\\wedgedoublebar",
+    "logical and with double underbar"
+  ],
+  [
+    "\\varveebar",
+    "small vee with underbar"
+  ],
+  [
+    "\\doublebarvee",
+    "logical or with double overbar"
+  ],
+  [
+    "\\veedoublebar",
+    "logical or with double underbar"
+  ],
+  [
+    "\\dsub",
+    "z notation domain antirestriction"
+  ],
+  [
+    "\\rsub",
+    "z notation range antirestriction"
+  ],
+  [
+    "\\eqdot",
+    "equals sign with dot below"
+  ],
+  [
+    "\\dotequiv",
+    "identical with dot above"
+  ],
+  [
+    "\\equivVert",
+    "triple horizontal bar with double vertical stroke"
+  ],
+  [
+    "\\equivVvert",
+    "triple horizontal bar with triple vertical stroke"
+  ],
+  [
+    "\\dotsim",
+    "tilde operator with dot above"
+  ],
+  [
+    "\\simrdots",
+    "tilde operator with rising dots"
+  ],
+  [
+    "\\simminussim",
+    "similar minus similar"
+  ],
+  [
+    "\\congdot",
+    "congruent with dot above"
+  ],
+  [
+    "\\asteq",
+    "equals with asterisk"
+  ],
+  [
+    "\\hatapprox",
+    "almost equal to with circumflex accent"
+  ],
+  [
+    "\\approxeqq",
+    "approximately equal or equal to"
+  ],
+  [
+    "\\eqqplus",
+    "equals sign above plus sign"
+  ],
+  [
+    "\\pluseqq",
+    "plus sign above equals sign"
+  ],
+  [
+    "\\eqqsim",
+    "equals sign above tilde operator"
+  ],
+  [
+    "\\Coloneq",
+    "double colon equal"
+  ],
+  [
+    "\\eqeq",
+    "two consecutive equals signs"
+  ],
+  [
+    "\\eqeqeq",
+    "three consecutive equals signs"
+  ],
+  [
+    "\\ddotseq",
+    "equals sign with two dots above and two dots below"
+  ],
+  [
+    "\\equivDD",
+    "equivalent with four dots above"
+  ],
+  [
+    "\\ltcir",
+    "less-than with circle inside"
+  ],
+  [
+    "\\gtcir",
+    "greater-than with circle inside"
+  ],
+  [
+    "\\ltquest",
+    "less-than with question mark above"
+  ],
+  [
+    "\\gtquest",
+    "greater-than with question mark above"
+  ],
+  [
+    "\\leqslant",
+    "less-than or slanted equal to"
+  ],
+  [
+    "\\geqslant",
+    "greater-than or slanted equal to"
+  ],
+  [
+    "\\lesdot",
+    "less-than or slanted equal to with dot inside"
+  ],
+  [
+    "\\gesdot",
+    "greater-than or slanted equal to with dot inside"
+  ],
+  [
+    "\\lesdoto",
+    "less-than or slanted equal to with dot above"
+  ],
+  [
+    "\\gesdoto",
+    "greater-than or slanted equal to with dot above"
+  ],
+  [
+    "\\lesdotor",
+    "less-than or slanted equal to with dot above right"
+  ],
+  [
+    "\\gesdotol",
+    "greater-than or slanted equal to with dot above left"
+  ],
+  [
+    "\\lessapprox",
+    "less-than or approximate"
+  ],
+  [
+    "\\gtrapprox",
+    "greater-than or approximate"
+  ],
+  [
+    "\\lneq",
+    "less-than and single-line not equal to"
+  ],
+  [
+    "\\gneq",
+    "greater-than and single-line not equal to"
+  ],
+  [
+    "\\lnapprox",
+    "less-than and not approximate"
+  ],
+  [
+    "\\gnapprox",
+    "greater-than and not approximate"
+  ],
+  [
+    "\\lesseqqgtr",
+    "less-than above double-line equal above greater-than"
+  ],
+  [
+    "\\gtreqqless",
+    "greater-than above double-line equal above less-than"
+  ],
+  [
+    "\\lsime",
+    "less-than above similar or equal"
+  ],
+  [
+    "\\gsime",
+    "greater-than above similar or equal"
+  ],
+  [
+    "\\lsimg",
+    "less-than above similar above greater-than"
+  ],
+  [
+    "\\gsiml",
+    "greater-than above similar above less-than"
+  ],
+  [
+    "\\lgE",
+    "less-than above greater-than above double-line equal"
+  ],
+  [
+    "\\glE",
+    "greater-than above less-than above double-line equal"
+  ],
+  [
+    "\\lesges",
+    "less-than above slanted equal above greater-than above slanted equal"
+  ],
+  [
+    "\\gesles",
+    "greater-than above slanted equal above less-than above slanted equal"
+  ],
+  [
+    "\\eqslantless",
+    "slanted equal to or less-than"
+  ],
+  [
+    "\\eqslantgtr",
+    "slanted equal to or greater-than"
+  ],
+  [
+    "\\elsdot",
+    "slanted equal to or less-than with dot inside"
+  ],
+  [
+    "\\egsdot",
+    "slanted equal to or greater-than with dot inside"
+  ],
+  [
+    "\\eqqless",
+    "double-line equal to or less-than"
+  ],
+  [
+    "\\eqqgtr",
+    "double-line equal to or greater-than"
+  ],
+  [
+    "\\eqqslantless",
+    "double-line slanted equal to or less-than"
+  ],
+  [
+    "\\eqqslantgtr",
+    "double-line slanted equal to or greater-than"
+  ],
+  [
+    "\\simless",
+    "similar or less-than"
+  ],
+  [
+    "\\simgtr",
+    "similar or greater-than"
+  ],
+  [
+    "\\simlE",
+    "similar above less-than above equals sign"
+  ],
+  [
+    "\\simgE",
+    "similar above greater-than above equals sign"
+  ],
+  [
+    "\\Lt",
+    "double nested less-than"
+  ],
+  [
+    "\\Gt",
+    "double nested greater-than"
+  ],
+  [
+    "\\partialmeetcontraction",
+    "double less-than with underbar"
+  ],
+  [
+    "\\glj",
+    "greater-than overlapping less-than"
+  ],
+  [
+    "\\gla",
+    "greater-than beside less-than"
+  ],
+  [
+    "\\ltcc",
+    "less-than closed by curve"
+  ],
+  [
+    "\\gtcc",
+    "greater-than closed by curve"
+  ],
+  [
+    "\\lescc",
+    "less-than closed by curve above slanted equal"
+  ],
+  [
+    "\\gescc",
+    "greater-than closed by curve above slanted equal"
+  ],
+  [
+    "\\smt",
+    "smaller than"
+  ],
+  [
+    "\\lat",
+    "larger than"
+  ],
+  [
+    "\\smte",
+    "smaller than or equal to"
+  ],
+  [
+    "\\late",
+    "larger than or equal to"
+  ],
+  [
+    "\\bumpeqq",
+    "equals sign with bumpy above"
+  ],
+  [
+    "\\preceq",
+    "precedes above single-line equals sign"
+  ],
+  [
+    "\\succeq",
+    "succeeds above single-line equals sign"
+  ],
+  [
+    "\\precneq",
+    "precedes above single-line not equal to"
+  ],
+  [
+    "\\succneq",
+    "succeeds above single-line not equal to"
+  ],
+  [
+    "\\preceqq",
+    "precedes above equals sign"
+  ],
+  [
+    "\\succeqq",
+    "succeeds above equals sign"
+  ],
+  [
+    "\\precneqq",
+    "precedes above not equal to"
+  ],
+  [
+    "\\succneqq",
+    "succeeds above not equal to"
+  ],
+  [
+    "\\precapprox",
+    "precedes above almost equal to"
+  ],
+  [
+    "\\succapprox",
+    "succeeds above almost equal to"
+  ],
+  [
+    "\\precnapprox",
+    "precedes above not almost equal to"
+  ],
+  [
+    "\\succnapprox",
+    "succeeds above not almost equal to"
+  ],
+  [
+    "\\Prec",
+    "double precedes"
+  ],
+  [
+    "\\Succ",
+    "double succeeds"
+  ],
+  [
+    "\\subsetdot",
+    "subset with dot"
+  ],
+  [
+    "\\supsetdot",
+    "superset with dot"
+  ],
+  [
+    "\\subsetplus",
+    "subset with plus sign below"
+  ],
+  [
+    "\\supsetplus",
+    "superset with plus sign below"
+  ],
+  [
+    "\\submult",
+    "subset with multiplication sign below"
+  ],
+  [
+    "\\supmult",
+    "superset with multiplication sign below"
+  ],
+  [
+    "\\subedot",
+    "subset of or equal to with dot above"
+  ],
+  [
+    "\\supedot",
+    "superset of or equal to with dot above"
+  ],
+  [
+    "\\subseteqq",
+    "subset of above equals sign"
+  ],
+  [
+    "\\supseteqq",
+    "superset of above equals sign"
+  ],
+  [
+    "\\subsim",
+    "subset of above tilde operator"
+  ],
+  [
+    "\\supsim",
+    "superset of above tilde operator"
+  ],
+  [
+    "\\subsetapprox",
+    "subset of above almost equal to"
+  ],
+  [
+    "\\supsetapprox",
+    "superset of above almost equal to"
+  ],
+  [
+    "\\subsetneqq",
+    "subset of above not equal to"
+  ],
+  [
+    "\\supsetneqq",
+    "superset of above not equal to"
+  ],
+  [
+    "\\lsqhook",
+    "square left open box operator"
+  ],
+  [
+    "\\rsqhook",
+    "square right open box operator"
+  ],
+  [
+    "\\csub",
+    "closed subset"
+  ],
+  [
+    "\\csup",
+    "closed superset"
+  ],
+  [
+    "\\csube",
+    "closed subset or equal to"
+  ],
+  [
+    "\\csupe",
+    "closed superset or equal to"
+  ],
+  [
+    "\\subsup",
+    "subset above superset"
+  ],
+  [
+    "\\supsub",
+    "superset above subset"
+  ],
+  [
+    "\\subsub",
+    "subset above subset"
+  ],
+  [
+    "\\supsup",
+    "superset above superset"
+  ],
+  [
+    "\\suphsub",
+    "superset beside subset"
+  ],
+  [
+    "\\supdsub",
+    "superset beside and joined by dash with subset"
+  ],
+  [
+    "\\forkv",
+    "element of opening downwards"
+  ],
+  [
+    "\\topfork",
+    "pitchfork with tee top"
+  ],
+  [
+    "\\mlcp",
+    "transversal intersection"
+  ],
+  [
+    "\\forks",
+    "forking"
+  ],
+  [
+    "\\forksnot",
+    "nonforking"
+  ],
+  [
+    "\\shortlefttack",
+    "short left tack"
+  ],
+  [
+    "\\shortdowntack",
+    "short down tack"
+  ],
+  [
+    "\\shortuptack",
+    "short up tack"
+  ],
+  [
+    "\\perps",
+    "perpendicular with s"
+  ],
+  [
+    "\\vDdash",
+    "vertical bar triple right turnstile"
+  ],
+  [
+    "\\dashV",
+    "double vertical bar left turnstile"
+  ],
+  [
+    "\\Dashv",
+    "vertical bar double left turnstile"
+  ],
+  [
+    "\\DashV",
+    "double vertical bar double left turnstile"
+  ],
+  [
+    "\\varVdash",
+    "long dash from left member of double vertical"
+  ],
+  [
+    "\\Barv",
+    "short down tack with overbar"
+  ],
+  [
+    "\\vBar",
+    "short up tack with underbar"
+  ],
+  [
+    "\\vBarv",
+    "short up tack above short down tack"
+  ],
+  [
+    "\\barV",
+    "double down tack"
+  ],
+  [
+    "\\Vbar",
+    "double up tack"
+  ],
+  [
+    "\\Not",
+    "double stroke not sign"
+  ],
+  [
+    "\\bNot",
+    "reversed double stroke not sign"
+  ],
+  [
+    "\\revnmid",
+    "does not divide with reversed negation slash"
+  ],
+  [
+    "\\cirmid",
+    "vertical line with circle above"
+  ],
+  [
+    "\\midcir",
+    "vertical line with circle below"
+  ],
+  [
+    "\\topcir",
+    "down tack with circle below"
+  ],
+  [
+    "\\nhpar",
+    "parallel with horizontal stroke"
+  ],
+  [
+    "\\parsim",
+    "parallel with tilde operator"
+  ],
+  [
+    "\\interleave",
+    "triple vertical bar binary relation"
+  ],
+  [
+    "\\nhVvert",
+    "triple vertical bar with horizontal stroke"
+  ],
+  [
+    "\\threedotcolon",
+    "triple colon operator"
+  ],
+  [
+    "\\lllnest",
+    "stacked very much less-than"
+  ],
+  [
+    "\\gggnest",
+    "stacked very much greater-than"
+  ],
+  [
+    "\\leqqslant",
+    "double-line slanted less-than or equal to"
+  ],
+  [
+    "\\geqqslant",
+    "double-line slanted greater-than or equal to"
+  ],
+  [
+    "\\trslash",
+    "triple solidus binary relation"
+  ],
+  [
+    "\\biginterleave",
+    "large triple vertical bar operator"
+  ],
+  [
+    "\\sslash",
+    "double solidus operator"
+  ],
+  [
+    "\\talloblong",
+    "white vertical bar"
+  ],
+  [
+    "\\bigtalloblong",
+    "n-ary white vertical bar"
+  ],
+  [
+    "\\squaretopblack",
+    "square with top half black"
+  ],
+  [
+    "\\squarebotblack",
+    "square with bottom half black"
+  ],
+  [
+    "\\squareurblack",
+    "square with upper right diagonal half black"
+  ],
+  [
+    "\\squarellblack",
+    "square with lower left diagonal half black"
+  ],
+  [
+    "\\diamondleftblack",
+    "diamond with left half black"
+  ],
+  [
+    "\\diamondrightblack",
+    "diamond with right half black"
+  ],
+  [
+    "\\diamondtopblack",
+    "diamond with top half black"
+  ],
+  [
+    "\\diamondbotblack",
+    "diamond with bottom half black"
+  ],
+  [
+    "\\dottedsquare",
+    "dotted square"
+  ],
+  [
+    "\\lgblksquare",
+    "black large square"
+  ],
+  [
+    "\\lgwhtsquare",
+    "white large square"
+  ],
+  [
+    "\\vysmblksquare",
+    "black very small square"
+  ],
+  [
+    "\\vysmwhtsquare",
+    "white very small square"
+  ],
+  [
+    "\\pentagonblack",
+    "black pentagon"
+  ],
+  [
+    "\\pentagon",
+    "white pentagon"
+  ],
+  [
+    "\\varhexagon",
+    "white hexagon"
+  ],
+  [
+    "\\varhexagonblack",
+    "black hexagon"
+  ],
+  [
+    "\\hexagonblack",
+    "horizontal black hexagon"
+  ],
+  [
+    "\\lgblkcircle",
+    "black large circle"
+  ],
+  [
+    "\\mdblkdiamond",
+    "black medium diamond"
+  ],
+  [
+    "\\mdwhtdiamond",
+    "white medium diamond"
+  ],
+  [
+    "\\mdblklozenge",
+    "black medium lozenge"
+  ],
+  [
+    "\\mdwhtlozenge",
+    "white medium lozenge"
+  ],
+  [
+    "\\smblkdiamond",
+    "black small diamond"
+  ],
+  [
+    "\\smblklozenge",
+    "black small lozenge"
+  ],
+  [
+    "\\smwhtlozenge",
+    "white small lozenge"
+  ],
+  [
+    "\\blkhorzoval",
+    "black horizontal ellipse"
+  ],
+  [
+    "\\whthorzoval",
+    "white horizontal ellipse"
+  ],
+  [
+    "\\blkvertoval",
+    "black vertical ellipse"
+  ],
+  [
+    "\\whtvertoval",
+    "white vertical ellipse"
+  ],
+  [
+    "\\circleonleftarrow",
+    "left arrow with small circle"
+  ],
+  [
+    "\\leftthreearrows",
+    "three leftwards arrows"
+  ],
+  [
+    "\\leftarrowonoplus",
+    "left arrow with circled plus"
+  ],
+  [
+    "\\longleftsquigarrow",
+    "long leftwards squiggle arrow"
+  ],
+  [
+    "\\nvtwoheadleftarrow",
+    "leftwards two-headed arrow with vertical stroke"
+  ],
+  [
+    "\\nVtwoheadleftarrow",
+    "leftwards two-headed arrow with double vertical stroke"
+  ],
+  [
+    "\\twoheadmapsfrom",
+    "leftwards two-headed arrow from bar"
+  ],
+  [
+    "\\twoheadleftdbkarrow",
+    "leftwards two-headed triple-dash arrow"
+  ],
+  [
+    "\\leftdotarrow",
+    "leftwards arrow with dotted stem"
+  ],
+  [
+    "\\nvleftarrowtail",
+    "leftwards arrow with tail with vertical stroke"
+  ],
+  [
+    "\\nVleftarrowtail",
+    "leftwards arrow with tail with double vertical stroke"
+  ],
+  [
+    "\\twoheadleftarrowtail",
+    "leftwards two-headed arrow with tail"
+  ],
+  [
+    "\\nvtwoheadleftarrowtail",
+    "leftwards two-headed arrow with tail with vertical stroke"
+  ],
+  [
+    "\\nVtwoheadleftarrowtail",
+    "leftwards two-headed arrow with tail with double vertical stroke"
+  ],
+  [
+    "\\leftarrowx",
+    "leftwards arrow through x"
+  ],
+  [
+    "\\leftcurvedarrow",
+    "wave arrow pointing directly left"
+  ],
+  [
+    "\\equalleftarrow",
+    "equals sign above leftwards arrow"
+  ],
+  [
+    "\\bsimilarleftarrow",
+    "reverse tilde operator above leftwards arrow"
+  ],
+  [
+    "\\leftarrowbackapprox",
+    "leftwards arrow above reverse almost equal to"
+  ],
+  [
+    "\\rightarrowgtr",
+    "rightwards arrow through greater-than"
+  ],
+  [
+    "\\rightarrowsupset",
+    "rightwards arrow through subset"
+  ],
+  [
+    "\\LLeftarrow",
+    "leftwards quadruple arrow"
+  ],
+  [
+    "\\RRightarrow",
+    "rightwards quadruple arrow"
+  ],
+  [
+    "\\bsimilarrightarrow",
+    "reverse tilde operator above rightwards arrow"
+  ],
+  [
+    "\\rightarrowbackapprox",
+    "rightwards arrow above reverse almost equal to"
+  ],
+  [
+    "\\similarleftarrow",
+    "tilde operator above leftwards arrow"
+  ],
+  [
+    "\\leftarrowapprox",
+    "leftwards arrow above almost equal to"
+  ],
+  [
+    "\\leftarrowbsimilar",
+    "leftwards arrow above reverse tilde operator"
+  ],
+  [
+    "\\rightarrowbsimilar",
+    "righttwards arrow above reverse tilde operator"
+  ],
+  [
+    "\\medwhitestar",
+    "white medium star"
+  ],
+  [
+    "\\medblackstar",
+    "black medium star"
+  ],
+  [
+    "\\smwhitestar",
+    "white small star"
+  ],
+  [
+    "\\rightpentagonblack",
+    "black right-pointing pentagon"
+  ],
+  [
+    "\\rightpentagon",
+    "white right-pointing pentagon"
+  ],
+  [
+    "\\postalmark",
+    "postal mark"
+  ],
+  [
+    "\\hzigzag",
+    "zigzag"
+  ],
+  [
+    "\\mbfA",
+    "mathematical bold capital a"
+  ],
+  [
+    "\\mbfB",
+    "mathematical bold capital b"
+  ],
+  [
+    "\\mbfC",
+    "mathematical bold capital c"
+  ],
+  [
+    "\\mbfD",
+    "mathematical bold capital d"
+  ],
+  [
+    "\\mbfE",
+    "mathematical bold capital e"
+  ],
+  [
+    "\\mbfF",
+    "mathematical bold capital f"
+  ],
+  [
+    "\\mbfG",
+    "mathematical bold capital g"
+  ],
+  [
+    "\\mbfH",
+    "mathematical bold capital h"
+  ],
+  [
+    "\\mbfI",
+    "mathematical bold capital i"
+  ],
+  [
+    "\\mbfJ",
+    "mathematical bold capital j"
+  ],
+  [
+    "\\mbfK",
+    "mathematical bold capital k"
+  ],
+  [
+    "\\mbfL",
+    "mathematical bold capital l"
+  ],
+  [
+    "\\mbfM",
+    "mathematical bold capital m"
+  ],
+  [
+    "\\mbfN",
+    "mathematical bold capital n"
+  ],
+  [
+    "\\mbfO",
+    "mathematical bold capital o"
+  ],
+  [
+    "\\mbfP",
+    "mathematical bold capital p"
+  ],
+  [
+    "\\mbfQ",
+    "mathematical bold capital q"
+  ],
+  [
+    "\\mbfR",
+    "mathematical bold capital r"
+  ],
+  [
+    "\\mbfS",
+    "mathematical bold capital s"
+  ],
+  [
+    "\\mbfT",
+    "mathematical bold capital t"
+  ],
+  [
+    "\\mbfU",
+    "mathematical bold capital u"
+  ],
+  [
+    "\\mbfV",
+    "mathematical bold capital v"
+  ],
+  [
+    "\\mbfW",
+    "mathematical bold capital w"
+  ],
+  [
+    "\\mbfX",
+    "mathematical bold capital x"
+  ],
+  [
+    "\\mbfY",
+    "mathematical bold capital y"
+  ],
+  [
+    "\\mbfZ",
+    "mathematical bold capital z"
+  ],
+  [
+    "\\mbfa",
+    "mathematical bold small a"
+  ],
+  [
+    "\\mbfb",
+    "mathematical bold small b"
+  ],
+  [
+    "\\mbfc",
+    "mathematical bold small c"
+  ],
+  [
+    "\\mbfd",
+    "mathematical bold small d"
+  ],
+  [
+    "\\mbfe",
+    "mathematical bold small e"
+  ],
+  [
+    "\\mbff",
+    "mathematical bold small f"
+  ],
+  [
+    "\\mbfg",
+    "mathematical bold small g"
+  ],
+  [
+    "\\mbfh",
+    "mathematical bold small h"
+  ],
+  [
+    "\\mbfi",
+    "mathematical bold small i"
+  ],
+  [
+    "\\mbfj",
+    "mathematical bold small j"
+  ],
+  [
+    "\\mbfk",
+    "mathematical bold small k"
+  ],
+  [
+    "\\mbfl",
+    "mathematical bold small l"
+  ],
+  [
+    "\\mbfm",
+    "mathematical bold small m"
+  ],
+  [
+    "\\mbfn",
+    "mathematical bold small n"
+  ],
+  [
+    "\\mbfo",
+    "mathematical bold small o"
+  ],
+  [
+    "\\mbfp",
+    "mathematical bold small p"
+  ],
+  [
+    "\\mbfq",
+    "mathematical bold small q"
+  ],
+  [
+    "\\mbfr",
+    "mathematical bold small r"
+  ],
+  [
+    "\\mbfs",
+    "mathematical bold small s"
+  ],
+  [
+    "\\mbft",
+    "mathematical bold small t"
+  ],
+  [
+    "\\mbfu",
+    "mathematical bold small u"
+  ],
+  [
+    "\\mbfv",
+    "mathematical bold small v"
+  ],
+  [
+    "\\mbfw",
+    "mathematical bold small w"
+  ],
+  [
+    "\\mbfx",
+    "mathematical bold small x"
+  ],
+  [
+    "\\mbfy",
+    "mathematical bold small y"
+  ],
+  [
+    "\\mbfz",
+    "mathematical bold small z"
+  ],
+  [
+    "\\mitA",
+    "mathematical italic capital a"
+  ],
+  [
+    "\\mitB",
+    "mathematical italic capital b"
+  ],
+  [
+    "\\mitC",
+    "mathematical italic capital c"
+  ],
+  [
+    "\\mitD",
+    "mathematical italic capital d"
+  ],
+  [
+    "\\mitE",
+    "mathematical italic capital e"
+  ],
+  [
+    "\\mitF",
+    "mathematical italic capital f"
+  ],
+  [
+    "\\mitG",
+    "mathematical italic capital g"
+  ],
+  [
+    "\\mitH",
+    "mathematical italic capital h"
+  ],
+  [
+    "\\mitI",
+    "mathematical italic capital i"
+  ],
+  [
+    "\\mitJ",
+    "mathematical italic capital j"
+  ],
+  [
+    "\\mitK",
+    "mathematical italic capital k"
+  ],
+  [
+    "\\mitL",
+    "mathematical italic capital l"
+  ],
+  [
+    "\\mitM",
+    "mathematical italic capital m"
+  ],
+  [
+    "\\mitN",
+    "mathematical italic capital n"
+  ],
+  [
+    "\\mitO",
+    "mathematical italic capital o"
+  ],
+  [
+    "\\mitP",
+    "mathematical italic capital p"
+  ],
+  [
+    "\\mitQ",
+    "mathematical italic capital q"
+  ],
+  [
+    "\\mitR",
+    "mathematical italic capital r"
+  ],
+  [
+    "\\mitS",
+    "mathematical italic capital s"
+  ],
+  [
+    "\\mitT",
+    "mathematical italic capital t"
+  ],
+  [
+    "\\mitU",
+    "mathematical italic capital u"
+  ],
+  [
+    "\\mitV",
+    "mathematical italic capital v"
+  ],
+  [
+    "\\mitW",
+    "mathematical italic capital w"
+  ],
+  [
+    "\\mitX",
+    "mathematical italic capital x"
+  ],
+  [
+    "\\mitY",
+    "mathematical italic capital y"
+  ],
+  [
+    "\\mitZ",
+    "mathematical italic capital z"
+  ],
+  [
+    "\\mita",
+    "mathematical italic small a"
+  ],
+  [
+    "\\mitb",
+    "mathematical italic small b"
+  ],
+  [
+    "\\mitc",
+    "mathematical italic small c"
+  ],
+  [
+    "\\mitd",
+    "mathematical italic small d"
+  ],
+  [
+    "\\mite",
+    "mathematical italic small e"
+  ],
+  [
+    "\\mitf",
+    "mathematical italic small f"
+  ],
+  [
+    "\\mitg",
+    "mathematical italic small g"
+  ],
+  [
+    "\\miti",
+    "mathematical italic small i"
+  ],
+  [
+    "\\mitj",
+    "mathematical italic small j"
+  ],
+  [
+    "\\mitk",
+    "mathematical italic small k"
+  ],
+  [
+    "\\mitl",
+    "mathematical italic small l"
+  ],
+  [
+    "\\mitm",
+    "mathematical italic small m"
+  ],
+  [
+    "\\mitn",
+    "mathematical italic small n"
+  ],
+  [
+    "\\mito",
+    "mathematical italic small o"
+  ],
+  [
+    "\\mitp",
+    "mathematical italic small p"
+  ],
+  [
+    "\\mitq",
+    "mathematical italic small q"
+  ],
+  [
+    "\\mitr",
+    "mathematical italic small r"
+  ],
+  [
+    "\\mits",
+    "mathematical italic small s"
+  ],
+  [
+    "\\mitt",
+    "mathematical italic small t"
+  ],
+  [
+    "\\mitu",
+    "mathematical italic small u"
+  ],
+  [
+    "\\mitv",
+    "mathematical italic small v"
+  ],
+  [
+    "\\mitw",
+    "mathematical italic small w"
+  ],
+  [
+    "\\mitx",
+    "mathematical italic small x"
+  ],
+  [
+    "\\mity",
+    "mathematical italic small y"
+  ],
+  [
+    "\\mitz",
+    "mathematical italic small z"
+  ],
+  [
+    "\\mbfitA",
+    "mathematical bold italic capital a"
+  ],
+  [
+    "\\mbfitB",
+    "mathematical bold italic capital b"
+  ],
+  [
+    "\\mbfitC",
+    "mathematical bold italic capital c"
+  ],
+  [
+    "\\mbfitD",
+    "mathematical bold italic capital d"
+  ],
+  [
+    "\\mbfitE",
+    "mathematical bold italic capital e"
+  ],
+  [
+    "\\mbfitF",
+    "mathematical bold italic capital f"
+  ],
+  [
+    "\\mbfitG",
+    "mathematical bold italic capital g"
+  ],
+  [
+    "\\mbfitH",
+    "mathematical bold italic capital h"
+  ],
+  [
+    "\\mbfitI",
+    "mathematical bold italic capital i"
+  ],
+  [
+    "\\mbfitJ",
+    "mathematical bold italic capital j"
+  ],
+  [
+    "\\mbfitK",
+    "mathematical bold italic capital k"
+  ],
+  [
+    "\\mbfitL",
+    "mathematical bold italic capital l"
+  ],
+  [
+    "\\mbfitM",
+    "mathematical bold italic capital m"
+  ],
+  [
+    "\\mbfitN",
+    "mathematical bold italic capital n"
+  ],
+  [
+    "\\mbfitO",
+    "mathematical bold italic capital o"
+  ],
+  [
+    "\\mbfitP",
+    "mathematical bold italic capital p"
+  ],
+  [
+    "\\mbfitQ",
+    "mathematical bold italic capital q"
+  ],
+  [
+    "\\mbfitR",
+    "mathematical bold italic capital r"
+  ],
+  [
+    "\\mbfitS",
+    "mathematical bold italic capital s"
+  ],
+  [
+    "\\mbfitT",
+    "mathematical bold italic capital t"
+  ],
+  [
+    "\\mbfitU",
+    "mathematical bold italic capital u"
+  ],
+  [
+    "\\mbfitV",
+    "mathematical bold italic capital v"
+  ],
+  [
+    "\\mbfitW",
+    "mathematical bold italic capital w"
+  ],
+  [
+    "\\mbfitX",
+    "mathematical bold italic capital x"
+  ],
+  [
+    "\\mbfitY",
+    "mathematical bold italic capital y"
+  ],
+  [
+    "\\mbfitZ",
+    "mathematical bold italic capital z"
+  ],
+  [
+    "\\mbfita",
+    "mathematical bold italic small a"
+  ],
+  [
+    "\\mbfitb",
+    "mathematical bold italic small b"
+  ],
+  [
+    "\\mbfitc",
+    "mathematical bold italic small c"
+  ],
+  [
+    "\\mbfitd",
+    "mathematical bold italic small d"
+  ],
+  [
+    "\\mbfite",
+    "mathematical bold italic small e"
+  ],
+  [
+    "\\mbfitf",
+    "mathematical bold italic small f"
+  ],
+  [
+    "\\mbfitg",
+    "mathematical bold italic small g"
+  ],
+  [
+    "\\mbfith",
+    "mathematical bold italic small h"
+  ],
+  [
+    "\\mbfiti",
+    "mathematical bold italic small i"
+  ],
+  [
+    "\\mbfitj",
+    "mathematical bold italic small j"
+  ],
+  [
+    "\\mbfitk",
+    "mathematical bold italic small k"
+  ],
+  [
+    "\\mbfitl",
+    "mathematical bold italic small l"
+  ],
+  [
+    "\\mbfitm",
+    "mathematical bold italic small m"
+  ],
+  [
+    "\\mbfitn",
+    "mathematical bold italic small n"
+  ],
+  [
+    "\\mbfito",
+    "mathematical bold italic small o"
+  ],
+  [
+    "\\mbfitp",
+    "mathematical bold italic small p"
+  ],
+  [
+    "\\mbfitq",
+    "mathematical bold italic small q"
+  ],
+  [
+    "\\mbfitr",
+    "mathematical bold italic small r"
+  ],
+  [
+    "\\mbfits",
+    "mathematical bold italic small s"
+  ],
+  [
+    "\\mbfitt",
+    "mathematical bold italic small t"
+  ],
+  [
+    "\\mbfitu",
+    "mathematical bold italic small u"
+  ],
+  [
+    "\\mbfitv",
+    "mathematical bold italic small v"
+  ],
+  [
+    "\\mbfitw",
+    "mathematical bold italic small w"
+  ],
+  [
+    "\\mbfitx",
+    "mathematical bold italic small x"
+  ],
+  [
+    "\\mbfity",
+    "mathematical bold italic small y"
+  ],
+  [
+    "\\mbfitz",
+    "mathematical bold italic small z"
+  ],
+  [
+    "\\mscrA",
+    "mathematical script capital a"
+  ],
+  [
+    "\\mscrC",
+    "mathematical script capital c"
+  ],
+  [
+    "\\mscrD",
+    "mathematical script capital d"
+  ],
+  [
+    "\\mscrG",
+    "mathematical script capital g"
+  ],
+  [
+    "\\mscrJ",
+    "mathematical script capital j"
+  ],
+  [
+    "\\mscrK",
+    "mathematical script capital k"
+  ],
+  [
+    "\\mscrN",
+    "mathematical script capital n"
+  ],
+  [
+    "\\mscrO",
+    "mathematical script capital o"
+  ],
+  [
+    "\\mscrP",
+    "mathematical script capital p"
+  ],
+  [
+    "\\mscrQ",
+    "mathematical script capital q"
+  ],
+  [
+    "\\mscrS",
+    "mathematical script capital s"
+  ],
+  [
+    "\\mscrT",
+    "mathematical script capital t"
+  ],
+  [
+    "\\mscrU",
+    "mathematical script capital u"
+  ],
+  [
+    "\\mscrV",
+    "mathematical script capital v"
+  ],
+  [
+    "\\mscrW",
+    "mathematical script capital w"
+  ],
+  [
+    "\\mscrX",
+    "mathematical script capital x"
+  ],
+  [
+    "\\mscrY",
+    "mathematical script capital y"
+  ],
+  [
+    "\\mscrZ",
+    "mathematical script capital z"
+  ],
+  [
+    "\\mscra",
+    "mathematical script small a"
+  ],
+  [
+    "\\mscrb",
+    "mathematical script small b"
+  ],
+  [
+    "\\mscrc",
+    "mathematical script small c"
+  ],
+  [
+    "\\mscrd",
+    "mathematical script small d"
+  ],
+  [
+    "\\mscrf",
+    "mathematical script small f"
+  ],
+  [
+    "\\mscrh",
+    "mathematical script small h"
+  ],
+  [
+    "\\mscri",
+    "mathematical script small i"
+  ],
+  [
+    "\\mscrj",
+    "mathematical script small j"
+  ],
+  [
+    "\\mscrk",
+    "mathematical script small k"
+  ],
+  [
+    "\\mscrl",
+    "mathematical script small l"
+  ],
+  [
+    "\\mscrm",
+    "mathematical script small m"
+  ],
+  [
+    "\\mscrn",
+    "mathematical script small n"
+  ],
+  [
+    "\\mscrp",
+    "mathematical script small p"
+  ],
+  [
+    "\\mscrq",
+    "mathematical script small q"
+  ],
+  [
+    "\\mscrr",
+    "mathematical script small r"
+  ],
+  [
+    "\\mscrs",
+    "mathematical script small s"
+  ],
+  [
+    "\\mscrt",
+    "mathematical script small t"
+  ],
+  [
+    "\\mscru",
+    "mathematical script small u"
+  ],
+  [
+    "\\mscrv",
+    "mathematical script small v"
+  ],
+  [
+    "\\mscrw",
+    "mathematical script small w"
+  ],
+  [
+    "\\mscrx",
+    "mathematical script small x"
+  ],
+  [
+    "\\mscry",
+    "mathematical script small y"
+  ],
+  [
+    "\\mscrz",
+    "mathematical script small z"
+  ],
+  [
+    "\\mbfscrA",
+    "mathematical bold script capital a"
+  ],
+  [
+    "\\mbfscrB",
+    "mathematical bold script capital b"
+  ],
+  [
+    "\\mbfscrC",
+    "mathematical bold script capital c"
+  ],
+  [
+    "\\mbfscrD",
+    "mathematical bold script capital d"
+  ],
+  [
+    "\\mbfscrE",
+    "mathematical bold script capital e"
+  ],
+  [
+    "\\mbfscrF",
+    "mathematical bold script capital f"
+  ],
+  [
+    "\\mbfscrG",
+    "mathematical bold script capital g"
+  ],
+  [
+    "\\mbfscrH",
+    "mathematical bold script capital h"
+  ],
+  [
+    "\\mbfscrI",
+    "mathematical bold script capital i"
+  ],
+  [
+    "\\mbfscrJ",
+    "mathematical bold script capital j"
+  ],
+  [
+    "\\mbfscrK",
+    "mathematical bold script capital k"
+  ],
+  [
+    "\\mbfscrL",
+    "mathematical bold script capital l"
+  ],
+  [
+    "\\mbfscrM",
+    "mathematical bold script capital m"
+  ],
+  [
+    "\\mbfscrN",
+    "mathematical bold script capital n"
+  ],
+  [
+    "\\mbfscrO",
+    "mathematical bold script capital o"
+  ],
+  [
+    "\\mbfscrP",
+    "mathematical bold script capital p"
+  ],
+  [
+    "\\mbfscrQ",
+    "mathematical bold script capital q"
+  ],
+  [
+    "\\mbfscrR",
+    "mathematical bold script capital r"
+  ],
+  [
+    "\\mbfscrS",
+    "mathematical bold script capital s"
+  ],
+  [
+    "\\mbfscrT",
+    "mathematical bold script capital t"
+  ],
+  [
+    "\\mbfscrU",
+    "mathematical bold script capital u"
+  ],
+  [
+    "\\mbfscrV",
+    "mathematical bold script capital v"
+  ],
+  [
+    "\\mbfscrW",
+    "mathematical bold script capital w"
+  ],
+  [
+    "\\mbfscrX",
+    "mathematical bold script capital x"
+  ],
+  [
+    "\\mbfscrY",
+    "mathematical bold script capital y"
+  ],
+  [
+    "\\mbfscrZ",
+    "mathematical bold script capital z"
+  ],
+  [
+    "\\mbfscra",
+    "mathematical bold script small a"
+  ],
+  [
+    "\\mbfscrb",
+    "mathematical bold script small b"
+  ],
+  [
+    "\\mbfscrc",
+    "mathematical bold script small c"
+  ],
+  [
+    "\\mbfscrd",
+    "mathematical bold script small d"
+  ],
+  [
+    "\\mbfscre",
+    "mathematical bold script small e"
+  ],
+  [
+    "\\mbfscrf",
+    "mathematical bold script small f"
+  ],
+  [
+    "\\mbfscrg",
+    "mathematical bold script small g"
+  ],
+  [
+    "\\mbfscrh",
+    "mathematical bold script small h"
+  ],
+  [
+    "\\mbfscri",
+    "mathematical bold script small i"
+  ],
+  [
+    "\\mbfscrj",
+    "mathematical bold script small j"
+  ],
+  [
+    "\\mbfscrk",
+    "mathematical bold script small k"
+  ],
+  [
+    "\\mbfscrl",
+    "mathematical bold script small l"
+  ],
+  [
+    "\\mbfscrm",
+    "mathematical bold script small m"
+  ],
+  [
+    "\\mbfscrn",
+    "mathematical bold script small n"
+  ],
+  [
+    "\\mbfscro",
+    "mathematical bold script small o"
+  ],
+  [
+    "\\mbfscrp",
+    "mathematical bold script small p"
+  ],
+  [
+    "\\mbfscrq",
+    "mathematical bold script small q"
+  ],
+  [
+    "\\mbfscrr",
+    "mathematical bold script small r"
+  ],
+  [
+    "\\mbfscrs",
+    "mathematical bold script small s"
+  ],
+  [
+    "\\mbfscrt",
+    "mathematical bold script small t"
+  ],
+  [
+    "\\mbfscru",
+    "mathematical bold script small u"
+  ],
+  [
+    "\\mbfscrv",
+    "mathematical bold script small v"
+  ],
+  [
+    "\\mbfscrw",
+    "mathematical bold script small w"
+  ],
+  [
+    "\\mbfscrx",
+    "mathematical bold script small x"
+  ],
+  [
+    "\\mbfscry",
+    "mathematical bold script small y"
+  ],
+  [
+    "\\mbfscrz",
+    "mathematical bold script small z"
+  ],
+  [
+    "\\mfrakA",
+    "mathematical fraktur capital a"
+  ],
+  [
+    "\\mfrakB",
+    "mathematical fraktur capital b"
+  ],
+  [
+    "\\mfrakD",
+    "mathematical fraktur capital d"
+  ],
+  [
+    "\\mfrakE",
+    "mathematical fraktur capital e"
+  ],
+  [
+    "\\mfrakF",
+    "mathematical fraktur capital f"
+  ],
+  [
+    "\\mfrakG",
+    "mathematical fraktur capital g"
+  ],
+  [
+    "\\mfrakJ",
+    "mathematical fraktur capital j"
+  ],
+  [
+    "\\mfrakK",
+    "mathematical fraktur capital k"
+  ],
+  [
+    "\\mfrakL",
+    "mathematical fraktur capital l"
+  ],
+  [
+    "\\mfrakM",
+    "mathematical fraktur capital m"
+  ],
+  [
+    "\\mfrakN",
+    "mathematical fraktur capital n"
+  ],
+  [
+    "\\mfrakO",
+    "mathematical fraktur capital o"
+  ],
+  [
+    "\\mfrakP",
+    "mathematical fraktur capital p"
+  ],
+  [
+    "\\mfrakQ",
+    "mathematical fraktur capital q"
+  ],
+  [
+    "\\mfrakS",
+    "mathematical fraktur capital s"
+  ],
+  [
+    "\\mfrakT",
+    "mathematical fraktur capital t"
+  ],
+  [
+    "\\mfrakU",
+    "mathematical fraktur capital u"
+  ],
+  [
+    "\\mfrakV",
+    "mathematical fraktur capital v"
+  ],
+  [
+    "\\mfrakW",
+    "mathematical fraktur capital w"
+  ],
+  [
+    "\\mfrakX",
+    "mathematical fraktur capital x"
+  ],
+  [
+    "\\mfrakY",
+    "mathematical fraktur capital y"
+  ],
+  [
+    "\\mfraka",
+    "mathematical fraktur small a"
+  ],
+  [
+    "\\mfrakb",
+    "mathematical fraktur small b"
+  ],
+  [
+    "\\mfrakc",
+    "mathematical fraktur small c"
+  ],
+  [
+    "\\mfrakd",
+    "mathematical fraktur small d"
+  ],
+  [
+    "\\mfrake",
+    "mathematical fraktur small e"
+  ],
+  [
+    "\\mfrakf",
+    "mathematical fraktur small f"
+  ],
+  [
+    "\\mfrakg",
+    "mathematical fraktur small g"
+  ],
+  [
+    "\\mfrakh",
+    "mathematical fraktur small h"
+  ],
+  [
+    "\\mfraki",
+    "mathematical fraktur small i"
+  ],
+  [
+    "\\mfrakj",
+    "mathematical fraktur small j"
+  ],
+  [
+    "\\mfrakk",
+    "mathematical fraktur small k"
+  ],
+  [
+    "\\mfrakl",
+    "mathematical fraktur small l"
+  ],
+  [
+    "\\mfrakm",
+    "mathematical fraktur small m"
+  ],
+  [
+    "\\mfrakn",
+    "mathematical fraktur small n"
+  ],
+  [
+    "\\mfrako",
+    "mathematical fraktur small o"
+  ],
+  [
+    "\\mfrakp",
+    "mathematical fraktur small p"
+  ],
+  [
+    "\\mfrakq",
+    "mathematical fraktur small q"
+  ],
+  [
+    "\\mfrakr",
+    "mathematical fraktur small r"
+  ],
+  [
+    "\\mfraks",
+    "mathematical fraktur small s"
+  ],
+  [
+    "\\mfrakt",
+    "mathematical fraktur small t"
+  ],
+  [
+    "\\mfraku",
+    "mathematical fraktur small u"
+  ],
+  [
+    "\\mfrakv",
+    "mathematical fraktur small v"
+  ],
+  [
+    "\\mfrakw",
+    "mathematical fraktur small w"
+  ],
+  [
+    "\\mfrakx",
+    "mathematical fraktur small x"
+  ],
+  [
+    "\\mfraky",
+    "mathematical fraktur small y"
+  ],
+  [
+    "\\mfrakz",
+    "mathematical fraktur small z"
+  ],
+  [
+    "\\BbbA",
+    "mathematical double-struck capital a"
+  ],
+  [
+    "\\BbbB",
+    "mathematical double-struck capital b"
+  ],
+  [
+    "\\BbbD",
+    "mathematical double-struck capital d"
+  ],
+  [
+    "\\BbbE",
+    "mathematical double-struck capital e"
+  ],
+  [
+    "\\BbbF",
+    "mathematical double-struck capital f"
+  ],
+  [
+    "\\BbbG",
+    "mathematical double-struck capital g"
+  ],
+  [
+    "\\BbbI",
+    "mathematical double-struck capital i"
+  ],
+  [
+    "\\BbbJ",
+    "mathematical double-struck capital j"
+  ],
+  [
+    "\\BbbK",
+    "mathematical double-struck capital k"
+  ],
+  [
+    "\\BbbL",
+    "mathematical double-struck capital l"
+  ],
+  [
+    "\\BbbM",
+    "mathematical double-struck capital m"
+  ],
+  [
+    "\\BbbO",
+    "mathematical double-struck capital o"
+  ],
+  [
+    "\\BbbS",
+    "mathematical double-struck capital s"
+  ],
+  [
+    "\\BbbT",
+    "mathematical double-struck capital t"
+  ],
+  [
+    "\\BbbU",
+    "mathematical double-struck capital u"
+  ],
+  [
+    "\\BbbV",
+    "mathematical double-struck capital v"
+  ],
+  [
+    "\\BbbW",
+    "mathematical double-struck capital w"
+  ],
+  [
+    "\\BbbX",
+    "mathematical double-struck capital x"
+  ],
+  [
+    "\\BbbY",
+    "mathematical double-struck capital y"
+  ],
+  [
+    "\\Bbba",
+    "mathematical double-struck small a"
+  ],
+  [
+    "\\Bbbb",
+    "mathematical double-struck small b"
+  ],
+  [
+    "\\Bbbc",
+    "mathematical double-struck small c"
+  ],
+  [
+    "\\Bbbd",
+    "mathematical double-struck small d"
+  ],
+  [
+    "\\Bbbe",
+    "mathematical double-struck small e"
+  ],
+  [
+    "\\Bbbf",
+    "mathematical double-struck small f"
+  ],
+  [
+    "\\Bbbg",
+    "mathematical double-struck small g"
+  ],
+  [
+    "\\Bbbh",
+    "mathematical double-struck small h"
+  ],
+  [
+    "\\Bbbi",
+    "mathematical double-struck small i"
+  ],
+  [
+    "\\Bbbj",
+    "mathematical double-struck small j"
+  ],
+  [
+    "\\Bbbk",
+    "mathematical double-struck small k"
+  ],
+  [
+    "\\Bbbl",
+    "mathematical double-struck small l"
+  ],
+  [
+    "\\Bbbm",
+    "mathematical double-struck small m"
+  ],
+  [
+    "\\Bbbn",
+    "mathematical double-struck small n"
+  ],
+  [
+    "\\Bbbo",
+    "mathematical double-struck small o"
+  ],
+  [
+    "\\Bbbp",
+    "mathematical double-struck small p"
+  ],
+  [
+    "\\Bbbq",
+    "mathematical double-struck small q"
+  ],
+  [
+    "\\Bbbr",
+    "mathematical double-struck small r"
+  ],
+  [
+    "\\Bbbs",
+    "mathematical double-struck small s"
+  ],
+  [
+    "\\Bbbt",
+    "mathematical double-struck small t"
+  ],
+  [
+    "\\Bbbu",
+    "mathematical double-struck small u"
+  ],
+  [
+    "\\Bbbv",
+    "mathematical double-struck small v"
+  ],
+  [
+    "\\Bbbw",
+    "mathematical double-struck small w"
+  ],
+  [
+    "\\Bbbx",
+    "mathematical double-struck small x"
+  ],
+  [
+    "\\Bbby",
+    "mathematical double-struck small y"
+  ],
+  [
+    "\\Bbbz",
+    "mathematical double-struck small z"
+  ],
+  [
+    "\\mbffrakA",
+    "mathematical bold fraktur capital a"
+  ],
+  [
+    "\\mbffrakB",
+    "mathematical bold fraktur capital b"
+  ],
+  [
+    "\\mbffrakC",
+    "mathematical bold fraktur capital c"
+  ],
+  [
+    "\\mbffrakD",
+    "mathematical bold fraktur capital d"
+  ],
+  [
+    "\\mbffrakE",
+    "mathematical bold fraktur capital e"
+  ],
+  [
+    "\\mbffrakF",
+    "mathematical bold fraktur capital f"
+  ],
+  [
+    "\\mbffrakG",
+    "mathematical bold fraktur capital g"
+  ],
+  [
+    "\\mbffrakH",
+    "mathematical bold fraktur capital h"
+  ],
+  [
+    "\\mbffrakI",
+    "mathematical bold fraktur capital i"
+  ],
+  [
+    "\\mbffrakJ",
+    "mathematical bold fraktur capital j"
+  ],
+  [
+    "\\mbffrakK",
+    "mathematical bold fraktur capital k"
+  ],
+  [
+    "\\mbffrakL",
+    "mathematical bold fraktur capital l"
+  ],
+  [
+    "\\mbffrakM",
+    "mathematical bold fraktur capital m"
+  ],
+  [
+    "\\mbffrakN",
+    "mathematical bold fraktur capital n"
+  ],
+  [
+    "\\mbffrakO",
+    "mathematical bold fraktur capital o"
+  ],
+  [
+    "\\mbffrakP",
+    "mathematical bold fraktur capital p"
+  ],
+  [
+    "\\mbffrakQ",
+    "mathematical bold fraktur capital q"
+  ],
+  [
+    "\\mbffrakR",
+    "mathematical bold fraktur capital r"
+  ],
+  [
+    "\\mbffrakS",
+    "mathematical bold fraktur capital s"
+  ],
+  [
+    "\\mbffrakT",
+    "mathematical bold fraktur capital t"
+  ],
+  [
+    "\\mbffrakU",
+    "mathematical bold fraktur capital u"
+  ],
+  [
+    "\\mbffrakV",
+    "mathematical bold fraktur capital v"
+  ],
+  [
+    "\\mbffrakW",
+    "mathematical bold fraktur capital w"
+  ],
+  [
+    "\\mbffrakX",
+    "mathematical bold fraktur capital x"
+  ],
+  [
+    "\\mbffrakY",
+    "mathematical bold fraktur capital y"
+  ],
+  [
+    "\\mbffrakZ",
+    "mathematical bold fraktur capital z"
+  ],
+  [
+    "\\mbffraka",
+    "mathematical bold fraktur small a"
+  ],
+  [
+    "\\mbffrakb",
+    "mathematical bold fraktur small b"
+  ],
+  [
+    "\\mbffrakc",
+    "mathematical bold fraktur small c"
+  ],
+  [
+    "\\mbffrakd",
+    "mathematical bold fraktur small d"
+  ],
+  [
+    "\\mbffrake",
+    "mathematical bold fraktur small e"
+  ],
+  [
+    "\\mbffrakf",
+    "mathematical bold fraktur small f"
+  ],
+  [
+    "\\mbffrakg",
+    "mathematical bold fraktur small g"
+  ],
+  [
+    "\\mbffrakh",
+    "mathematical bold fraktur small h"
+  ],
+  [
+    "\\mbffraki",
+    "mathematical bold fraktur small i"
+  ],
+  [
+    "\\mbffrakj",
+    "mathematical bold fraktur small j"
+  ],
+  [
+    "\\mbffrakk",
+    "mathematical bold fraktur small k"
+  ],
+  [
+    "\\mbffrakl",
+    "mathematical bold fraktur small l"
+  ],
+  [
+    "\\mbffrakm",
+    "mathematical bold fraktur small m"
+  ],
+  [
+    "\\mbffrakn",
+    "mathematical bold fraktur small n"
+  ],
+  [
+    "\\mbffrako",
+    "mathematical bold fraktur small o"
+  ],
+  [
+    "\\mbffrakp",
+    "mathematical bold fraktur small p"
+  ],
+  [
+    "\\mbffrakq",
+    "mathematical bold fraktur small q"
+  ],
+  [
+    "\\mbffrakr",
+    "mathematical bold fraktur small r"
+  ],
+  [
+    "\\mbffraks",
+    "mathematical bold fraktur small s"
+  ],
+  [
+    "\\mbffrakt",
+    "mathematical bold fraktur small t"
+  ],
+  [
+    "\\mbffraku",
+    "mathematical bold fraktur small u"
+  ],
+  [
+    "\\mbffrakv",
+    "mathematical bold fraktur small v"
+  ],
+  [
+    "\\mbffrakw",
+    "mathematical bold fraktur small w"
+  ],
+  [
+    "\\mbffrakx",
+    "mathematical bold fraktur small x"
+  ],
+  [
+    "\\mbffraky",
+    "mathematical bold fraktur small y"
+  ],
+  [
+    "\\mbffrakz",
+    "mathematical bold fraktur small z"
+  ],
+  [
+    "\\msansA",
+    "mathematical sans-serif capital a"
+  ],
+  [
+    "\\msansB",
+    "mathematical sans-serif capital b"
+  ],
+  [
+    "\\msansC",
+    "mathematical sans-serif capital c"
+  ],
+  [
+    "\\msansD",
+    "mathematical sans-serif capital d"
+  ],
+  [
+    "\\msansE",
+    "mathematical sans-serif capital e"
+  ],
+  [
+    "\\msansF",
+    "mathematical sans-serif capital f"
+  ],
+  [
+    "\\msansG",
+    "mathematical sans-serif capital g"
+  ],
+  [
+    "\\msansH",
+    "mathematical sans-serif capital h"
+  ],
+  [
+    "\\msansI",
+    "mathematical sans-serif capital i"
+  ],
+  [
+    "\\msansJ",
+    "mathematical sans-serif capital j"
+  ],
+  [
+    "\\msansK",
+    "mathematical sans-serif capital k"
+  ],
+  [
+    "\\msansL",
+    "mathematical sans-serif capital l"
+  ],
+  [
+    "\\msansM",
+    "mathematical sans-serif capital m"
+  ],
+  [
+    "\\msansN",
+    "mathematical sans-serif capital n"
+  ],
+  [
+    "\\msansO",
+    "mathematical sans-serif capital o"
+  ],
+  [
+    "\\msansP",
+    "mathematical sans-serif capital p"
+  ],
+  [
+    "\\msansQ",
+    "mathematical sans-serif capital q"
+  ],
+  [
+    "\\msansR",
+    "mathematical sans-serif capital r"
+  ],
+  [
+    "\\msansS",
+    "mathematical sans-serif capital s"
+  ],
+  [
+    "\\msansT",
+    "mathematical sans-serif capital t"
+  ],
+  [
+    "\\msansU",
+    "mathematical sans-serif capital u"
+  ],
+  [
+    "\\msansV",
+    "mathematical sans-serif capital v"
+  ],
+  [
+    "\\msansW",
+    "mathematical sans-serif capital w"
+  ],
+  [
+    "\\msansX",
+    "mathematical sans-serif capital x"
+  ],
+  [
+    "\\msansY",
+    "mathematical sans-serif capital y"
+  ],
+  [
+    "\\msansZ",
+    "mathematical sans-serif capital z"
+  ],
+  [
+    "\\msansa",
+    "mathematical sans-serif small a"
+  ],
+  [
+    "\\msansb",
+    "mathematical sans-serif small b"
+  ],
+  [
+    "\\msansc",
+    "mathematical sans-serif small c"
+  ],
+  [
+    "\\msansd",
+    "mathematical sans-serif small d"
+  ],
+  [
+    "\\msanse",
+    "mathematical sans-serif small e"
+  ],
+  [
+    "\\msansf",
+    "mathematical sans-serif small f"
+  ],
+  [
+    "\\msansg",
+    "mathematical sans-serif small g"
+  ],
+  [
+    "\\msansh",
+    "mathematical sans-serif small h"
+  ],
+  [
+    "\\msansi",
+    "mathematical sans-serif small i"
+  ],
+  [
+    "\\msansj",
+    "mathematical sans-serif small j"
+  ],
+  [
+    "\\msansk",
+    "mathematical sans-serif small k"
+  ],
+  [
+    "\\msansl",
+    "mathematical sans-serif small l"
+  ],
+  [
+    "\\msansm",
+    "mathematical sans-serif small m"
+  ],
+  [
+    "\\msansn",
+    "mathematical sans-serif small n"
+  ],
+  [
+    "\\msanso",
+    "mathematical sans-serif small o"
+  ],
+  [
+    "\\msansp",
+    "mathematical sans-serif small p"
+  ],
+  [
+    "\\msansq",
+    "mathematical sans-serif small q"
+  ],
+  [
+    "\\msansr",
+    "mathematical sans-serif small r"
+  ],
+  [
+    "\\msanss",
+    "mathematical sans-serif small s"
+  ],
+  [
+    "\\msanst",
+    "mathematical sans-serif small t"
+  ],
+  [
+    "\\msansu",
+    "mathematical sans-serif small u"
+  ],
+  [
+    "\\msansv",
+    "mathematical sans-serif small v"
+  ],
+  [
+    "\\msansw",
+    "mathematical sans-serif small w"
+  ],
+  [
+    "\\msansx",
+    "mathematical sans-serif small x"
+  ],
+  [
+    "\\msansy",
+    "mathematical sans-serif small y"
+  ],
+  [
+    "\\msansz",
+    "mathematical sans-serif small z"
+  ],
+  [
+    "\\mbfsansA",
+    "mathematical sans-serif bold capital a"
+  ],
+  [
+    "\\mbfsansB",
+    "mathematical sans-serif bold capital b"
+  ],
+  [
+    "\\mbfsansC",
+    "mathematical sans-serif bold capital c"
+  ],
+  [
+    "\\mbfsansD",
+    "mathematical sans-serif bold capital d"
+  ],
+  [
+    "\\mbfsansE",
+    "mathematical sans-serif bold capital e"
+  ],
+  [
+    "\\mbfsansF",
+    "mathematical sans-serif bold capital f"
+  ],
+  [
+    "\\mbfsansG",
+    "mathematical sans-serif bold capital g"
+  ],
+  [
+    "\\mbfsansH",
+    "mathematical sans-serif bold capital h"
+  ],
+  [
+    "\\mbfsansI",
+    "mathematical sans-serif bold capital i"
+  ],
+  [
+    "\\mbfsansJ",
+    "mathematical sans-serif bold capital j"
+  ],
+  [
+    "\\mbfsansK",
+    "mathematical sans-serif bold capital k"
+  ],
+  [
+    "\\mbfsansL",
+    "mathematical sans-serif bold capital l"
+  ],
+  [
+    "\\mbfsansM",
+    "mathematical sans-serif bold capital m"
+  ],
+  [
+    "\\mbfsansN",
+    "mathematical sans-serif bold capital n"
+  ],
+  [
+    "\\mbfsansO",
+    "mathematical sans-serif bold capital o"
+  ],
+  [
+    "\\mbfsansP",
+    "mathematical sans-serif bold capital p"
+  ],
+  [
+    "\\mbfsansQ",
+    "mathematical sans-serif bold capital q"
+  ],
+  [
+    "\\mbfsansR",
+    "mathematical sans-serif bold capital r"
+  ],
+  [
+    "\\mbfsansS",
+    "mathematical sans-serif bold capital s"
+  ],
+  [
+    "\\mbfsansT",
+    "mathematical sans-serif bold capital t"
+  ],
+  [
+    "\\mbfsansU",
+    "mathematical sans-serif bold capital u"
+  ],
+  [
+    "\\mbfsansV",
+    "mathematical sans-serif bold capital v"
+  ],
+  [
+    "\\mbfsansW",
+    "mathematical sans-serif bold capital w"
+  ],
+  [
+    "\\mbfsansX",
+    "mathematical sans-serif bold capital x"
+  ],
+  [
+    "\\mbfsansY",
+    "mathematical sans-serif bold capital y"
+  ],
+  [
+    "\\mbfsansZ",
+    "mathematical sans-serif bold capital z"
+  ],
+  [
+    "\\mbfsansa",
+    "mathematical sans-serif bold small a"
+  ],
+  [
+    "\\mbfsansb",
+    "mathematical sans-serif bold small b"
+  ],
+  [
+    "\\mbfsansc",
+    "mathematical sans-serif bold small c"
+  ],
+  [
+    "\\mbfsansd",
+    "mathematical sans-serif bold small d"
+  ],
+  [
+    "\\mbfsanse",
+    "mathematical sans-serif bold small e"
+  ],
+  [
+    "\\mbfsansf",
+    "mathematical sans-serif bold small f"
+  ],
+  [
+    "\\mbfsansg",
+    "mathematical sans-serif bold small g"
+  ],
+  [
+    "\\mbfsansh",
+    "mathematical sans-serif bold small h"
+  ],
+  [
+    "\\mbfsansi",
+    "mathematical sans-serif bold small i"
+  ],
+  [
+    "\\mbfsansj",
+    "mathematical sans-serif bold small j"
+  ],
+  [
+    "\\mbfsansk",
+    "mathematical sans-serif bold small k"
+  ],
+  [
+    "\\mbfsansl",
+    "mathematical sans-serif bold small l"
+  ],
+  [
+    "\\mbfsansm",
+    "mathematical sans-serif bold small m"
+  ],
+  [
+    "\\mbfsansn",
+    "mathematical sans-serif bold small n"
+  ],
+  [
+    "\\mbfsanso",
+    "mathematical sans-serif bold small o"
+  ],
+  [
+    "\\mbfsansp",
+    "mathematical sans-serif bold small p"
+  ],
+  [
+    "\\mbfsansq",
+    "mathematical sans-serif bold small q"
+  ],
+  [
+    "\\mbfsansr",
+    "mathematical sans-serif bold small r"
+  ],
+  [
+    "\\mbfsanss",
+    "mathematical sans-serif bold small s"
+  ],
+  [
+    "\\mbfsanst",
+    "mathematical sans-serif bold small t"
+  ],
+  [
+    "\\mbfsansu",
+    "mathematical sans-serif bold small u"
+  ],
+  [
+    "\\mbfsansv",
+    "mathematical sans-serif bold small v"
+  ],
+  [
+    "\\mbfsansw",
+    "mathematical sans-serif bold small w"
+  ],
+  [
+    "\\mbfsansx",
+    "mathematical sans-serif bold small x"
+  ],
+  [
+    "\\mbfsansy",
+    "mathematical sans-serif bold small y"
+  ],
+  [
+    "\\mbfsansz",
+    "mathematical sans-serif bold small z"
+  ],
+  [
+    "\\mitsansA",
+    "mathematical sans-serif italic capital a"
+  ],
+  [
+    "\\mitsansB",
+    "mathematical sans-serif italic capital b"
+  ],
+  [
+    "\\mitsansC",
+    "mathematical sans-serif italic capital c"
+  ],
+  [
+    "\\mitsansD",
+    "mathematical sans-serif italic capital d"
+  ],
+  [
+    "\\mitsansE",
+    "mathematical sans-serif italic capital e"
+  ],
+  [
+    "\\mitsansF",
+    "mathematical sans-serif italic capital f"
+  ],
+  [
+    "\\mitsansG",
+    "mathematical sans-serif italic capital g"
+  ],
+  [
+    "\\mitsansH",
+    "mathematical sans-serif italic capital h"
+  ],
+  [
+    "\\mitsansI",
+    "mathematical sans-serif italic capital i"
+  ],
+  [
+    "\\mitsansJ",
+    "mathematical sans-serif italic capital j"
+  ],
+  [
+    "\\mitsansK",
+    "mathematical sans-serif italic capital k"
+  ],
+  [
+    "\\mitsansL",
+    "mathematical sans-serif italic capital l"
+  ],
+  [
+    "\\mitsansM",
+    "mathematical sans-serif italic capital m"
+  ],
+  [
+    "\\mitsansN",
+    "mathematical sans-serif italic capital n"
+  ],
+  [
+    "\\mitsansO",
+    "mathematical sans-serif italic capital o"
+  ],
+  [
+    "\\mitsansP",
+    "mathematical sans-serif italic capital p"
+  ],
+  [
+    "\\mitsansQ",
+    "mathematical sans-serif italic capital q"
+  ],
+  [
+    "\\mitsansR",
+    "mathematical sans-serif italic capital r"
+  ],
+  [
+    "\\mitsansS",
+    "mathematical sans-serif italic capital s"
+  ],
+  [
+    "\\mitsansT",
+    "mathematical sans-serif italic capital t"
+  ],
+  [
+    "\\mitsansU",
+    "mathematical sans-serif italic capital u"
+  ],
+  [
+    "\\mitsansV",
+    "mathematical sans-serif italic capital v"
+  ],
+  [
+    "\\mitsansW",
+    "mathematical sans-serif italic capital w"
+  ],
+  [
+    "\\mitsansX",
+    "mathematical sans-serif italic capital x"
+  ],
+  [
+    "\\mitsansY",
+    "mathematical sans-serif italic capital y"
+  ],
+  [
+    "\\mitsansZ",
+    "mathematical sans-serif italic capital z"
+  ],
+  [
+    "\\mitsansa",
+    "mathematical sans-serif italic small a"
+  ],
+  [
+    "\\mitsansb",
+    "mathematical sans-serif italic small b"
+  ],
+  [
+    "\\mitsansc",
+    "mathematical sans-serif italic small c"
+  ],
+  [
+    "\\mitsansd",
+    "mathematical sans-serif italic small d"
+  ],
+  [
+    "\\mitsanse",
+    "mathematical sans-serif italic small e"
+  ],
+  [
+    "\\mitsansf",
+    "mathematical sans-serif italic small f"
+  ],
+  [
+    "\\mitsansg",
+    "mathematical sans-serif italic small g"
+  ],
+  [
+    "\\mitsansh",
+    "mathematical sans-serif italic small h"
+  ],
+  [
+    "\\mitsansi",
+    "mathematical sans-serif italic small i"
+  ],
+  [
+    "\\mitsansj",
+    "mathematical sans-serif italic small j"
+  ],
+  [
+    "\\mitsansk",
+    "mathematical sans-serif italic small k"
+  ],
+  [
+    "\\mitsansl",
+    "mathematical sans-serif italic small l"
+  ],
+  [
+    "\\mitsansm",
+    "mathematical sans-serif italic small m"
+  ],
+  [
+    "\\mitsansn",
+    "mathematical sans-serif italic small n"
+  ],
+  [
+    "\\mitsanso",
+    "mathematical sans-serif italic small o"
+  ],
+  [
+    "\\mitsansp",
+    "mathematical sans-serif italic small p"
+  ],
+  [
+    "\\mitsansq",
+    "mathematical sans-serif italic small q"
+  ],
+  [
+    "\\mitsansr",
+    "mathematical sans-serif italic small r"
+  ],
+  [
+    "\\mitsanss",
+    "mathematical sans-serif italic small s"
+  ],
+  [
+    "\\mitsanst",
+    "mathematical sans-serif italic small t"
+  ],
+  [
+    "\\mitsansu",
+    "mathematical sans-serif italic small u"
+  ],
+  [
+    "\\mitsansv",
+    "mathematical sans-serif italic small v"
+  ],
+  [
+    "\\mitsansw",
+    "mathematical sans-serif italic small w"
+  ],
+  [
+    "\\mitsansx",
+    "mathematical sans-serif italic small x"
+  ],
+  [
+    "\\mitsansy",
+    "mathematical sans-serif italic small y"
+  ],
+  [
+    "\\mitsansz",
+    "mathematical sans-serif italic small z"
+  ],
+  [
+    "\\mbfitsansA",
+    "mathematical sans-serif bold italic capital a"
+  ],
+  [
+    "\\mbfitsansB",
+    "mathematical sans-serif bold italic capital b"
+  ],
+  [
+    "\\mbfitsansC",
+    "mathematical sans-serif bold italic capital c"
+  ],
+  [
+    "\\mbfitsansD",
+    "mathematical sans-serif bold italic capital d"
+  ],
+  [
+    "\\mbfitsansE",
+    "mathematical sans-serif bold italic capital e"
+  ],
+  [
+    "\\mbfitsansF",
+    "mathematical sans-serif bold italic capital f"
+  ],
+  [
+    "\\mbfitsansG",
+    "mathematical sans-serif bold italic capital g"
+  ],
+  [
+    "\\mbfitsansH",
+    "mathematical sans-serif bold italic capital h"
+  ],
+  [
+    "\\mbfitsansI",
+    "mathematical sans-serif bold italic capital i"
+  ],
+  [
+    "\\mbfitsansJ",
+    "mathematical sans-serif bold italic capital j"
+  ],
+  [
+    "\\mbfitsansK",
+    "mathematical sans-serif bold italic capital k"
+  ],
+  [
+    "\\mbfitsansL",
+    "mathematical sans-serif bold italic capital l"
+  ],
+  [
+    "\\mbfitsansM",
+    "mathematical sans-serif bold italic capital m"
+  ],
+  [
+    "\\mbfitsansN",
+    "mathematical sans-serif bold italic capital n"
+  ],
+  [
+    "\\mbfitsansO",
+    "mathematical sans-serif bold italic capital o"
+  ],
+  [
+    "\\mbfitsansP",
+    "mathematical sans-serif bold italic capital p"
+  ],
+  [
+    "\\mbfitsansQ",
+    "mathematical sans-serif bold italic capital q"
+  ],
+  [
+    "\\mbfitsansR",
+    "mathematical sans-serif bold italic capital r"
+  ],
+  [
+    "\\mbfitsansS",
+    "mathematical sans-serif bold italic capital s"
+  ],
+  [
+    "\\mbfitsansT",
+    "mathematical sans-serif bold italic capital t"
+  ],
+  [
+    "\\mbfitsansU",
+    "mathematical sans-serif bold italic capital u"
+  ],
+  [
+    "\\mbfitsansV",
+    "mathematical sans-serif bold italic capital v"
+  ],
+  [
+    "\\mbfitsansW",
+    "mathematical sans-serif bold italic capital w"
+  ],
+  [
+    "\\mbfitsansX",
+    "mathematical sans-serif bold italic capital x"
+  ],
+  [
+    "\\mbfitsansY",
+    "mathematical sans-serif bold italic capital y"
+  ],
+  [
+    "\\mbfitsansZ",
+    "mathematical sans-serif bold italic capital z"
+  ],
+  [
+    "\\mbfitsansa",
+    "mathematical sans-serif bold italic small a"
+  ],
+  [
+    "\\mbfitsansb",
+    "mathematical sans-serif bold italic small b"
+  ],
+  [
+    "\\mbfitsansc",
+    "mathematical sans-serif bold italic small c"
+  ],
+  [
+    "\\mbfitsansd",
+    "mathematical sans-serif bold italic small d"
+  ],
+  [
+    "\\mbfitsanse",
+    "mathematical sans-serif bold italic small e"
+  ],
+  [
+    "\\mbfitsansf",
+    "mathematical sans-serif bold italic small f"
+  ],
+  [
+    "\\mbfitsansg",
+    "mathematical sans-serif bold italic small g"
+  ],
+  [
+    "\\mbfitsansh",
+    "mathematical sans-serif bold italic small h"
+  ],
+  [
+    "\\mbfitsansi",
+    "mathematical sans-serif bold italic small i"
+  ],
+  [
+    "\\mbfitsansj",
+    "mathematical sans-serif bold italic small j"
+  ],
+  [
+    "\\mbfitsansk",
+    "mathematical sans-serif bold italic small k"
+  ],
+  [
+    "\\mbfitsansl",
+    "mathematical sans-serif bold italic small l"
+  ],
+  [
+    "\\mbfitsansm",
+    "mathematical sans-serif bold italic small m"
+  ],
+  [
+    "\\mbfitsansn",
+    "mathematical sans-serif bold italic small n"
+  ],
+  [
+    "\\mbfitsanso",
+    "mathematical sans-serif bold italic small o"
+  ],
+  [
+    "\\mbfitsansp",
+    "mathematical sans-serif bold italic small p"
+  ],
+  [
+    "\\mbfitsansq",
+    "mathematical sans-serif bold italic small q"
+  ],
+  [
+    "\\mbfitsansr",
+    "mathematical sans-serif bold italic small r"
+  ],
+  [
+    "\\mbfitsanss",
+    "mathematical sans-serif bold italic small s"
+  ],
+  [
+    "\\mbfitsanst",
+    "mathematical sans-serif bold italic small t"
+  ],
+  [
+    "\\mbfitsansu",
+    "mathematical sans-serif bold italic small u"
+  ],
+  [
+    "\\mbfitsansv",
+    "mathematical sans-serif bold italic small v"
+  ],
+  [
+    "\\mbfitsansw",
+    "mathematical sans-serif bold italic small w"
+  ],
+  [
+    "\\mbfitsansx",
+    "mathematical sans-serif bold italic small x"
+  ],
+  [
+    "\\mbfitsansy",
+    "mathematical sans-serif bold italic small y"
+  ],
+  [
+    "\\mbfitsansz",
+    "mathematical sans-serif bold italic small z"
+  ],
+  [
+    "\\mttA",
+    "mathematical monospace capital a"
+  ],
+  [
+    "\\mttB",
+    "mathematical monospace capital b"
+  ],
+  [
+    "\\mttC",
+    "mathematical monospace capital c"
+  ],
+  [
+    "\\mttD",
+    "mathematical monospace capital d"
+  ],
+  [
+    "\\mttE",
+    "mathematical monospace capital e"
+  ],
+  [
+    "\\mttF",
+    "mathematical monospace capital f"
+  ],
+  [
+    "\\mttG",
+    "mathematical monospace capital g"
+  ],
+  [
+    "\\mttH",
+    "mathematical monospace capital h"
+  ],
+  [
+    "\\mttI",
+    "mathematical monospace capital i"
+  ],
+  [
+    "\\mttJ",
+    "mathematical monospace capital j"
+  ],
+  [
+    "\\mttK",
+    "mathematical monospace capital k"
+  ],
+  [
+    "\\mttL",
+    "mathematical monospace capital l"
+  ],
+  [
+    "\\mttM",
+    "mathematical monospace capital m"
+  ],
+  [
+    "\\mttN",
+    "mathematical monospace capital n"
+  ],
+  [
+    "\\mttO",
+    "mathematical monospace capital o"
+  ],
+  [
+    "\\mttP",
+    "mathematical monospace capital p"
+  ],
+  [
+    "\\mttQ",
+    "mathematical monospace capital q"
+  ],
+  [
+    "\\mttR",
+    "mathematical monospace capital r"
+  ],
+  [
+    "\\mttS",
+    "mathematical monospace capital s"
+  ],
+  [
+    "\\mttT",
+    "mathematical monospace capital t"
+  ],
+  [
+    "\\mttU",
+    "mathematical monospace capital u"
+  ],
+  [
+    "\\mttV",
+    "mathematical monospace capital v"
+  ],
+  [
+    "\\mttW",
+    "mathematical monospace capital w"
+  ],
+  [
+    "\\mttX",
+    "mathematical monospace capital x"
+  ],
+  [
+    "\\mttY",
+    "mathematical monospace capital y"
+  ],
+  [
+    "\\mttZ",
+    "mathematical monospace capital z"
+  ],
+  [
+    "\\mtta",
+    "mathematical monospace small a"
+  ],
+  [
+    "\\mttb",
+    "mathematical monospace small b"
+  ],
+  [
+    "\\mttc",
+    "mathematical monospace small c"
+  ],
+  [
+    "\\mttd",
+    "mathematical monospace small d"
+  ],
+  [
+    "\\mtte",
+    "mathematical monospace small e"
+  ],
+  [
+    "\\mttf",
+    "mathematical monospace small f"
+  ],
+  [
+    "\\mttg",
+    "mathematical monospace small g"
+  ],
+  [
+    "\\mtth",
+    "mathematical monospace small h"
+  ],
+  [
+    "\\mtti",
+    "mathematical monospace small i"
+  ],
+  [
+    "\\mttj",
+    "mathematical monospace small j"
+  ],
+  [
+    "\\mttk",
+    "mathematical monospace small k"
+  ],
+  [
+    "\\mttl",
+    "mathematical monospace small l"
+  ],
+  [
+    "\\mttm",
+    "mathematical monospace small m"
+  ],
+  [
+    "\\mttn",
+    "mathematical monospace small n"
+  ],
+  [
+    "\\mtto",
+    "mathematical monospace small o"
+  ],
+  [
+    "\\mttp",
+    "mathematical monospace small p"
+  ],
+  [
+    "\\mttq",
+    "mathematical monospace small q"
+  ],
+  [
+    "\\mttr",
+    "mathematical monospace small r"
+  ],
+  [
+    "\\mtts",
+    "mathematical monospace small s"
+  ],
+  [
+    "\\mttt",
+    "mathematical monospace small t"
+  ],
+  [
+    "\\mttu",
+    "mathematical monospace small u"
+  ],
+  [
+    "\\mttv",
+    "mathematical monospace small v"
+  ],
+  [
+    "\\mttw",
+    "mathematical monospace small w"
+  ],
+  [
+    "\\mttx",
+    "mathematical monospace small x"
+  ],
+  [
+    "\\mtty",
+    "mathematical monospace small y"
+  ],
+  [
+    "\\mttz",
+    "mathematical monospace small z"
+  ],
+  [
+    "\\imath",
+    "mathematical italic small dotless i"
+  ],
+  [
+    "\\jmath",
+    "mathematical italic small dotless j"
+  ],
+  [
+    "\\mbfAlpha",
+    "mathematical bold capital alpha"
+  ],
+  [
+    "\\mbfBeta",
+    "mathematical bold capital beta"
+  ],
+  [
+    "\\mbfGamma",
+    "mathematical bold capital gamma"
+  ],
+  [
+    "\\mbfDelta",
+    "mathematical bold capital delta"
+  ],
+  [
+    "\\mbfEpsilon",
+    "mathematical bold capital epsilon"
+  ],
+  [
+    "\\mbfZeta",
+    "mathematical bold capital zeta"
+  ],
+  [
+    "\\mbfEta",
+    "mathematical bold capital eta"
+  ],
+  [
+    "\\mbfTheta",
+    "mathematical bold capital theta"
+  ],
+  [
+    "\\mbfIota",
+    "mathematical bold capital iota"
+  ],
+  [
+    "\\mbfKappa",
+    "mathematical bold capital kappa"
+  ],
+  [
+    "\\mbfLambda",
+    "mathematical bold capital lambda"
+  ],
+  [
+    "\\mbfMu",
+    "mathematical bold capital mu"
+  ],
+  [
+    "\\mbfNu",
+    "mathematical bold capital nu"
+  ],
+  [
+    "\\mbfXi",
+    "mathematical bold capital xi"
+  ],
+  [
+    "\\mbfOmicron",
+    "mathematical bold capital omicron"
+  ],
+  [
+    "\\mbfPi",
+    "mathematical bold capital pi"
+  ],
+  [
+    "\\mbfRho",
+    "mathematical bold capital rho"
+  ],
+  [
+    "\\mbfvarTheta",
+    "mathematical bold capital theta symbol"
+  ],
+  [
+    "\\mbfSigma",
+    "mathematical bold capital sigma"
+  ],
+  [
+    "\\mbfTau",
+    "mathematical bold capital tau"
+  ],
+  [
+    "\\mbfUpsilon",
+    "mathematical bold capital upsilon"
+  ],
+  [
+    "\\mbfPhi",
+    "mathematical bold capital phi"
+  ],
+  [
+    "\\mbfChi",
+    "mathematical bold capital chi"
+  ],
+  [
+    "\\mbfPsi",
+    "mathematical bold capital psi"
+  ],
+  [
+    "\\mbfOmega",
+    "mathematical bold capital omega"
+  ],
+  [
+    "\\mbfnabla",
+    "mathematical bold nabla"
+  ],
+  [
+    "\\mbfalpha",
+    "mathematical bold small alpha"
+  ],
+  [
+    "\\mbfbeta",
+    "mathematical bold small beta"
+  ],
+  [
+    "\\mbfgamma",
+    "mathematical bold small gamma"
+  ],
+  [
+    "\\mbfdelta",
+    "mathematical bold small delta"
+  ],
+  [
+    "\\mbfvarepsilon",
+    "mathematical bold small varepsilon"
+  ],
+  [
+    "\\mbfzeta",
+    "mathematical bold small zeta"
+  ],
+  [
+    "\\mbfeta",
+    "mathematical bold small eta"
+  ],
+  [
+    "\\mbftheta",
+    "mathematical bold small theta"
+  ],
+  [
+    "\\mbfiota",
+    "mathematical bold small iota"
+  ],
+  [
+    "\\mbfkappa",
+    "mathematical bold small kappa"
+  ],
+  [
+    "\\mbflambda",
+    "mathematical bold small lambda"
+  ],
+  [
+    "\\mbfmu",
+    "mathematical bold small mu"
+  ],
+  [
+    "\\mbfnu",
+    "mathematical bold small nu"
+  ],
+  [
+    "\\mbfxi",
+    "mathematical bold small xi"
+  ],
+  [
+    "\\mbfomicron",
+    "mathematical bold small omicron"
+  ],
+  [
+    "\\mbfpi",
+    "mathematical bold small pi"
+  ],
+  [
+    "\\mbfrho",
+    "mathematical bold small rho"
+  ],
+  [
+    "\\mbfvarsigma",
+    "mathematical bold small final sigma"
+  ],
+  [
+    "\\mbfsigma",
+    "mathematical bold small sigma"
+  ],
+  [
+    "\\mbftau",
+    "mathematical bold small tau"
+  ],
+  [
+    "\\mbfupsilon",
+    "mathematical bold small upsilon"
+  ],
+  [
+    "\\mbfvarphi",
+    "mathematical bold small phi"
+  ],
+  [
+    "\\mbfchi",
+    "mathematical bold small chi"
+  ],
+  [
+    "\\mbfpsi",
+    "mathematical bold small psi"
+  ],
+  [
+    "\\mbfomega",
+    "mathematical bold small omega"
+  ],
+  [
+    "\\mbfpartial",
+    "mathematical bold partial differential"
+  ],
+  [
+    "\\mbfepsilon",
+    "mathematical bold varepsilon symbol"
+  ],
+  [
+    "\\mbfvartheta",
+    "mathematical bold theta symbol"
+  ],
+  [
+    "\\mbfvarkappa",
+    "mathematical bold kappa symbol"
+  ],
+  [
+    "\\mbfphi",
+    "mathematical bold phi symbol"
+  ],
+  [
+    "\\mbfvarrho",
+    "mathematical bold rho symbol"
+  ],
+  [
+    "\\mbfvarpi",
+    "mathematical bold pi symbol"
+  ],
+  [
+    "\\mitAlpha",
+    "mathematical italic capital alpha"
+  ],
+  [
+    "\\mitBeta",
+    "mathematical italic capital beta"
+  ],
+  [
+    "\\mitGamma",
+    "mathematical italic capital gamma"
+  ],
+  [
+    "\\mitDelta",
+    "mathematical italic capital delta"
+  ],
+  [
+    "\\mitEpsilon",
+    "mathematical italic capital epsilon"
+  ],
+  [
+    "\\mitZeta",
+    "mathematical italic capital zeta"
+  ],
+  [
+    "\\mitEta",
+    "mathematical italic capital eta"
+  ],
+  [
+    "\\mitTheta",
+    "mathematical italic capital theta"
+  ],
+  [
+    "\\mitIota",
+    "mathematical italic capital iota"
+  ],
+  [
+    "\\mitKappa",
+    "mathematical italic capital kappa"
+  ],
+  [
+    "\\mitLambda",
+    "mathematical italic capital lambda"
+  ],
+  [
+    "\\mitMu",
+    "mathematical italic capital mu"
+  ],
+  [
+    "\\mitNu",
+    "mathematical italic capital nu"
+  ],
+  [
+    "\\mitXi",
+    "mathematical italic capital xi"
+  ],
+  [
+    "\\mitOmicron",
+    "mathematical italic capital omicron"
+  ],
+  [
+    "\\mitPi",
+    "mathematical italic capital pi"
+  ],
+  [
+    "\\mitRho",
+    "mathematical italic capital rho"
+  ],
+  [
+    "\\mitvarTheta",
+    "mathematical italic capital theta symbol"
+  ],
+  [
+    "\\mitSigma",
+    "mathematical italic capital sigma"
+  ],
+  [
+    "\\mitTau",
+    "mathematical italic capital tau"
+  ],
+  [
+    "\\mitUpsilon",
+    "mathematical italic capital upsilon"
+  ],
+  [
+    "\\mitPhi",
+    "mathematical italic capital phi"
+  ],
+  [
+    "\\mitChi",
+    "mathematical italic capital chi"
+  ],
+  [
+    "\\mitPsi",
+    "mathematical italic capital psi"
+  ],
+  [
+    "\\mitOmega",
+    "mathematical italic capital omega"
+  ],
+  [
+    "\\mitnabla",
+    "mathematical italic nabla"
+  ],
+  [
+    "\\mitalpha",
+    "mathematical italic small alpha"
+  ],
+  [
+    "\\mitbeta",
+    "mathematical italic small beta"
+  ],
+  [
+    "\\mitgamma",
+    "mathematical italic small gamma"
+  ],
+  [
+    "\\mitdelta",
+    "mathematical italic small delta"
+  ],
+  [
+    "\\mitvarepsilon",
+    "mathematical italic small varepsilon"
+  ],
+  [
+    "\\mitzeta",
+    "mathematical italic small zeta"
+  ],
+  [
+    "\\miteta",
+    "mathematical italic small eta"
+  ],
+  [
+    "\\mittheta",
+    "mathematical italic small theta"
+  ],
+  [
+    "\\mitiota",
+    "mathematical italic small iota"
+  ],
+  [
+    "\\mitkappa",
+    "mathematical italic small kappa"
+  ],
+  [
+    "\\mitlambda",
+    "mathematical italic small lambda"
+  ],
+  [
+    "\\mitmu",
+    "mathematical italic small mu"
+  ],
+  [
+    "\\mitnu",
+    "mathematical italic small nu"
+  ],
+  [
+    "\\mitxi",
+    "mathematical italic small xi"
+  ],
+  [
+    "\\mitomicron",
+    "mathematical italic small omicron"
+  ],
+  [
+    "\\mitpi",
+    "mathematical italic small pi"
+  ],
+  [
+    "\\mitrho",
+    "mathematical italic small rho"
+  ],
+  [
+    "\\mitvarsigma",
+    "mathematical italic small final sigma"
+  ],
+  [
+    "\\mitsigma",
+    "mathematical italic small sigma"
+  ],
+  [
+    "\\mittau",
+    "mathematical italic small tau"
+  ],
+  [
+    "\\mitupsilon",
+    "mathematical italic small upsilon"
+  ],
+  [
+    "\\mitvarphi",
+    "mathematical italic small phi"
+  ],
+  [
+    "\\mitchi",
+    "mathematical italic small chi"
+  ],
+  [
+    "\\mitpsi",
+    "mathematical italic small psi"
+  ],
+  [
+    "\\mitomega",
+    "mathematical italic small omega"
+  ],
+  [
+    "\\mitpartial",
+    "mathematical italic partial differential"
+  ],
+  [
+    "\\mitepsilon",
+    "mathematical italic varepsilon symbol"
+  ],
+  [
+    "\\mitvartheta",
+    "mathematical italic theta symbol"
+  ],
+  [
+    "\\mitvarkappa",
+    "mathematical italic kappa symbol"
+  ],
+  [
+    "\\mitphi",
+    "mathematical italic phi symbol"
+  ],
+  [
+    "\\mitvarrho",
+    "mathematical italic rho symbol"
+  ],
+  [
+    "\\mitvarpi",
+    "mathematical italic pi symbol"
+  ],
+  [
+    "\\mbfitAlpha",
+    "mathematical bold italic capital alpha"
+  ],
+  [
+    "\\mbfitBeta",
+    "mathematical bold italic capital beta"
+  ],
+  [
+    "\\mbfitGamma",
+    "mathematical bold italic capital gamma"
+  ],
+  [
+    "\\mbfitDelta",
+    "mathematical bold italic capital delta"
+  ],
+  [
+    "\\mbfitEpsilon",
+    "mathematical bold italic capital epsilon"
+  ],
+  [
+    "\\mbfitZeta",
+    "mathematical bold italic capital zeta"
+  ],
+  [
+    "\\mbfitEta",
+    "mathematical bold italic capital eta"
+  ],
+  [
+    "\\mbfitTheta",
+    "mathematical bold italic capital theta"
+  ],
+  [
+    "\\mbfitIota",
+    "mathematical bold italic capital iota"
+  ],
+  [
+    "\\mbfitKappa",
+    "mathematical bold italic capital kappa"
+  ],
+  [
+    "\\mbfitLambda",
+    "mathematical bold italic capital lambda"
+  ],
+  [
+    "\\mbfitMu",
+    "mathematical bold italic capital mu"
+  ],
+  [
+    "\\mbfitNu",
+    "mathematical bold italic capital nu"
+  ],
+  [
+    "\\mbfitXi",
+    "mathematical bold italic capital xi"
+  ],
+  [
+    "\\mbfitOmicron",
+    "mathematical bold italic capital omicron"
+  ],
+  [
+    "\\mbfitPi",
+    "mathematical bold italic capital pi"
+  ],
+  [
+    "\\mbfitRho",
+    "mathematical bold italic capital rho"
+  ],
+  [
+    "\\mbfitvarTheta",
+    "mathematical bold italic capital theta symbol"
+  ],
+  [
+    "\\mbfitSigma",
+    "mathematical bold italic capital sigma"
+  ],
+  [
+    "\\mbfitTau",
+    "mathematical bold italic capital tau"
+  ],
+  [
+    "\\mbfitUpsilon",
+    "mathematical bold italic capital upsilon"
+  ],
+  [
+    "\\mbfitPhi",
+    "mathematical bold italic capital phi"
+  ],
+  [
+    "\\mbfitChi",
+    "mathematical bold italic capital chi"
+  ],
+  [
+    "\\mbfitPsi",
+    "mathematical bold italic capital psi"
+  ],
+  [
+    "\\mbfitOmega",
+    "mathematical bold italic capital omega"
+  ],
+  [
+    "\\mbfitnabla",
+    "mathematical bold italic nabla"
+  ],
+  [
+    "\\mbfitalpha",
+    "mathematical bold italic small alpha"
+  ],
+  [
+    "\\mbfitbeta",
+    "mathematical bold italic small beta"
+  ],
+  [
+    "\\mbfitgamma",
+    "mathematical bold italic small gamma"
+  ],
+  [
+    "\\mbfitdelta",
+    "mathematical bold italic small delta"
+  ],
+  [
+    "\\mbfitvarepsilon",
+    "mathematical bold italic small varepsilon"
+  ],
+  [
+    "\\mbfitzeta",
+    "mathematical bold italic small zeta"
+  ],
+  [
+    "\\mbfiteta",
+    "mathematical bold italic small eta"
+  ],
+  [
+    "\\mbfittheta",
+    "mathematical bold italic small theta"
+  ],
+  [
+    "\\mbfitiota",
+    "mathematical bold italic small iota"
+  ],
+  [
+    "\\mbfitkappa",
+    "mathematical bold italic small kappa"
+  ],
+  [
+    "\\mbfitlambda",
+    "mathematical bold italic small lambda"
+  ],
+  [
+    "\\mbfitmu",
+    "mathematical bold italic small mu"
+  ],
+  [
+    "\\mbfitnu",
+    "mathematical bold italic small nu"
+  ],
+  [
+    "\\mbfitxi",
+    "mathematical bold italic small xi"
+  ],
+  [
+    "\\mbfitomicron",
+    "mathematical bold italic small omicron"
+  ],
+  [
+    "\\mbfitpi",
+    "mathematical bold italic small pi"
+  ],
+  [
+    "\\mbfitrho",
+    "mathematical bold italic small rho"
+  ],
+  [
+    "\\mbfitvarsigma",
+    "mathematical bold italic small final sigma"
+  ],
+  [
+    "\\mbfitsigma",
+    "mathematical bold italic small sigma"
+  ],
+  [
+    "\\mbfittau",
+    "mathematical bold italic small tau"
+  ],
+  [
+    "\\mbfitupsilon",
+    "mathematical bold italic small upsilon"
+  ],
+  [
+    "\\mbfitvarphi",
+    "mathematical bold italic small phi"
+  ],
+  [
+    "\\mbfitchi",
+    "mathematical bold italic small chi"
+  ],
+  [
+    "\\mbfitpsi",
+    "mathematical bold italic small psi"
+  ],
+  [
+    "\\mbfitomega",
+    "mathematical bold italic small omega"
+  ],
+  [
+    "\\mbfitpartial",
+    "mathematical bold italic partial differential"
+  ],
+  [
+    "\\mbfitepsilon",
+    "mathematical bold italic varepsilon symbol"
+  ],
+  [
+    "\\mbfitvartheta",
+    "mathematical bold italic theta symbol"
+  ],
+  [
+    "\\mbfitvarkappa",
+    "mathematical bold italic kappa symbol"
+  ],
+  [
+    "\\mbfitphi",
+    "mathematical bold italic phi symbol"
+  ],
+  [
+    "\\mbfitvarrho",
+    "mathematical bold italic rho symbol"
+  ],
+  [
+    "\\mbfitvarpi",
+    "mathematical bold italic pi symbol"
+  ],
+  [
+    "\\mbfsansAlpha",
+    "mathematical sans-serif bold capital alpha"
+  ],
+  [
+    "\\mbfsansBeta",
+    "mathematical sans-serif bold capital beta"
+  ],
+  [
+    "\\mbfsansGamma",
+    "mathematical sans-serif bold capital gamma"
+  ],
+  [
+    "\\mbfsansDelta",
+    "mathematical sans-serif bold capital delta"
+  ],
+  [
+    "\\mbfsansEpsilon",
+    "mathematical sans-serif bold capital epsilon"
+  ],
+  [
+    "\\mbfsansZeta",
+    "mathematical sans-serif bold capital zeta"
+  ],
+  [
+    "\\mbfsansEta",
+    "mathematical sans-serif bold capital eta"
+  ],
+  [
+    "\\mbfsansTheta",
+    "mathematical sans-serif bold capital theta"
+  ],
+  [
+    "\\mbfsansIota",
+    "mathematical sans-serif bold capital iota"
+  ],
+  [
+    "\\mbfsansKappa",
+    "mathematical sans-serif bold capital kappa"
+  ],
+  [
+    "\\mbfsansLambda",
+    "mathematical sans-serif bold capital lambda"
+  ],
+  [
+    "\\mbfsansMu",
+    "mathematical sans-serif bold capital mu"
+  ],
+  [
+    "\\mbfsansNu",
+    "mathematical sans-serif bold capital nu"
+  ],
+  [
+    "\\mbfsansXi",
+    "mathematical sans-serif bold capital xi"
+  ],
+  [
+    "\\mbfsansOmicron",
+    "mathematical sans-serif bold capital omicron"
+  ],
+  [
+    "\\mbfsansPi",
+    "mathematical sans-serif bold capital pi"
+  ],
+  [
+    "\\mbfsansRho",
+    "mathematical sans-serif bold capital rho"
+  ],
+  [
+    "\\mbfsansvarTheta",
+    "mathematical sans-serif bold capital theta symbol"
+  ],
+  [
+    "\\mbfsansSigma",
+    "mathematical sans-serif bold capital sigma"
+  ],
+  [
+    "\\mbfsansTau",
+    "mathematical sans-serif bold capital tau"
+  ],
+  [
+    "\\mbfsansUpsilon",
+    "mathematical sans-serif bold capital upsilon"
+  ],
+  [
+    "\\mbfsansPhi",
+    "mathematical sans-serif bold capital phi"
+  ],
+  [
+    "\\mbfsansChi",
+    "mathematical sans-serif bold capital chi"
+  ],
+  [
+    "\\mbfsansPsi",
+    "mathematical sans-serif bold capital psi"
+  ],
+  [
+    "\\mbfsansOmega",
+    "mathematical sans-serif bold capital omega"
+  ],
+  [
+    "\\mbfsansnabla",
+    "mathematical sans-serif bold nabla"
+  ],
+  [
+    "\\mbfsansalpha",
+    "mathematical sans-serif bold small alpha"
+  ],
+  [
+    "\\mbfsansbeta",
+    "mathematical sans-serif bold small beta"
+  ],
+  [
+    "\\mbfsansgamma",
+    "mathematical sans-serif bold small gamma"
+  ],
+  [
+    "\\mbfsansdelta",
+    "mathematical sans-serif bold small delta"
+  ],
+  [
+    "\\mbfsansvarepsilon",
+    "mathematical sans-serif bold small varepsilon"
+  ],
+  [
+    "\\mbfsanszeta",
+    "mathematical sans-serif bold small zeta"
+  ],
+  [
+    "\\mbfsanseta",
+    "mathematical sans-serif bold small eta"
+  ],
+  [
+    "\\mbfsanstheta",
+    "mathematical sans-serif bold small theta"
+  ],
+  [
+    "\\mbfsansiota",
+    "mathematical sans-serif bold small iota"
+  ],
+  [
+    "\\mbfsanskappa",
+    "mathematical sans-serif bold small kappa"
+  ],
+  [
+    "\\mbfsanslambda",
+    "mathematical sans-serif bold small lambda"
+  ],
+  [
+    "\\mbfsansmu",
+    "mathematical sans-serif bold small mu"
+  ],
+  [
+    "\\mbfsansnu",
+    "mathematical sans-serif bold small nu"
+  ],
+  [
+    "\\mbfsansxi",
+    "mathematical sans-serif bold small xi"
+  ],
+  [
+    "\\mbfsansomicron",
+    "mathematical sans-serif bold small omicron"
+  ],
+  [
+    "\\mbfsanspi",
+    "mathematical sans-serif bold small pi"
+  ],
+  [
+    "\\mbfsansrho",
+    "mathematical sans-serif bold small rho"
+  ],
+  [
+    "\\mbfsansvarsigma",
+    "mathematical sans-serif bold small final sigma"
+  ],
+  [
+    "\\mbfsanssigma",
+    "mathematical sans-serif bold small sigma"
+  ],
+  [
+    "\\mbfsanstau",
+    "mathematical sans-serif bold small tau"
+  ],
+  [
+    "\\mbfsansupsilon",
+    "mathematical sans-serif bold small upsilon"
+  ],
+  [
+    "\\mbfsansvarphi",
+    "mathematical sans-serif bold small phi"
+  ],
+  [
+    "\\mbfsanschi",
+    "mathematical sans-serif bold small chi"
+  ],
+  [
+    "\\mbfsanspsi",
+    "mathematical sans-serif bold small psi"
+  ],
+  [
+    "\\mbfsansomega",
+    "mathematical sans-serif bold small omega"
+  ],
+  [
+    "\\mbfsanspartial",
+    "mathematical sans-serif bold partial differential"
+  ],
+  [
+    "\\mbfsansepsilon",
+    "mathematical sans-serif bold varepsilon symbol"
+  ],
+  [
+    "\\mbfsansvartheta",
+    "mathematical sans-serif bold theta symbol"
+  ],
+  [
+    "\\mbfsansvarkappa",
+    "mathematical sans-serif bold kappa symbol"
+  ],
+  [
+    "\\mbfsansphi",
+    "mathematical sans-serif bold phi symbol"
+  ],
+  [
+    "\\mbfsansvarrho",
+    "mathematical sans-serif bold rho symbol"
+  ],
+  [
+    "\\mbfsansvarpi",
+    "mathematical sans-serif bold pi symbol"
+  ],
+  [
+    "\\mbfitsansAlpha",
+    "mathematical sans-serif bold italic capital alpha"
+  ],
+  [
+    "\\mbfitsansBeta",
+    "mathematical sans-serif bold italic capital beta"
+  ],
+  [
+    "\\mbfitsansGamma",
+    "mathematical sans-serif bold italic capital gamma"
+  ],
+  [
+    "\\mbfitsansDelta",
+    "mathematical sans-serif bold italic capital delta"
+  ],
+  [
+    "\\mbfitsansEpsilon",
+    "mathematical sans-serif bold italic capital epsilon"
+  ],
+  [
+    "\\mbfitsansZeta",
+    "mathematical sans-serif bold italic capital zeta"
+  ],
+  [
+    "\\mbfitsansEta",
+    "mathematical sans-serif bold italic capital eta"
+  ],
+  [
+    "\\mbfitsansTheta",
+    "mathematical sans-serif bold italic capital theta"
+  ],
+  [
+    "\\mbfitsansIota",
+    "mathematical sans-serif bold italic capital iota"
+  ],
+  [
+    "\\mbfitsansKappa",
+    "mathematical sans-serif bold italic capital kappa"
+  ],
+  [
+    "\\mbfitsansLambda",
+    "mathematical sans-serif bold italic capital lambda"
+  ],
+  [
+    "\\mbfitsansMu",
+    "mathematical sans-serif bold italic capital mu"
+  ],
+  [
+    "\\mbfitsansNu",
+    "mathematical sans-serif bold italic capital nu"
+  ],
+  [
+    "\\mbfitsansXi",
+    "mathematical sans-serif bold italic capital xi"
+  ],
+  [
+    "\\mbfitsansOmicron",
+    "mathematical sans-serif bold italic capital omicron"
+  ],
+  [
+    "\\mbfitsansPi",
+    "mathematical sans-serif bold italic capital pi"
+  ],
+  [
+    "\\mbfitsansRho",
+    "mathematical sans-serif bold italic capital rho"
+  ],
+  [
+    "\\mbfitsansvarTheta",
+    "mathematical sans-serif bold italic capital theta symbol"
+  ],
+  [
+    "\\mbfitsansSigma",
+    "mathematical sans-serif bold italic capital sigma"
+  ],
+  [
+    "\\mbfitsansTau",
+    "mathematical sans-serif bold italic capital tau"
+  ],
+  [
+    "\\mbfitsansUpsilon",
+    "mathematical sans-serif bold italic capital upsilon"
+  ],
+  [
+    "\\mbfitsansPhi",
+    "mathematical sans-serif bold italic capital phi"
+  ],
+  [
+    "\\mbfitsansChi",
+    "mathematical sans-serif bold italic capital chi"
+  ],
+  [
+    "\\mbfitsansPsi",
+    "mathematical sans-serif bold italic capital psi"
+  ],
+  [
+    "\\mbfitsansOmega",
+    "mathematical sans-serif bold italic capital omega"
+  ],
+  [
+    "\\mbfitsansnabla",
+    "mathematical sans-serif bold italic nabla"
+  ],
+  [
+    "\\mbfitsansalpha",
+    "mathematical sans-serif bold italic small alpha"
+  ],
+  [
+    "\\mbfitsansbeta",
+    "mathematical sans-serif bold italic small beta"
+  ],
+  [
+    "\\mbfitsansgamma",
+    "mathematical sans-serif bold italic small gamma"
+  ],
+  [
+    "\\mbfitsansdelta",
+    "mathematical sans-serif bold italic small delta"
+  ],
+  [
+    "\\mbfitsansvarepsilon",
+    "mathematical sans-serif bold italic small varepsilon"
+  ],
+  [
+    "\\mbfitsanszeta",
+    "mathematical sans-serif bold italic small zeta"
+  ],
+  [
+    "\\mbfitsanseta",
+    "mathematical sans-serif bold italic small eta"
+  ],
+  [
+    "\\mbfitsanstheta",
+    "mathematical sans-serif bold italic small theta"
+  ],
+  [
+    "\\mbfitsansiota",
+    "mathematical sans-serif bold italic small iota"
+  ],
+  [
+    "\\mbfitsanskappa",
+    "mathematical sans-serif bold italic small kappa"
+  ],
+  [
+    "\\mbfitsanslambda",
+    "mathematical sans-serif bold italic small lambda"
+  ],
+  [
+    "\\mbfitsansmu",
+    "mathematical sans-serif bold italic small mu"
+  ],
+  [
+    "\\mbfitsansnu",
+    "mathematical sans-serif bold italic small nu"
+  ],
+  [
+    "\\mbfitsansxi",
+    "mathematical sans-serif bold italic small xi"
+  ],
+  [
+    "\\mbfitsansomicron",
+    "mathematical sans-serif bold italic small omicron"
+  ],
+  [
+    "\\mbfitsanspi",
+    "mathematical sans-serif bold italic small pi"
+  ],
+  [
+    "\\mbfitsansrho",
+    "mathematical sans-serif bold italic small rho"
+  ],
+  [
+    "\\mbfitsansvarsigma",
+    "mathematical sans-serif bold italic small final sigma"
+  ],
+  [
+    "\\mbfitsanssigma",
+    "mathematical sans-serif bold italic small sigma"
+  ],
+  [
+    "\\mbfitsanstau",
+    "mathematical sans-serif bold italic small tau"
+  ],
+  [
+    "\\mbfitsansupsilon",
+    "mathematical sans-serif bold italic small upsilon"
+  ],
+  [
+    "\\mbfitsansvarphi",
+    "mathematical sans-serif bold italic small phi"
+  ],
+  [
+    "\\mbfitsanschi",
+    "mathematical sans-serif bold italic small chi"
+  ],
+  [
+    "\\mbfitsanspsi",
+    "mathematical sans-serif bold italic small psi"
+  ],
+  [
+    "\\mbfitsansomega",
+    "mathematical sans-serif bold italic small omega"
+  ],
+  [
+    "\\mbfitsanspartial",
+    "mathematical sans-serif bold italic partial differential"
+  ],
+  [
+    "\\mbfitsansepsilon",
+    "mathematical sans-serif bold italic varepsilon symbol"
+  ],
+  [
+    "\\mbfitsansvartheta",
+    "mathematical sans-serif bold italic theta symbol"
+  ],
+  [
+    "\\mbfitsansvarkappa",
+    "mathematical sans-serif bold italic kappa symbol"
+  ],
+  [
+    "\\mbfitsansphi",
+    "mathematical sans-serif bold italic phi symbol"
+  ],
+  [
+    "\\mbfitsansvarrho",
+    "mathematical sans-serif bold italic rho symbol"
+  ],
+  [
+    "\\mbfitsansvarpi",
+    "mathematical sans-serif bold italic pi symbol"
+  ],
+  [
+    "\\mbfDigamma",
+    "mathematical bold capital digamma"
+  ],
+  [
+    "\\mbfdigamma",
+    "mathematical bold small digamma"
+  ],
+  [
+    "\\mbfzero",
+    "mathematical bold digit 0"
+  ],
+  [
+    "\\mbfone",
+    "mathematical bold digit 1"
+  ],
+  [
+    "\\mbftwo",
+    "mathematical bold digit 2"
+  ],
+  [
+    "\\mbfthree",
+    "mathematical bold digit 3"
+  ],
+  [
+    "\\mbffour",
+    "mathematical bold digit 4"
+  ],
+  [
+    "\\mbffive",
+    "mathematical bold digit 5"
+  ],
+  [
+    "\\mbfsix",
+    "mathematical bold digit 6"
+  ],
+  [
+    "\\mbfseven",
+    "mathematical bold digit 7"
+  ],
+  [
+    "\\mbfeight",
+    "mathematical bold digit 8"
+  ],
+  [
+    "\\mbfnine",
+    "mathematical bold digit 9"
+  ],
+  [
+    "\\Bbbzero",
+    "mathematical double-struck digit 0"
+  ],
+  [
+    "\\Bbbone",
+    "mathematical double-struck digit 1"
+  ],
+  [
+    "\\Bbbtwo",
+    "mathematical double-struck digit 2"
+  ],
+  [
+    "\\Bbbthree",
+    "mathematical double-struck digit 3"
+  ],
+  [
+    "\\Bbbfour",
+    "mathematical double-struck digit 4"
+  ],
+  [
+    "\\Bbbfive",
+    "mathematical double-struck digit 5"
+  ],
+  [
+    "\\Bbbsix",
+    "mathematical double-struck digit 6"
+  ],
+  [
+    "\\Bbbseven",
+    "mathematical double-struck digit 7"
+  ],
+  [
+    "\\Bbbeight",
+    "mathematical double-struck digit 8"
+  ],
+  [
+    "\\Bbbnine",
+    "mathematical double-struck digit 9"
+  ],
+  [
+    "\\msanszero",
+    "mathematical sans-serif digit 0"
+  ],
+  [
+    "\\msansone",
+    "mathematical sans-serif digit 1"
+  ],
+  [
+    "\\msanstwo",
+    "mathematical sans-serif digit 2"
+  ],
+  [
+    "\\msansthree",
+    "mathematical sans-serif digit 3"
+  ],
+  [
+    "\\msansfour",
+    "mathematical sans-serif digit 4"
+  ],
+  [
+    "\\msansfive",
+    "mathematical sans-serif digit 5"
+  ],
+  [
+    "\\msanssix",
+    "mathematical sans-serif digit 6"
+  ],
+  [
+    "\\msansseven",
+    "mathematical sans-serif digit 7"
+  ],
+  [
+    "\\msanseight",
+    "mathematical sans-serif digit 8"
+  ],
+  [
+    "\\msansnine",
+    "mathematical sans-serif digit 9"
+  ],
+  [
+    "\\mbfsanszero",
+    "mathematical sans-serif bold digit 0"
+  ],
+  [
+    "\\mbfsansone",
+    "mathematical sans-serif bold digit 1"
+  ],
+  [
+    "\\mbfsanstwo",
+    "mathematical sans-serif bold digit 2"
+  ],
+  [
+    "\\mbfsansthree",
+    "mathematical sans-serif bold digit 3"
+  ],
+  [
+    "\\mbfsansfour",
+    "mathematical sans-serif bold digit 4"
+  ],
+  [
+    "\\mbfsansfive",
+    "mathematical sans-serif bold digit 5"
+  ],
+  [
+    "\\mbfsanssix",
+    "mathematical sans-serif bold digit 6"
+  ],
+  [
+    "\\mbfsansseven",
+    "mathematical sans-serif bold digit 7"
+  ],
+  [
+    "\\mbfsanseight",
+    "mathematical sans-serif bold digit 8"
+  ],
+  [
+    "\\mbfsansnine",
+    "mathematical sans-serif bold digit 9"
+  ],
+  [
+    "\\mttzero",
+    "mathematical monospace digit 0"
+  ],
+  [
+    "\\mttone",
+    "mathematical monospace digit 1"
+  ],
+  [
+    "\\mtttwo",
+    "mathematical monospace digit 2"
+  ],
+  [
+    "\\mttthree",
+    "mathematical monospace digit 3"
+  ],
+  [
+    "\\mttfour",
+    "mathematical monospace digit 4"
+  ],
+  [
+    "\\mttfive",
+    "mathematical monospace digit 5"
+  ],
+  [
+    "\\mttsix",
+    "mathematical monospace digit 6"
+  ],
+  [
+    "\\mttseven",
+    "mathematical monospace digit 7"
+  ],
+  [
+    "\\mtteight",
+    "mathematical monospace digit 8"
+  ],
+  [
+    "\\mttnine",
+    "mathematical monospace digit 9"
+  ],
+  [
+    "\\arabicmaj",
+    "arabic mathematical operator meem with hah with tatweel"
+  ],
+  [
+    "\\arabichad",
+    "arabic mathematical operator hah with dal"
+  ]
+]
