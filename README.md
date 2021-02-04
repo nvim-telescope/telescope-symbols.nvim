@@ -20,8 +20,8 @@ Otherwise, if you want to use a single or a number of symbol set, then pass a
 table with the symbol sources you like to use :
 
 ```vim
-:lua require'telescope.builtin'.symbol{ sources = {'emoji'} }
-:lua require'telescope.builtin'.symbol{ sources = {'emoji', 'kaomoji'} }
+:lua require'telescope.builtin'.symbols{ sources = {'emoji'} }
+:lua require'telescope.builtin'.symbols{ sources = {'emoji', 'kaomoji'} }
 ```
 
 In order for any source to be registered by telescope-symbols, it needs to be
