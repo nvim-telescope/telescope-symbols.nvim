@@ -21,7 +21,7 @@ table with the symbol sources you like to use :
 
 ```vim
 :lua require'telescope.builtin'.symbols{ sources = {'emoji'} }
-:lua require'telescope.builtin'.symbols{ sources = {'emoji', 'kaomoji'} }
+:lua require'telescope.builtin'.symbols{ sources = {'emoji', 'kaomoji', 'gitmoji'} }
 ```
 
 In order for any source to be registered by telescope-symbols, it needs to be
@@ -68,3 +68,4 @@ All credit goes to the creators of those files.
 - [kaomoji](https://github.com/kuanyui/kaomoji.el/blob/master/kaomoji-data.el)
 - [math](https://raw.githubusercontent.com/wspr/unicode-math/ef5688f303d7010138632ab45ef2440d3ca20ee5/unicode-math-table.tex)
 - [latex](https://raw.githubusercontent.com/wspr/unicode-math/ef5688f303d7010138632ab45ef2440d3ca20ee5/unicode-math-table.tex)
+- [gitmoji](https://gitmoji.dev/api/gitmojis)
