@@ -132,7 +132,18 @@ local get_kaomoji_source = function()
   write_to_file(json, 'kaomoji.json')
 end
 
+local get_gitmoji_source = function()
+  local source = vim.fn.json_decode(curl.get('https://gitmoji.dev/api/gitmojis').body)
+  local mod = {}
+  for _, gitmoji in ipairs(source['gitmojis']) do
+    table.insert(mod, { gitmoji['emoji'], gitmoji['description'] })
+  end
+  local json = vim.fn.json_encode(mod)
+  write_to_file(json, 'gitmoji.json')
+end
+
 get_emoji_source()
 get_math_source()
 get_latex_source()
 get_kaomoji_source()
+get_gitmoji_source()
