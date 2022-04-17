@@ -142,8 +142,56 @@ local get_gitmoji_source = function()
   write_to_file(json, 'gitmoji.json')
 end
 
+local get_nerd_source = function()
+  local source_files = {
+    'i_dev.sh', 'i_fa.sh', 'i_fae.sh', 'i_iec.sh', 'i_linux.sh', 'i_material.sh',
+    'i_oct.sh', 'i_ple.sh', 'i_pom.sh', 'i_seti.sh', 'i_weather.sh'
+  }
+  local mod = {}
+
+  for _, file in ipairs(source_files) do
+    local source = vim.split(curl.get('https://github.com/ryanoasis/nerd-fonts/raw/master/bin/scripts/lib/' .. file).body:gsub('\n      ', ' '), '\n')
+    local group = file:gsub('i_', '')
+    group = group:gsub('%.sh', '')
+
+    for _, line in ipairs(source) do
+      if not line:find('i=') then
+        goto continue
+      end
+      if not line:find('=%$i') then
+        goto continue
+      end
+      line = line:gsub('i=\'', '')
+      line = line:gsub('=%$i%g*', '')
+
+      -- Follow the naming scheme of https://www.nerdfonts.com/cheat-sheet
+      if file == 'i_material.sh' then
+        line = line:gsub('i_mdi_', 'nf-mdi-')
+      elseif file == 'i_ple.sh' then
+        line = line:gsub('i_pl_', 'nf-pl-')
+        line = line:gsub('i_ple_', 'nf-ple-')
+      elseif file == 'i_seti.sh' then
+        line = line:gsub('i_seti_', 'nf-seti-')
+        line = line:gsub('i_custom_', 'nf-custom-')
+        line = line:gsub('i_indent_', 'nf-indent-')
+        line = line:gsub('i_indentation_', 'nf-indentation-')
+      else
+        line = line:gsub('i_' .. group .. '_', 'nf-' .. group .. '-')
+      end
+
+      local symbol, description = line:match('(.-)\'%s(.*)')
+      table.insert(mod, { symbol, description })
+      ::continue::
+    end
+  end
+
+  local json = vim.fn.json_encode(mod)
+  write_to_file(json, 'nerd.json')
+end
+
 get_emoji_source()
 get_math_source()
 get_latex_source()
 get_kaomoji_source()
 get_gitmoji_source()
+get_nerd_source()
