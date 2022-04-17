@@ -48,6 +48,10 @@
     "Fix security issues."
   ],
   [
+    "🔐",
+    "Add or update secrets."
+  ],
+  [
     "🔖",
     "Release / Version tags."
   ],
@@ -262,5 +266,17 @@
   [
     "👔",
     "Add or update business logic"
+  ],
+  [
+    "🩺",
+    "Add or update healthcheck."
+  ],
+  [
+    "🧱",
+    "Infrastructure related changes."
+  ],
+  [
+    "🧑‍💻",
+    "Improve developer experience"
   ]
 ]
