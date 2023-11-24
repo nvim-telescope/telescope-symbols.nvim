@@ -45,7 +45,7 @@
   ],
   [
     "🔒️",
-    "Fix security issues."
+    "Fix security or privacy issues."
   ],
   [
     "🔐",
@@ -265,7 +265,7 @@
   ],
   [
     "👔",
-    "Add or update business logic"
+    "Add or update business logic."
   ],
   [
     "🩺",
@@ -277,6 +277,18 @@
   ],
   [
     "🧑‍💻",
-    "Improve developer experience"
+    "Improve developer experience."
+  ],
+  [
+    "💸",
+    "Add sponsorships or money related infrastructure."
+  ],
+  [
+    "🧵",
+    "Add or update code related to multithreading or concurrency."
+  ],
+  [
+    "🦺",
+    "Add or update code related to validation."
   ]
 ]
