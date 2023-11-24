@@ -55,7 +55,7 @@ local utf8 = function(cp)
 end
 
 local get_emoji_source = function()
-  local source = vim.split(curl.get('https://www.unicode.org/Public/emoji/13.1/emoji-test.txt').body, '\n')
+  local source = vim.split(curl.get('https://www.unicode.org/Public/emoji/15.1/emoji-test.txt').body, '\n')
   local mod = {}
   for _, line in ipairs(source) do
     if not line:find('; fully.qualified') then -- only emojis
