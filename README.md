@@ -64,7 +64,7 @@ For Example:
 
 All credit goes to the creators of those files.
 
-- [emoji](https://www.unicode.org/Public/emoji/13.1/emoji-test.txt)
+- [emoji](https://www.unicode.org/Public/emoji/15.1/emoji-test.txt)
 - [kaomoji](https://github.com/kuanyui/kaomoji.el/blob/master/kaomoji-data.el)
 - [math](https://raw.githubusercontent.com/wspr/unicode-math/ef5688f303d7010138632ab45ef2440d3ca20ee5/unicode-math-table.tex)
 - [latex](https://raw.githubusercontent.com/wspr/unicode-math/ef5688f303d7010138632ab45ef2440d3ca20ee5/unicode-math-table.tex)
