@@ -5904,6 +5904,274 @@
     "nf-linux-zorin"
   ],
   [
+    "",
+    "nf-linux-codeberg"
+  ],
+  [
+    "",
+    "nf-linux-kde_neon"
+  ],
+  [
+    "",
+    "nf-linux-kde_plasma"
+  ],
+  [
+    "",
+    "nf-linux-kubuntu"
+  ],
+  [
+    "",
+    "nf-linux-kubuntu_inverse"
+  ],
+  [
+    "",
+    "nf-linux-forgejo"
+  ],
+  [
+    "",
+    "nf-linux-freecad"
+  ],
+  [
+    "",
+    "nf-linux-garuda"
+  ],
+  [
+    "",
+    "nf-linux-gimp"
+  ],
+  [
+    "",
+    "nf-linux-gitea"
+  ],
+  [
+    "",
+    "nf-linux-hyperbola"
+  ],
+  [
+    "",
+    "nf-linux-inkscape"
+  ],
+  [
+    "",
+    "nf-linux-kdenlive"
+  ],
+  [
+    "",
+    "nf-linux-krita"
+  ],
+  [
+    "",
+    "nf-linux-lxle"
+  ],
+  [
+    "",
+    "nf-linux-mxlinux"
+  ],
+  [
+    "",
+    "nf-linux-parabola"
+  ],
+  [
+    "",
+    "nf-linux-puppy"
+  ],
+  [
+    "",
+    "nf-linux-qubesos"
+  ],
+  [
+    "",
+    "nf-linux-tails"
+  ],
+  [
+    "",
+    "nf-linux-trisquel"
+  ],
+  [
+    "",
+    "nf-linux-archcraft"
+  ],
+  [
+    "",
+    "nf-linux-arcolinux"
+  ],
+  [
+    "",
+    "nf-linux-biglinux"
+  ],
+  [
+    "",
+    "nf-linux-crystal"
+  ],
+  [
+    "",
+    "nf-linux-locos"
+  ],
+  [
+    "",
+    "nf-linux-xerolinux"
+  ],
+  [
+    "",
+    "nf-linux-arduino"
+  ],
+  [
+    "",
+    "nf-linux-kicad"
+  ],
+  [
+    "",
+    "nf-linux-octoprint"
+  ],
+  [
+    "",
+    "nf-linux-openscad"
+  ],
+  [
+    "",
+    "nf-linux-osh"
+  ],
+  [
+    "",
+    "nf-linux-oshwa"
+  ],
+  [
+    "",
+    "nf-linux-prusaslicer"
+  ],
+  [
+    "",
+    "nf-linux-reprap"
+  ],
+  [
+    "",
+    "nf-linux-riscv"
+  ],
+  [
+    "",
+    "nf-linux-awesome"
+  ],
+  [
+    "",
+    "nf-linux-bspwm"
+  ],
+  [
+    "",
+    "nf-linux-dwm"
+  ],
+  [
+    "",
+    "nf-linux-enlightenment"
+  ],
+  [
+    "",
+    "nf-linux-fluxbox"
+  ],
+  [
+    "",
+    "nf-linux-hyprland"
+  ],
+  [
+    "",
+    "nf-linux-i3"
+  ],
+  [
+    "",
+    "nf-linux-jwm"
+  ],
+  [
+    "",
+    "nf-linux-qtile"
+  ],
+  [
+    "",
+    "nf-linux-sway"
+  ],
+  [
+    "",
+    "nf-linux-xmonad"
+  ],
+  [
+    "",
+    "nf-linux-cinnamon"
+  ],
+  [
+    "",
+    "nf-linux-freedesktop"
+  ],
+  [
+    "",
+    "nf-linux-gnome"
+  ],
+  [
+    "",
+    "nf-linux-gtk"
+  ],
+  [
+    "",
+    "nf-linux-lxde"
+  ],
+  [
+    "",
+    "nf-linux-lxqt"
+  ],
+  [
+    "",
+    "nf-linux-mate"
+  ],
+  [
+    "",
+    "nf-linux-vanilla"
+  ],
+  [
+    "",
+    "nf-linux-wayland"
+  ],
+  [
+    "",
+    "nf-linux-xfce"
+  ],
+  [
+    "",
+    "nf-linux-xorg"
+  ],
+  [
+    "",
+    "nf-linux-fdroid"
+  ],
+  [
+    "",
+    "nf-linux-fosdem"
+  ],
+  [
+    "",
+    "nf-linux-osi"
+  ],
+  [
+    "",
+    "nf-linux-wikimedia"
+  ],
+  [
+    "",
+    "nf-linux-mpv"
+  ],
+  [
+    "",
+    "nf-linux-neovim"
+  ],
+  [
+    "",
+    "nf-linux-thunderbird"
+  ],
+  [
+    "",
+    "nf-linux-tor"
+  ],
+  [
+    "",
+    "nf-linux-vscodium"
+  ],
+  [
     "",
     "nf-mdi-vector_square"
   ],
@@ -41997,7 +42265,7 @@
   ],
   [
     "",
-    "nf-oct-octoface"
+    "nf-oct-accessibility"
   ],
   [
     "",
@@ -42009,19 +42277,19 @@
   ],
   [
     "",
-    "nf-oct-cloud_download"
+    "nf-oct-download"
   ],
   [
     "",
-    "nf-oct-cloud_upload"
+    "nf-oct-upload"
   ],
   [
     "",
-    "nf-oct-keyboard"
+    "nf-oct-accessibility_inset"
   ],
   [
     "",
-    "nf-oct-gist"
+    "nf-oct-alert_fill"
   ],
   [
     "",
@@ -42029,7 +42297,7 @@
   ],
   [
     "",
-    "nf-oct-file_text"
+    "nf-oct-apps"
   ],
   [
     "",
@@ -42041,7 +42309,7 @@
   ],
   [
     "",
-    "nf-oct-file_pdf"
+    "nf-oct-archive"
   ],
   [
     "",
@@ -42061,7 +42329,7 @@
   ],
   [
     "",
-    "nf-oct-jersey"
+    "nf-oct-arrow_both"
   ],
   [
     "",
@@ -42117,7 +42385,7 @@
   ],
   [
     "",
-    "nf-oct-radio_tower"
+    "nf-oct-arrow_down_left"
   ],
   [
     "",
@@ -42137,7 +42405,7 @@
   ],
   [
     "",
-    "nf-oct-clippy"
+    "nf-oct-paste"
   ],
   [
     "",
@@ -42165,7 +42433,7 @@
   ],
   [
     "",
-    "nf-oct-mail_read"
+    "nf-oct-read"
   ],
   [
     "",
@@ -42221,7 +42489,7 @@
   ],
   [
     "",
-    "nf-oct-repo_force_push"
+    "nf-oct-arrow_down_right"
   ],
   [
     "",
@@ -42241,15 +42509,15 @@
   ],
   [
     "",
-    "nf-oct-mail_reply"
+    "nf-oct-arrow_switch"
   ],
   [
     "",
-    "nf-oct-primitive_dot"
+    "nf-oct-dot_fill"
   ],
   [
     "",
-    "nf-oct-primitive_square"
+    "nf-oct-square_fill"
   ],
   [
     "",
@@ -42341,7 +42609,7 @@
   ],
   [
     "",
-    "nf-oct-arrow_small_right"
+    "nf-oct-arrow_up_left"
   ],
   [
     "",
@@ -42365,11 +42633,11 @@
   ],
   [
     "",
-    "nf-oct-settings"
+    "nf-oct-sliders"
   ],
   [
     "",
-    "nf-oct-dashboard"
+    "nf-oct-meter"
   ],
   [
     "",
@@ -42405,7 +42673,7 @@
   ],
   [
     "",
-    "nf-oct-gist_secret"
+    "nf-oct-arrow_up_right"
   ],
   [
     "",
@@ -42445,7 +42713,7 @@
   ],
   [
     "",
-    "nf-oct-no_newline"
+    "nf-oct-bell_fill"
   ],
   [
     "",
@@ -42453,15 +42721,15 @@
   ],
   [
     "",
-    "nf-oct-arrow_small_up"
+    "nf-oct-bell_slash"
   ],
   [
     "",
-    "nf-oct-arrow_small_down"
+    "nf-oct-blocked"
   ],
   [
     "",
-    "nf-oct-arrow_small_left"
+    "nf-oct-bookmark_fill"
   ],
   [
     "",
@@ -42541,11 +42809,11 @@
   ],
   [
     "",
-    "nf-oct-trashcan"
+    "nf-oct-trash"
   ],
   [
     "",
-    "nf-oct-paintcan"
+    "nf-oct-paintbrush"
   ],
   [
     "",
@@ -42561,7 +42829,7 @@
   ],
   [
     "",
-    "nf-oct-circuit_board"
+    "nf-oct-bookmark_slash_fill"
   ],
   [
     "",
@@ -42593,7 +42861,7 @@
   ],
   [
     "",
-    "nf-oct-watch"
+    "nf-oct-cache"
   ],
   [
     "",
@@ -42605,7 +42873,7 @@
   ],
   [
     "",
-    "nf-oct-text_size"
+    "nf-oct-check_circle"
   ],
   [
     "",
@@ -42629,7 +42897,7 @@
   ],
   [
     "",
-    "nf-oct-ellipses"
+    "nf-oct-check_circle_fill"
   ],
   [
     "",
@@ -42641,15 +42909,567 @@
   ],
   [
     "",
-    "nf-oct-plus_small"
+    "nf-oct-checkbox"
   ],
   [
     "",
     "nf-oct-reply"
   ],
   [
-    "",
+    "",
     "nf-oct-device_desktop"
+  ],
+  [
+    "",
+    "nf-oct-circle"
+  ],
+  [
+    "",
+    "nf-oct-clock_fill"
+  ],
+  [
+    "",
+    "nf-oct-cloud"
+  ],
+  [
+    "",
+    "nf-oct-cloud_offline"
+  ],
+  [
+    "",
+    "nf-oct-code_of_conduct"
+  ],
+  [
+    "",
+    "nf-oct-code_review"
+  ],
+  [
+    "",
+    "nf-oct-code_square"
+  ],
+  [
+    "",
+    "nf-oct-codescan"
+  ],
+  [
+    "",
+    "nf-oct-codescan_checkmark"
+  ],
+  [
+    "",
+    "nf-oct-codespaces"
+  ],
+  [
+    "",
+    "nf-oct-columns"
+  ],
+  [
+    "",
+    "nf-oct-command_palette"
+  ],
+  [
+    "",
+    "nf-oct-commit"
+  ],
+  [
+    "",
+    "nf-oct-container"
+  ],
+  [
+    "",
+    "nf-oct-copilot"
+  ],
+  [
+    "",
+    "nf-oct-copilot_error"
+  ],
+  [
+    "",
+    "nf-oct-copilot_warning"
+  ],
+  [
+    "",
+    "nf-oct-copy"
+  ],
+  [
+    "",
+    "nf-oct-cpu"
+  ],
+  [
+    "",
+    "nf-oct-cross_reference"
+  ],
+  [
+    "",
+    "nf-oct-dependabot"
+  ],
+  [
+    "",
+    "nf-oct-diamond"
+  ],
+  [
+    "",
+    "nf-oct-discussion_closed"
+  ],
+  [
+    "",
+    "nf-oct-discussion_duplicate"
+  ],
+  [
+    "",
+    "nf-oct-discussion_outdated"
+  ],
+  [
+    "",
+    "nf-oct-dot"
+  ],
+  [
+    "",
+    "nf-oct-duplicate"
+  ],
+  [
+    "",
+    "nf-oct-eye_closed"
+  ],
+  [
+    "",
+    "nf-oct-feed_discussion"
+  ],
+  [
+    "",
+    "nf-oct-feed_forked"
+  ],
+  [
+    "",
+    "nf-oct-feed_heart"
+  ],
+  [
+    "",
+    "nf-oct-feed_merged"
+  ],
+  [
+    "",
+    "nf-oct-feed_person"
+  ],
+  [
+    "",
+    "nf-oct-feed_repo"
+  ],
+  [
+    "",
+    "nf-oct-feed_rocket"
+  ],
+  [
+    "",
+    "nf-oct-feed_star"
+  ],
+  [
+    "",
+    "nf-oct-feed_tag"
+  ],
+  [
+    "",
+    "nf-oct-feed_trophy"
+  ],
+  [
+    "",
+    "nf-oct-file_added"
+  ],
+  [
+    "",
+    "nf-oct-file_badge"
+  ],
+  [
+    "",
+    "nf-oct-file_diff"
+  ],
+  [
+    "",
+    "nf-oct-file_directory_fill"
+  ],
+  [
+    "",
+    "nf-oct-file_directory_open_fill"
+  ],
+  [
+    "",
+    "nf-oct-file_moved"
+  ],
+  [
+    "",
+    "nf-oct-file_removed"
+  ],
+  [
+    "",
+    "nf-oct-filter"
+  ],
+  [
+    "",
+    "nf-oct-fiscal_host"
+  ],
+  [
+    "",
+    "nf-oct-fold_down"
+  ],
+  [
+    "",
+    "nf-oct-fold_up"
+  ],
+  [
+    "",
+    "nf-oct-git_merge_queue"
+  ],
+  [
+    "",
+    "nf-oct-git_pull_request_closed"
+  ],
+  [
+    "",
+    "nf-oct-git_pull_request_draft"
+  ],
+  [
+    "",
+    "nf-oct-goal"
+  ],
+  [
+    "",
+    "nf-oct-hash"
+  ],
+  [
+    "",
+    "nf-oct-heading"
+  ],
+  [
+    "",
+    "nf-oct-heart_fill"
+  ],
+  [
+    "",
+    "nf-oct-home_fill"
+  ],
+  [
+    "",
+    "nf-oct-hourglass"
+  ],
+  [
+    "",
+    "nf-oct-id_badge"
+  ],
+  [
+    "",
+    "nf-oct-image"
+  ],
+  [
+    "",
+    "nf-oct-infinity"
+  ],
+  [
+    "",
+    "nf-oct-issue_draft"
+  ],
+  [
+    "",
+    "nf-oct-issue_tracked_by"
+  ],
+  [
+    "",
+    "nf-oct-issue_tracks"
+  ],
+  [
+    "",
+    "nf-oct-iterations"
+  ],
+  [
+    "",
+    "nf-oct-kebab_horizontal"
+  ],
+  [
+    "",
+    "nf-oct-key_asterisk"
+  ],
+  [
+    "",
+    "nf-oct-log"
+  ],
+  [
+    "",
+    "nf-oct-moon"
+  ],
+  [
+    "",
+    "nf-oct-move_to_bottom"
+  ],
+  [
+    "",
+    "nf-oct-move_to_end"
+  ],
+  [
+    "",
+    "nf-oct-move_to_start"
+  ],
+  [
+    "",
+    "nf-oct-move_to_top"
+  ],
+  [
+    "",
+    "nf-oct-multi_select"
+  ],
+  [
+    "",
+    "nf-oct-no_entry"
+  ],
+  [
+    "",
+    "nf-oct-north_star"
+  ],
+  [
+    "",
+    "nf-oct-note"
+  ],
+  [
+    "",
+    "nf-oct-number"
+  ],
+  [
+    "",
+    "nf-oct-package_dependencies"
+  ],
+  [
+    "",
+    "nf-oct-package_dependents"
+  ],
+  [
+    "",
+    "nf-oct-paper_airplane"
+  ],
+  [
+    "",
+    "nf-oct-paperclip"
+  ],
+  [
+    "",
+    "nf-oct-passkey_fill"
+  ],
+  [
+    "",
+    "nf-oct-people"
+  ],
+  [
+    "",
+    "nf-oct-person_add"
+  ],
+  [
+    "",
+    "nf-oct-person_fill"
+  ],
+  [
+    "",
+    "nf-oct-play"
+  ],
+  [
+    "",
+    "nf-oct-plus_circle"
+  ],
+  [
+    "",
+    "nf-oct-project"
+  ],
+  [
+    "",
+    "nf-oct-project_roadmap"
+  ],
+  [
+    "",
+    "nf-oct-project_symlink"
+  ],
+  [
+    "",
+    "nf-oct-project_template"
+  ],
+  [
+    "",
+    "nf-oct-rel_file_path"
+  ],
+  [
+    "",
+    "nf-oct-repo_deleted"
+  ],
+  [
+    "",
+    "nf-oct-repo_locked"
+  ],
+  [
+    "",
+    "nf-oct-repo_template"
+  ],
+  [
+    "",
+    "nf-oct-report"
+  ],
+  [
+    "",
+    "nf-oct-rows"
+  ],
+  [
+    "",
+    "nf-oct-screen_full"
+  ],
+  [
+    "",
+    "nf-oct-screen_normal"
+  ],
+  [
+    "",
+    "nf-oct-share"
+  ],
+  [
+    "",
+    "nf-oct-share_android"
+  ],
+  [
+    "",
+    "nf-oct-shield_check"
+  ],
+  [
+    "",
+    "nf-oct-shield_lock"
+  ],
+  [
+    "",
+    "nf-oct-shield_slash"
+  ],
+  [
+    "",
+    "nf-oct-shield_x"
+  ],
+  [
+    "",
+    "nf-oct-sidebar_collapse"
+  ],
+  [
+    "",
+    "nf-oct-sidebar_expand"
+  ],
+  [
+    "",
+    "nf-oct-single_select"
+  ],
+  [
+    "",
+    "nf-oct-skip"
+  ],
+  [
+    "",
+    "nf-oct-skip_fill"
+  ],
+  [
+    "",
+    "nf-oct-sort_asc"
+  ],
+  [
+    "",
+    "nf-oct-sort_desc"
+  ],
+  [
+    "",
+    "nf-oct-sparkle_fill"
+  ],
+  [
+    "",
+    "nf-oct-sponsor_tiers"
+  ],
+  [
+    "",
+    "nf-oct-square"
+  ],
+  [
+    "",
+    "nf-oct-stack"
+  ],
+  [
+    "",
+    "nf-oct-star_fill"
+  ],
+  [
+    "",
+    "nf-oct-stopwatch"
+  ],
+  [
+    "",
+    "nf-oct-strikethrough"
+  ],
+  [
+    "",
+    "nf-oct-sun"
+  ],
+  [
+    "",
+    "nf-oct-tab"
+  ],
+  [
+    "",
+    "nf-oct-tab_external"
+  ],
+  [
+    "",
+    "nf-oct-table"
+  ],
+  [
+    "",
+    "nf-oct-telescope_fill"
+  ],
+  [
+    "",
+    "nf-oct-trophy"
+  ],
+  [
+    "",
+    "nf-oct-typography"
+  ],
+  [
+    "",
+    "nf-oct-unlink"
+  ],
+  [
+    "",
+    "nf-oct-unlock"
+  ],
+  [
+    "",
+    "nf-oct-unread"
+  ],
+  [
+    "",
+    "nf-oct-video"
+  ],
+  [
+    "",
+    "nf-oct-webhook"
+  ],
+  [
+    "",
+    "nf-oct-workflow"
+  ],
+  [
+    "",
+    "nf-oct-x_circle"
+  ],
+  [
+    "",
+    "nf-oct-x_circle_fill"
+  ],
+  [
+    "",
+    "nf-oct-zoom_in"
+  ],
+  [
+    "",
+    "nf-oct-zoom_out"
+  ],
+  [
+    "",
+    "nf-oct-bookmark_slash"
   ],
   [
     "",
@@ -43564,6 +44384,26 @@
     "nf-custom-v_lang"
   ],
   [
+    "",
+    "nf-custom-folder_oct"
+  ],
+  [
+    "",
+    "nf-custom-neovim"
+  ],
+  [
+    "",
+    "nf-custom-fennel"
+  ],
+  [
+    "",
+    "nf-custom-common_lisp"
+  ],
+  [
+    "",
+    "nf-custom-scheme"
+  ],
+  [
     "",
     "nf-weather-day_cloudy_gusts"
   ],
@@ -43717,7 +44557,7 @@
   ],
   [
     "",
-    "nf-weather-night_alt_rain_mix"
+    "nf-weather-night_alt_showers"
   ],
   [
     "",
