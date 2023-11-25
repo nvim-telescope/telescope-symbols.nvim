@@ -67,5 +67,5 @@ All credit goes to the creators of those files.
 - [emoji](https://www.unicode.org/Public/emoji/15.1/emoji-test.txt)
 - [kaomoji](https://github.com/kuanyui/kaomoji.el/blob/master/kaomoji-data.el)
 - [math](https://raw.githubusercontent.com/wspr/unicode-math/ef5688f303d7010138632ab45ef2440d3ca20ee5/unicode-math-table.tex)
-- [latex](https://raw.githubusercontent.com/wspr/unicode-math/ef5688f303d7010138632ab45ef2440d3ca20ee5/unicode-math-table.tex)
+- [latex](https://milde.users.sourceforge.net/LUCR/Math/data/unimathsymbols.txt)
 - [gitmoji](https://gitmoji.dev/api/gitmojis)
